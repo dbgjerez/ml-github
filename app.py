@@ -11,12 +11,12 @@ class Repo:
     clones_total: int
     clones_uniques: int
 
+data = []
 
 for repo in g.get_user().get_repos():
     name = repo.name
     clones = repo.get_clones_traffic()
     views = repo.get_views_traffic()
     for v in views["views"]: 
-
         print(repo.name, " ==> ", v.timestamp, v.uniques, v.count)
     #print(repo.name, " ==> ", clones, " ===> ", views)
