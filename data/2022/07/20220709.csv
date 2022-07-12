@@ -1,0 +1,5 @@
+,name,ts,stars_count,views_total,views_uniques,clones_total,clones_uniques
+0,golang-rest-api-cassandra,2022-07-09,2,8,1,0,0
+1,mqtt-golang-influxdb,2022-07-09,9,0,0,2,1
+2,spring-kotlin-crud,2022-07-09,6,15,2,0,0
+3,ta,2022-07-09,3,0,0,10,9
