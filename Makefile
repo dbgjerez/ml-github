@@ -20,5 +20,5 @@ git: ## Upload the changes to repository
 	git commit -m 'update process'
 	git push
 
-.PHONY: cron
-cron: update notebook git
+.PHONY: all
+all: update notebook git
