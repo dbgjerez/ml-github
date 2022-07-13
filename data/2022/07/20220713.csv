@@ -1,8 +1,10 @@
 ,name,ts,stars_count,views_total,views_uniques,clones_total,clones_uniques
-0,b0rr3g0-blog,2022-07-13,0,0,0,1,1
-1,golang-rest-api-cassandra,2022-07-13,2,2,1,42,32
-2,iot-devices-crud,2022-07-13,0,0,0,22,19
-3,ml-github,2022-07-13,0,6,1,4,3
-4,mqtt-golang-influxdb,2022-07-13,9,0,0,21,14
-5,quarkus-kotlin-example,2022-07-13,2,0,0,1,1
-6,ta,2022-07-13,3,0,0,23,17
+0,ansible-base,2022-07-13,0,1,1,0,0
+1,b0rr3g0-blog,2022-07-13,0,0,0,5,3
+2,golang-rest-api-cassandra,2022-07-13,2,2,1,56,40
+3,hugo-PaperMod,2022-07-13,0,1,1,0,0
+4,iot-devices-crud,2022-07-13,0,0,0,35,24
+5,ml-github,2022-07-13,1,26,3,12,7
+6,mqtt-golang-influxdb,2022-07-13,9,0,0,36,20
+7,quarkus-kotlin-example,2022-07-13,2,8,1,1,1
+8,ta,2022-07-13,3,0,0,38,29
