@@ -2,6 +2,9 @@ Github provides us with an API to extract the last 14 days' stats over our repos
 
 This project aims to amplify and analyse them.
 
+# Clean data
+This repository contains my stats into ```data``` folder. You can remove it because you will generate your own data. 
+
 # Get the data
 
 To get the data you should use the ```app.py``` file. 
