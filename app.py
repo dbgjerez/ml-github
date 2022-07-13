@@ -1,8 +1,11 @@
 from dataclasses import dataclass
+from dotenv import load_dotenv
 from datetime import datetime
 from github import Github
 import pandas as pd
 import os
+
+load_dotenv(".env", override=True)
 
 def file_path(date):
     dir = "data/" + date.strftime("%Y/%m/")
