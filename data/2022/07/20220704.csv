@@ -3,7 +3,7 @@
 1,golang-rest-api-cassandra,2022-07-04,2,0,0,63,31
 2,iot-devices-crud,2022-07-04,0,3,1,5,4
 3,library,2022-07-04,0,28,1,0,0
-4,mqtt-golang-influxdb,2022-07-04,9,2,1,32,24
+4,mqtt-golang-influxdb,2022-07-04,10,2,1,32,24
 5,quarkus-kotlin-example,2022-07-04,2,7,2,0,0
 6,service-mesh-wasm-go,2022-07-04,0,0,0,5,3
 7,ta,2022-07-04,3,10,2,152,57

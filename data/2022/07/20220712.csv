@@ -5,7 +5,7 @@
 3,iot-devices-crud,2022-07-12,0,0,0,31,24
 4,kustomize-vs-helm,2022-07-12,3,17,2,0,0
 5,ml-github,2022-07-12,1,13,1,10,5
-6,mqtt-golang-influxdb,2022-07-12,9,2,2,53,35
+6,mqtt-golang-influxdb,2022-07-12,10,2,2,53,35
 7,pelorus-workshop,2022-07-12,0,3,1,0,0
 8,quarkus-kotlin-example,2022-07-12,2,85,1,0,0
 9,service-mesh-wasm-go,2022-07-12,0,6,1,1,1
