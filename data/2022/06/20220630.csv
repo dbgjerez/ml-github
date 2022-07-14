@@ -1,6 +1,4 @@
 ,name,ts,stars_count,views_total,views_uniques,clones_total,clones_uniques
 0,golang-rest-api-cassandra,2022-06-30,2,0,0,2,2
 1,ic-gradle,2022-06-30,0,1,1,0,0
-2,kotlin-ktor,2022-06-30,5,2,1,0,0
-3,ml-learning,2022-06-30,0,0,0,6,5
-4,spring-cloud-dataflow,2022-06-30,0,0,0,1,1
+2,spring-cloud-dataflow,2022-06-30,0,0,0,1,1
