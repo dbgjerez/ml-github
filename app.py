@@ -32,7 +32,7 @@ g = Github(token)
 days = dict()
 
 github_repos = g.get_user().get_repos()
-print("[ dbgjerez ]:", github_repos.totalCount, "repositories")
+print("[", g.get_user().login, "]:", github_repos.totalCount, "repositories")
 for repo in github_repos:
     name = repo.name
 
@@ -62,4 +62,3 @@ for d in days.keys():
     df = pd.DataFrame(data = [r.__dict__ for r in days[d].values()])
     ts = datetime.strptime(d, "%Y%m%d")
     df.to_csv(file_path(ts))
-
