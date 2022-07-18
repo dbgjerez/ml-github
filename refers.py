@@ -32,4 +32,4 @@ for repo in github_repos:
         refers.append(Refer(repo=repo.name, ts=format_date(datetime.now()), name=refer.referrer, total=refer.count, uniques=refer.uniques))
 
 df = pd.DataFrame(data = [r.__dict__ for r in refers])
-df.to_csv("data/refers.csv")
+df.to_csv("refers.csv")
