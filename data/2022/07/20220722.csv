@@ -1,0 +1,5 @@
+,name,ts,stars_count,views_total,views_uniques,clones_total,clones_uniques
+0,golang-rest-api-cassandra,2022-07-22,2,0,0,11,10
+1,mqtt-golang-influxdb,2022-07-22,10,0,0,9,8
+2,quarkus-kotlin-example,2022-07-22,2,7,1,0,0
+3,ta,2022-07-22,3,0,0,7,6
