@@ -1,8 +1,6 @@
 ,name,ts,stars_count,views_total,views_uniques,clones_total,clones_uniques
-0,b0rr3g0-blog,2022-07-08,0,6,1,8,4
+0,b0rr3g0-blog,2022-07-08,0,0,0,2,1
 1,golang-rest-api-cassandra,2022-07-08,2,3,1,0,0
-2,jenkins-pipeline,2022-07-08,1,1,1,0,0
-3,kotlin-ktor,2022-07-08,5,4,1,0,0
-4,mqtt-golang-influxdb,2022-07-08,10,5,2,1,1
-5,pelorus-workshop,2022-07-08,0,6,2,0,0
-6,ta,2022-07-08,3,0,0,2,1
+2,kotlin-ktor,2022-07-08,5,4,1,0,0
+3,mqtt-golang-influxdb,2022-07-08,10,5,2,1,1
+4,ta,2022-07-08,3,0,0,2,1
