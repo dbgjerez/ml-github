@@ -6,7 +6,7 @@
 4,iot-devices-crud,2022-07-16,0,0,0,2,1
 5,istio-wasm-filter-golang,2022-07-16,0,0,0,2,1
 6,ms-config-server,2022-07-16,0,0,0,1,1
-7,ocp-monitoring-golang,2022-07-16,0,15,3,0,0
+7,ocp-monitoring-golang,2022-07-16,1,15,3,0,0
 8,quarkus-kotlin-example,2022-07-16,2,0,0,1,1
 9,spring-kotlin-crud,2022-07-16,6,0,0,1,1
 10,workshop-uca-aws-deploy,2022-07-16,0,0,0,2,1

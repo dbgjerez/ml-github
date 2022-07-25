@@ -1,0 +1,7 @@
+,name,ts,stars_count,views_total,views_uniques,clones_total,clones_uniques
+0,DO180-apps,2022-07-25,0,0,0,2,1
+1,golang-k8s-helm-helloworld,2022-07-25,2,0,0,1,1
+2,golang-rest-api-cassandra,2022-07-25,2,0,0,15,13
+3,iot-devices-crud,2022-07-25,0,0,0,15,14
+4,kotlin-ktor,2022-07-25,5,23,1,0,0
+5,spring-kotlin-crud,2022-07-25,6,1,1,0,0

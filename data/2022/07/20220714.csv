@@ -9,7 +9,7 @@
 7,kustomize-vs-helm,2022-07-14,3,10,1,0,0
 8,ml-github,2022-07-14,1,11,1,11,3
 9,mqtt-golang-influxdb,2022-07-14,10,49,3,17,11
-10,ocp-monitoring-golang,2022-07-14,0,137,25,31,10
+10,ocp-monitoring-golang,2022-07-14,1,137,25,31,10
 11,pelorus-workshop,2022-07-14,0,4,1,0,0
 12,quarkus-kotlin-example,2022-07-14,2,30,2,0,0
 13,REST-Services-MySQL,2022-07-14,0,0,0,1,1
