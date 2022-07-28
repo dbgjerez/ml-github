@@ -26,4 +26,4 @@ git: ## Upload the changes to repository
 	git push
 
 .PHONY: all
-all: update notebook git
+all: update update-repos notebook git
