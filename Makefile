@@ -6,9 +6,14 @@ help: ## Show opstions and short description
 	@grep -E '^[a-zA-Z_-]+:.*?## .*$$' Makefile | sort | awk 'BEGIN {FS = ":.*?## "}; {printf "\033[36m%-30s\033[0m %s\n", $$1, $$2}'
 
 .PHONY: update
-update: ## Update repo stats
+update: ## Update repo stats by day
 	python -m venv venv
 	. venv/bin/activate; pip install -r requirements.txt; python app.py; deactivate
+
+.PHONY: update
+update-repos: ## Update repo global view
+	python -m venv venv
+	. venv/bin/activate; pip install -r requirements.txt; python repos.py; deactivate
 
 .PHONY: notebook
 notebook: ## Execute the notebook
