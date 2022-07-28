@@ -44,4 +44,4 @@ for repo in github_repos:
     repos.append(r)
 
 df = pd.DataFrame(repos)
-df.to_csv("data/repos.csv")
+df.to_csv("repos.csv")
