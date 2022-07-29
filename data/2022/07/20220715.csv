@@ -1,7 +1,7 @@
 ,name,ts,stars_count,views_total,views_uniques,clones_total,clones_uniques
 0,golang-k8s-helm-helloworld,2022-07-15,2,1,1,0,0
-1,golang-rest-api-cassandra,2022-07-15,2,6,2,139,62
-2,iot-devices-crud,2022-07-15,0,1,1,17,14
+1,golang-rest-api-cassandra,2022-07-15,2,6,2,102,51
+2,iot-devices-crud,2022-07-15,0,1,1,5,5
 3,iot-esp8266-irrigation-system,2022-07-15,0,2,1,0,0
 4,istio-wasm-filter-golang,2022-07-15,0,2,1,0,0
 5,kotlin-ktor,2022-07-15,5,32,2,0,0
