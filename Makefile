@@ -10,7 +10,7 @@ update: ## Update repo stats by day
 	python -m venv venv
 	. venv/bin/activate; pip install -r requirements.txt; python app.py; deactivate
 
-.PHONY: update
+.PHONY: update-repos
 update-repos: ## Update repo global view
 	python -m venv venv
 	. venv/bin/activate; pip install -r requirements.txt; python repos.py; deactivate
