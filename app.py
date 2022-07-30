@@ -16,6 +16,9 @@ def file_path(date):
 def formate_date(date):
     return date.strftime("%Y%m%d")
 
+def elapsted_time(start):
+    return str((datetime.now()-start).seconds) + "s"
+
 @dataclass
 class Repo:
     name: str
@@ -31,12 +34,17 @@ g = Github(token)
 
 days = dict()
 
+start = datetime.now()
+print("app.py started at:", start)
 github_repos = g.get_user().get_repos()
-print("[", g.get_user().login, "]:", github_repos.totalCount, "repositories")
+print("[",elapsted_time(start=start),"][", g.get_user().login, "]", github_repos.totalCount, "repositories")
 for repo in github_repos:
+    owner = repo.__dict__.get('_rawData')['owner']['login']
     name = repo.name
+    print("[",elapsted_time(start=start),"][", owner, "][",name,"]")
 
     views = repo.get_views_traffic()
+    print("[",elapsted_time(start=start),"][", owner, "][",name,"][ views ]",len(views["views"]))
     for v in views["views"]: 
         ts = formate_date(v.timestamp)
         if ts not in days:
@@ -48,6 +56,7 @@ for repo in github_repos:
         r.views_uniques = v.uniques
 
     clones = repo.get_clones_traffic()
+    print("[",elapsted_time(start=start),"][", owner, "][",name,"][ clones ]",len(clones["clones"]))
     for c in clones["clones"]: 
         ts = formate_date(c.timestamp)
         if ts not in days:
@@ -62,3 +71,7 @@ for d in days.keys():
     df = pd.DataFrame(data = [r.__dict__ for r in days[d].values()])
     ts = datetime.strptime(d, "%Y%m%d")
     df.to_csv(file_path(ts))
+
+
+print("app.py finish at:", datetime.now())
+print("app.py elapsted time", elapsted_time(start=start))
