@@ -25,7 +25,8 @@ update-notebook: ## Execute the notebook
 	jupyter nbconvert --execute --to notebook --inplace repos_analysis.ipynb
 
 git: ## Upload the changes to repository
-	git commit -am 'update process'
+	git add .
+	git commit -m 'update process'
 	git push
 
 all: update-stats update-repos update-notebook git
