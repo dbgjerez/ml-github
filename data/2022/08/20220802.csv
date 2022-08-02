@@ -1,2 +1,8 @@
 ,name,ts,stars_count,views_total,views_uniques,clones_total,clones_uniques
-0,influxdb-telegraf-grafana,2022-08-02,0,2,2,0,0
+0,DO180-apps,2022-08-02,0,0,0,2,1
+1,golang-k8s-helm-helloworld,2022-08-02,2,0,0,1,1
+2,golang-rest-api-cassandra,2022-08-02,2,1,1,0,0
+3,influxdb-telegraf-grafana,2022-08-02,0,2,2,0,0
+4,kustomize-vs-helm,2022-08-02,3,0,0,1,1
+5,ml-github,2022-08-02,1,4,1,6,4
+6,ms-helm-chart,2022-08-02,1,3,1,0,0
