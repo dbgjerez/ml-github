@@ -1,10 +1,10 @@
 ,name,ts,stars_count,views_total,views_uniques,clones_total,clones_uniques
 0,b0rr3g0-blog,2022-07-21,0,0,0,7,5
 1,DO180-apps,2022-07-21,0,1,1,0,0
-2,golang-rest-api-cassandra,2022-07-21,2,1,1,56,36
+2,golang-rest-api-cassandra,2022-07-21,2,1,1,46,34
 3,iot-esp8266-relay-web-server,2022-07-21,0,0,0,1,1
-4,istio-wasm-filter-golang,2022-07-21,0,24,3,0,0
-5,ml-github,2022-07-21,1,5,1,6,4
+4,istio-wasm-filter-golang,2022-07-21,0,21,2,0,0
+5,ml-github,2022-07-21,1,5,1,5,3
 6,mqtt-golang-influxdb,2022-07-21,10,0,0,3,2
 7,ocp-monitoring-golang,2022-07-21,1,0,0,1,1
 8,quarkus-kotlin-example,2022-07-21,2,21,2,0,0
