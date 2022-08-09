@@ -39,7 +39,7 @@
 37,kubernetes-golang-operator,[],20210813,dbgjerez
 38,kubernetes-helm-operator,[],20211011,dbgjerez
 39,kubernetes-pipeline-plugin,[],20171226,dbgjerez
-40,kustomize-vs-helm,[],20220706,dbgjerez
+40,kustomize-vs-helm,"['argocd', 'gitops', 'helm', 'kubernetes', 'kustomize', 'workshop']",20220706,dbgjerez
 41,library,[],20180201,dbgjerez
 42,ml-github,[],20220808,dbgjerez
 43,ml-learning,[],20220630,dbgjerez

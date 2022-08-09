@@ -1,9 +1,9 @@
 ,name,ts,stars_count,views_total,views_uniques,clones_total,clones_uniques
 0,golang-gin-gonic,2022-08-08,0,0,0,1,1
-1,istio-wasm-filter-golang,2022-08-08,0,3,1,0,0
+1,istio-wasm-filter-golang,2022-08-08,0,4,2,0,0
 2,jenkins-pipeline,2022-08-08,1,29,1,0,0
 3,kubernetes-golang-operator,2022-08-08,0,0,0,1,1
-4,ml-github,2022-08-08,1,2,1,9,6
+4,ml-github,2022-08-08,1,4,1,14,7
 5,mqtt-golang-influxdb,2022-08-08,11,1,1,0,0
 6,ocp-monitoring-golang,2022-08-08,1,1,1,0,0
-7,ta,2022-08-08,3,55,1,74,48
+7,ta,2022-08-08,3,55,1,81,50
