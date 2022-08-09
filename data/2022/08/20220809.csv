@@ -1,7 +1,7 @@
 ,name,ts,stars_count,views_total,views_uniques,clones_total,clones_uniques
 0,kustomize-vs-helm,2022-08-09,3,11,1,0,0
-1,ml-github,2022-08-09,1,1,1,0,0
-2,ocp-monitoring-golang,2022-08-09,1,1,1,0,0
+1,ml-github,2022-08-09,1,15,1,6,4
+2,ocp-monitoring-golang,2022-08-09,1,4,2,0,0
 3,spring-boot-grafana,2022-08-09,0,0,0,1,1
-4,ta,2022-08-09,3,0,0,18,16
+4,ta,2022-08-09,3,31,1,18,16
 5,workshop-uca-aws-deploy,2022-08-09,0,0,0,1,1
