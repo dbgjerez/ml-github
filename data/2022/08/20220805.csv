@@ -11,7 +11,7 @@
 9,jwt,2022-08-05,1,0,0,1,1
 10,kotlin-ktor,2022-08-05,6,34,2,0,0
 11,ml-github,2022-08-05,1,2,1,5,4
-12,mqtt-golang-influxdb,2022-08-05,11,0,0,60,24
+12,mqtt-golang-influxdb,2022-08-05,12,0,0,60,24
 13,ocp-HTPasswd-file-provider,2022-08-05,0,0,0,1,1
 14,quarkus-kafka,2022-08-05,0,0,0,1,1
 15,quarkus-kotlin-example,2022-08-05,2,10,1,0,0
