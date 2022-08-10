@@ -1,8 +1,5 @@
 ,name,ts,stars_count,views_total,views_uniques,clones_total,clones_uniques
-0,b0rr3g0-blog,2022-07-27,0,0,0,1,1
-1,DO180-apps,2022-07-27,0,0,0,1,1
-2,golang-rest-api-cassandra,2022-07-27,2,2,1,0,0
-3,kotlin-ktor,2022-07-27,6,23,2,0,0
-4,ocp-monitoring-golang,2022-07-27,1,2,2,0,0
-5,quarkus-kotlin-example,2022-07-27,2,7,1,0,0
-6,ProyectoEncuesta,2022-07-27,0,5,1,0,0
+0,kotlin-ktor,2022-07-27,6,23,2,0,0
+1,ocp-monitoring-golang,2022-07-27,1,2,2,0,0
+2,quarkus-kotlin-example,2022-07-27,2,7,1,0,0
+3,ProyectoEncuesta,2022-07-27,0,5,1,0,0
