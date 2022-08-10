@@ -32,21 +32,21 @@
 30,jenkins-pipeline,[],20180425,dbgjerez
 31,jwt,"['jwt', 'jwt-token', 'jwt-authentication', 'java-8', 'spring-boot', 'spring', 'microservices', 'eureka', 'spring-cloud']",20171204,dbgjerez
 32,kafka-gitops,[],20211210,dbgjerez
-33,kops-aws,[],20220726,dbgjerez
+33,kops-aws,"['aws', 'kops', 'kubernetes']",20220726,dbgjerez
 34,kotlin-ktor,"['guice', 'kotlin', 'ktor', 'ktor-framework', 'cassandra', 'datastax-driver']",20190422,dbgjerez
 35,kubernetes-golang-operator,[],20210813,dbgjerez
 36,kubernetes-helm-operator,[],20211011,dbgjerez
 37,kubernetes-pipeline-plugin,[],20171226,dbgjerez
 38,kustomize-vs-helm,"['argocd', 'gitops', 'helm', 'kubernetes', 'kustomize', 'workshop']",20220706,dbgjerez
 39,library,[],20180201,dbgjerez
-40,ml-github,[],20220810,dbgjerez
-41,ml-learning,[],20220630,dbgjerez
+40,ml-github,"['analytics', 'github', 'pandas', 'python']",20220810,dbgjerez
+41,ml-learning,"['machine-learning', 'pandas', 'python']",20220630,dbgjerez
 42,mqtt-golang-influxdb,"['golang', 'go', 'gin-gonic', 'gin', 'iot', 'mqtt', 'mosquitto', 'influxdb', 'influx']",20210316,dbgjerez
 43,ms-config-server,[],20170315,dbgjerez
 44,ms-helm-chart,[],20210210,dbgjerez
 45,ocp-HTPasswd-file-provider,[],20220223,dbgjerez
-46,ocp-monitoring-golang,[],20220714,dbgjerez
-47,pelorus-workshop,[],20220707,dbgjerez
+46,ocp-monitoring-golang,"['grafana', 'kubernetes', 'metrics', 'monitoring', 'observability', 'openshift', 'prometheus', 'redhat', 'go', 'golang']",20220714,dbgjerez
+47,pelorus-workshop,"['kubernetes', 'openshift', 'redhat', 'workshop', 'pelorus']",20220707,dbgjerez
 48,petclinic-config,[],20210208,dbgjerez
 49,poc-k8s-ambassador,[],20190801,dbgjerez
 50,quarkus-kafka,[],20220303,dbgjerez
@@ -61,13 +61,12 @@
 59,spring-cloud-ms2,[],20170417,dbgjerez
 60,spring-data-mongodb,[],20160922,dbgjerez
 61,spring-kotlin-crud,"['mongodb', 'kotlin', 'spring-kotlin-crud', 'spring', 'spring-mvc', 'spring-boot', 'spring-data-mongodb', 'kotlin-language', 'functional-programming', 'gradle']",20181221,dbgjerez
-62,ta,[],20220704,dbgjerez
+62,ta,"['criptocurrency', 'gitops', 'golang', 'technical-analysis', 'go']",20220704,dbgjerez
 63,terraform-ansible-aws,[],20190521,dbgjerez
 64,terraform-aws-demo,[],20171124,dbgjerez
-65,tinygo-site,[],20220701,dbgjerez
-66,uca-workshop-docker,[],20191202,dbgjerez
-67,vagrant-php-boxes,[],20170426,dbgjerez
-68,workshop-uca-aws-deploy,[],20220304,dbgjerez
-69,spring-cloud,[],20180116,ediazram
-70,spring-cloud-config,[],20180123,ediazram
-71,ProyectoEncuesta,[],20180602,strider76
+65,uca-workshop-docker,[],20191202,dbgjerez
+66,vagrant-php-boxes,[],20170426,dbgjerez
+67,workshop-uca-aws-deploy,[],20220304,dbgjerez
+68,spring-cloud,[],20180116,ediazram
+69,spring-cloud-config,[],20180123,ediazram
+70,ProyectoEncuesta,[],20180602,strider76
