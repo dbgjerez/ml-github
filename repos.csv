@@ -2,7 +2,7 @@
 0,amq-streams-workshop,"['amq-streams', 'gitops', 'kafka', 'strimzi']",20220313,dbgjerez
 1,ansible-base,[],20220702,dbgjerez
 2,asciidoc-base,[],20220317,dbgjerez
-3,b0rr3g0-blog,[],20220726,dbgjerez
+3,b0rr3g0-blog,[],20220810,dbgjerez
 4,beautifulhugo,[],20220627,dbgjerez
 5,cd-travis-app,[],20181118,dbgjerez
 6,clover,[],20220426,dbgjerez
@@ -41,7 +41,7 @@
 39,kubernetes-pipeline-plugin,[],20171226,dbgjerez
 40,kustomize-vs-helm,"['argocd', 'gitops', 'helm', 'kubernetes', 'kustomize', 'workshop']",20220706,dbgjerez
 41,library,[],20180201,dbgjerez
-42,ml-github,[],20220809,dbgjerez
+42,ml-github,[],20220810,dbgjerez
 43,ml-learning,[],20220630,dbgjerez
 44,mqtt-golang-influxdb,"['golang', 'go', 'gin-gonic', 'gin', 'iot', 'mqtt', 'mosquitto', 'influxdb', 'influx']",20210316,dbgjerez
 45,ms-config-server,[],20170315,dbgjerez
