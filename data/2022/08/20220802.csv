@@ -1,10 +1,4 @@
 ,name,ts,stars_count,views_total,views_uniques,clones_total,clones_uniques
-0,b0rr3g0-blog,2022-08-02,0,0,0,1,1
-1,golang-rest-api-cassandra,2022-08-02,2,1,1,1,1
-2,kotlin-ktor,2022-08-02,6,25,2,0,0
-3,kustomize-vs-helm,2022-08-02,3,0,0,1,1
-4,ml-learning,2022-08-02,0,15,1,0,0
-5,mqtt-golang-influxdb,2022-08-02,12,19,1,1,1
-6,pelorus-workshop,2022-08-02,0,0,0,1,1
-7,service-mesh-wasm-go,2022-08-02,0,0,0,1,1
-8,ta,2022-08-02,3,0,0,1,1
+0,kustomize-vs-helm,2022-08-02,3,0,0,1,1
+1,service-mesh-wasm-go,2022-08-02,0,0,0,1,1
+2,ta,2022-08-02,3,0,0,1,1
