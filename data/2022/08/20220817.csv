@@ -1,8 +1,10 @@
 ,name,ts,stars_count,views_total,views_uniques,clones_total,clones_uniques
-0,golang-rest-api-cassandra,2022-08-17,2,0,0,188,70
-1,iot-devices-crud,2022-08-17,0,0,0,93,36
+0,golang-rest-api-cassandra,2022-08-17,2,0,0,275,88
+1,iot-devices-crud,2022-08-17,0,0,0,139,56
 2,jwt,2022-08-17,1,0,0,2,2
-3,ml-github,2022-08-17,1,3,1,4,3
-4,mqtt-golang-influxdb,2022-08-17,12,0,0,40,24
-5,ocp-HTPasswd-file-provider,2022-08-17,0,12,1,4,3
-6,ta,2022-08-17,3,0,0,86,42
+3,kustomize-vs-helm,2022-08-17,3,1,1,0,0
+4,ml-github,2022-08-17,1,4,2,8,5
+5,mqtt-golang-influxdb,2022-08-17,12,0,0,62,37
+6,ocp-HTPasswd-file-provider,2022-08-17,0,14,1,4,3
+7,spring-cloud-ms1,2022-08-17,0,0,0,1,1
+8,ta,2022-08-17,3,0,0,135,61

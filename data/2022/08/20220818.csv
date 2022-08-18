@@ -1,0 +1,5 @@
+,name,ts,stars_count,views_total,views_uniques,clones_total,clones_uniques
+0,golang-rest-api-cassandra,2022-08-18,2,0,0,61,38
+1,iot-devices-crud,2022-08-18,0,0,0,30,21
+2,mqtt-golang-influxdb,2022-08-18,12,0,0,12,9
+3,ta,2022-08-18,3,0,0,30,24
