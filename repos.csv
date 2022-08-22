@@ -44,7 +44,7 @@
 42,mqtt-golang-influxdb,"['golang', 'go', 'gin-gonic', 'gin', 'iot', 'mqtt', 'mosquitto', 'influxdb', 'influx']",20210316,dbgjerez
 43,ms-config-server,[],20170315,dbgjerez
 44,ms-helm-chart,[],20210210,dbgjerez
-45,ocp-HTPasswd-file-provider,"['htpasswd', 'kubernetes', 'ocp', 'openshift', 'security']",20220817,dbgjerez
+45,ocp-HTPasswd-file-provider,"['htpasswd', 'kubernetes', 'ocp', 'openshift', 'security']",20220818,dbgjerez
 46,ocp-monitoring-golang,"['grafana', 'kubernetes', 'metrics', 'monitoring', 'observability', 'openshift', 'prometheus', 'redhat', 'go', 'golang']",20220714,dbgjerez
 47,pelorus-workshop,"['kubernetes', 'openshift', 'redhat', 'workshop', 'pelorus']",20220707,dbgjerez
 48,petclinic-config,[],20210208,dbgjerez
