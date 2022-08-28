@@ -1,13 +1,4 @@
 ,name,ts,stars_count,views_total,views_uniques,clones_total,clones_uniques
-0,b0rr3g0-blog,2022-08-14,0,0,0,1,1
-1,cd-travis-app,2022-08-14,0,0,0,1,1
-2,golang-k8s-helm-helloworld,2022-08-14,2,1,1,0,0
-3,golang-rest-api-cassandra,2022-08-14,2,0,0,14,10
-4,influx-telegraf-chronograf,2022-08-14,0,0,0,1,1
-5,iot-esp8266-relay-web-server,2022-08-14,0,1,1,0,0
-6,kotlin-ktor,2022-08-14,6,1,1,1,1
-7,ml-github,2022-08-14,1,0,0,1,1
-8,mqtt-golang-influxdb,2022-08-14,12,0,0,6,6
-9,quarkus-kotlin-example,2022-08-14,2,23,1,1,1
-10,service-mesh-wasm-go,2022-08-14,0,0,0,1,1
-11,spring-kotlin-crud,2022-08-14,6,0,0,1,1
+0,cd-travis-app,2022-08-14,0,0,0,1,1
+1,golang-rest-api-cassandra,2022-08-14,2,0,0,9,7
+2,mqtt-golang-influxdb,2022-08-14,12,0,0,5,5
