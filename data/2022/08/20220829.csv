@@ -1,0 +1,9 @@
+,name,ts,stars_count,views_total,views_uniques,clones_total,clones_uniques
+0,b0rr3g0-blog,2022-08-29,0,1,1,5,3
+1,golang-rest-api-cassandra,2022-08-29,2,0,0,54,36
+2,iot-devices-crud,2022-08-29,0,0,0,38,25
+3,kotlin-ktor,2022-08-29,6,4,1,1,1
+4,kustomize-vs-helm,2022-08-29,3,1,1,0,0
+5,ml-github,2022-08-29,1,2,1,0,0
+6,mqtt-golang-influxdb,2022-08-29,12,0,0,37,19
+7,ta,2022-08-29,3,0,0,39,26
