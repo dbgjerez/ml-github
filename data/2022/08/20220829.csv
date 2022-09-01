@@ -4,7 +4,7 @@
 2,iot-devices-crud,2022-08-29,0,0,0,60,36
 3,istio-wasm-filter-golang,2022-08-29,0,5,1,0,0
 4,kotlin-ktor,2022-08-29,6,4,1,1,1
-5,kustomize-vs-helm,2022-08-29,3,6,2,0,0
+5,kustomize-vs-helm,2022-08-29,4,6,2,0,0
 6,ml-github,2022-08-29,1,5,1,5,4
 7,mqtt-golang-influxdb,2022-08-29,12,0,0,60,28
 8,quarkus-kafka,2022-08-29,0,9,1,0,0
