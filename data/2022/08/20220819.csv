@@ -1,8 +1,8 @@
 ,name,ts,stars_count,views_total,views_uniques,clones_total,clones_uniques
-0,golang-rest-api-cassandra,2022-08-19,2,3,1,35,28
-1,iot-devices-crud,2022-08-19,0,0,0,17,11
+0,golang-rest-api-cassandra,2022-08-19,2,3,1,9,9
+1,iot-devices-crud,2022-08-19,0,0,0,5,5
 2,istio-wasm-filter-golang,2022-08-19,0,2,1,0,0
 3,jenkins-pipeline,2022-08-19,1,2,1,0,0
 4,kotlin-ktor,2022-08-19,6,11,1,0,0
 5,ocp-HTPasswd-file-provider,2022-08-19,0,1,1,0,0
-6,ta,2022-08-19,3,0,0,78,38
+6,ta,2022-08-19,3,0,0,53,32
