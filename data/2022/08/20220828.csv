@@ -1,6 +1,10 @@
 ,name,ts,stars_count,views_total,views_uniques,clones_total,clones_uniques
-0,golang-rest-api-cassandra,2022-08-28,2,11,1,58,35
-1,iot-devices-crud,2022-08-28,0,1,1,12,10
-2,istio-wasm-filter-golang,2022-08-28,0,2,1,0,0
-3,mqtt-golang-influxdb,2022-08-28,12,0,0,39,22
-4,ta,2022-08-28,3,0,0,36,22
+0,b0rr3g0-blog,2022-08-28,0,7,1,8,6
+1,golang-rest-api-cassandra,2022-08-28,2,11,1,83,44
+2,iot-devices-crud,2022-08-28,0,1,1,24,17
+3,istio-wasm-filter-golang,2022-08-28,0,2,1,0,0
+4,ml-github,2022-08-28,1,2,1,4,3
+5,mqtt-golang-influxdb,2022-08-28,12,0,0,51,27
+6,ocp-HTPasswd-file-provider,2022-08-28,0,1,1,0,0
+7,ta,2022-08-28,3,0,0,48,28
+8,terraform-ansible-aws,2022-08-28,0,0,0,1,1

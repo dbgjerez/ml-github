@@ -1,7 +1,7 @@
 ,name,ts,stars_count,views_total,views_uniques,clones_total,clones_uniques
 0,golang-rest-api-cassandra,2022-08-25,2,18,2,0,0
 1,kotlin-ktor,2022-08-25,6,10,1,0,0
-2,kustomize-vs-helm,2022-08-25,3,1,1,0,0
+2,kustomize-vs-helm,2022-08-25,4,1,1,0,0
 3,ml-github,2022-08-25,1,0,0,6,5
 4,ms-helm-chart,2022-08-25,1,0,0,1,1
 5,quarkus-kafka,2022-08-25,0,1,1,0,0
