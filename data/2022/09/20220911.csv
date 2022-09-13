@@ -1,0 +1,8 @@
+,name,ts,stars_count,views_total,views_uniques,clones_total,clones_uniques
+0,golang-rest-api-cassandra,2022-09-11,2,0,0,18,16
+1,iot-devices-crud,2022-09-11,0,0,0,19,14
+2,istio-wasm-filter-golang,2022-09-11,0,5,1,0,0
+3,kotlin-ktor,2022-09-11,6,1,1,0,0
+4,mqtt-golang-influxdb,2022-09-11,12,1,1,16,9
+5,quarkus-kotlin-example,2022-09-11,2,10,2,0,0
+6,ta,2022-09-11,3,0,0,25,20
