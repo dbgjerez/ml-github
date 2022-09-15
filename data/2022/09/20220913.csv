@@ -1,5 +1,13 @@
 ,name,ts,stars_count,views_total,views_uniques,clones_total,clones_uniques
-0,istio-wasm-filter-golang,2022-09-13,0,1,1,0,0
-1,ml-github,2022-09-13,1,1,1,0,0
-2,quarkus-kotlin-example,2022-09-13,2,1,1,0,0
-3,ta,2022-09-13,3,0,0,18,16
+0,b0rr3g0-blog,2022-09-13,0,1,1,0,0
+1,golang-k8s-helm-helloworld,2022-09-13,2,1,1,0,0
+2,istio-wasm-filter-golang,2022-09-13,0,1,1,0,0
+3,kustomize-vs-helm,2022-09-13,4,1,1,0,0
+4,ml-github,2022-09-13,1,4,1,2,2
+5,ocp-monitoring-golang,2022-09-13,1,1,1,0,0
+6,pelorus-workshop,2022-09-13,0,1,1,0,0
+7,quarkus-kotlin-example,2022-09-13,2,1,1,0,0
+8,spring-cloud-ms1,2022-09-13,0,0,0,1,1
+9,ta,2022-09-13,3,0,0,100,51
+10,uca-workshop-docker,2022-09-13,0,0,0,1,1
+11,spring-cloud,2022-09-13,0,11,1,0,0
