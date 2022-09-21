@@ -27,7 +27,9 @@ update-notebook: ## Execute the notebook
 git: ## Upload the changes to repository
 	git add .
 	git commit -m 'update process'
-	git pull
 	git push
 
-all: update-stats update-repos update-notebook git
+git-pull: ## Download the latest changes
+	git pull
+
+all: git-pull update-stats update-repos update-notebook git
