@@ -1,6 +1,11 @@
 ,name,ts,stars_count,views_total,views_uniques,clones_total,clones_uniques
-0,golang-rest-api-cassandra,2022-09-22,2,6,1,18,16
-1,iot-devices-crud,2022-09-22,0,0,0,18,13
-2,mqtt-golang-influxdb,2022-09-22,12,0,0,17,15
-3,quarkus-kotlin-example,2022-09-22,2,0,0,1,1
-4,ta,2022-09-22,3,0,0,46,30
+0,golang-rest-api-cassandra,2022-09-22,2,17,2,61,37
+1,iot-devices-crud,2022-09-22,0,0,0,60,36
+2,istio-wasm-filter-golang,2022-09-22,0,1,1,0,0
+3,jenkins-pipeline,2022-09-22,1,1,1,0,0
+4,ml-github,2022-09-22,1,0,0,1,1
+5,mqtt-golang-influxdb,2022-09-22,12,0,0,18,16
+6,pelorus-workshop,2022-09-22,0,1,1,0,0
+7,quarkus-kotlin-example,2022-09-22,2,8,1,1,1
+8,spring-cloud-ms1,2022-09-22,0,0,0,3,2
+9,ta,2022-09-22,3,22,1,89,44
