@@ -1,5 +1,11 @@
 ,name,ts,stars_count,views_total,views_uniques,clones_total,clones_uniques
-0,golang-rest-api-cassandra,2022-09-23,2,0,0,18,14
-1,iot-devices-crud,2022-09-23,0,0,0,20,16
-2,kotlin-ktor,2022-09-23,6,21,1,0,0
-3,ta,2022-09-23,3,0,0,19,15
+0,ansible-bootstrap-workstation,2022-09-23,0,3,1,1,1
+1,golang-k8s-helm-helloworld,2022-09-23,2,0,0,1,1
+2,golang-rest-api-cassandra,2022-09-23,2,5,1,18,14
+3,iot-devices-crud,2022-09-23,0,0,0,20,16
+4,istio-wasm-filter-golang,2022-09-23,0,1,1,0,0
+5,kotlin-ktor,2022-09-23,6,21,1,0,0
+6,kustomize-vs-helm,2022-09-23,4,1,1,0,0
+7,ml-github,2022-09-23,1,0,0,1,1
+8,spring-cloud-ms1,2022-09-23,0,0,0,2,2
+9,ta,2022-09-23,3,0,0,19,15

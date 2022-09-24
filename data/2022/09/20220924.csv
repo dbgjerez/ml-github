@@ -1,0 +1,7 @@
+,name,ts,stars_count,views_total,views_uniques,clones_total,clones_uniques
+0,golang-k8s-helm-helloworld,2022-09-24,2,0,0,1,1
+1,jwt,2022-09-24,1,0,0,1,1
+2,kotlin-ktor,2022-09-24,6,2,1,0,0
+3,mqtt-golang-influxdb,2022-09-24,12,0,0,1,1
+4,quarkus-kotlin-example,2022-09-24,2,1,1,0,0
+5,ta,2022-09-24,3,0,0,1,1
