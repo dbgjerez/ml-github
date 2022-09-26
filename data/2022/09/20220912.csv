@@ -4,7 +4,7 @@
 2,istio-wasm-filter-golang,2022-09-12,0,1,1,0,0
 3,kubernetes-pipeline-plugin,2022-09-12,0,0,0,1,1
 4,ml-github,2022-09-12,1,2,1,0,0
-5,mqtt-golang-influxdb,2022-09-12,12,3,1,2,2
+5,mqtt-golang-influxdb,2022-09-12,12,3,1,1,1
 6,spring-cloud-ms1,2022-09-12,0,0,0,2,2
 7,spring-kotlin-crud,2022-09-12,6,1,1,0,0
-8,ta,2022-09-12,3,0,0,2,2
+8,ta,2022-09-12,3,0,0,1,1
