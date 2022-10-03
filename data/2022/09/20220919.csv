@@ -1,10 +1,7 @@
 ,name,ts,stars_count,views_total,views_uniques,clones_total,clones_uniques
-0,golang-k8s-helm-helloworld,2022-09-19,2,1,1,0,0
-1,golang-rest-api-cassandra,2022-09-19,2,1,1,43,31
-2,istio-wasm-filter-golang,2022-09-19,0,4,2,0,0
-3,kotlin-ktor,2022-09-19,6,9,1,0,0
-4,kustomize-vs-helm,2022-09-19,4,2,2,0,0
-5,ml-github,2022-09-19,1,1,1,1,1
-6,ocp-monitoring-golang,2022-09-19,1,1,1,0,0
-7,pelorus-workshop,2022-09-19,0,1,1,0,0
-8,ta,2022-09-19,3,0,0,82,46
+0,golang-rest-api-cassandra,2022-09-19,2,1,1,39,30
+1,istio-wasm-filter-golang,2022-09-19,0,2,1,0,0
+2,kotlin-ktor,2022-09-19,6,6,1,0,0
+3,kustomize-vs-helm,2022-09-19,4,1,1,0,0
+4,ml-github,2022-09-19,1,0,0,1,1
+5,ta,2022-09-19,3,0,0,40,27
