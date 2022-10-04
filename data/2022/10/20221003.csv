@@ -1,0 +1,6 @@
+,name,ts,stars_count,views_total,views_uniques,clones_total,clones_uniques
+0,ansible-bootstrap-workstation,2022-10-03,0,0,0,2,2
+1,golang-k8s-helm-helloworld,2022-10-03,2,7,1,0,0
+2,istio-wasm-filter-golang,2022-10-03,0,1,1,0,0
+3,ml-github,2022-10-03,1,0,0,2,2
+4,mqtt-golang-influxdb,2022-10-03,12,1,1,2,2
