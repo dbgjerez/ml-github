@@ -1,5 +1,13 @@
 ,name,ts,stars_count,views_total,views_uniques,clones_total,clones_uniques
-0,golang-rest-api-cassandra,2022-10-04,2,2,1,0,0
+0,golang-rest-api-cassandra,2022-10-04,2,4,1,0,0
 1,helm-spring-boot-chart,2022-10-04,1,0,0,1,1
-2,kotlin-ktor,2022-10-04,6,6,1,0,0
-3,ml-github,2022-10-04,1,2,1,0,0
+2,influxdb-telegraf-grafana,2022-10-04,0,2,1,0,0
+3,kotlin-ktor,2022-10-04,6,11,2,0,0
+4,kustomize-vs-helm,2022-10-04,4,9,2,0,0
+5,ml-github,2022-10-04,1,2,1,1,1
+6,mqtt-golang-influxdb,2022-10-04,12,6,1,0,0
+7,pelorus-workshop,2022-10-04,0,1,1,0,0
+8,quarkus-kotlin-example,2022-10-04,2,1,1,0,0
+9,REST-Services-MySQL,2022-10-04,0,11,1,0,0
+10,service-mesh-workshop,2022-10-04,0,1,1,0,0
+11,ta,2022-10-04,3,1,1,0,0
