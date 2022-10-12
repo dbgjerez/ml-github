@@ -1,0 +1,16 @@
+,name,ts,stars_count,views_total,views_uniques,clones_total,clones_uniques
+0,ansible-base,2022-10-11,0,5,1,0,0
+1,asciidoc-base,2022-10-11,0,4,1,0,0
+2,b0rr3g0-blog,2022-10-11,0,5,1,0,0
+3,beautifulhugo,2022-10-11,0,4,1,0,0
+4,clover,2022-10-11,0,4,1,0,0
+5,golang-k8s-helm-helloworld,2022-10-11,2,5,1,0,0
+6,hugo-PaperMod,2022-10-11,0,3,1,0,0
+7,influxdb-telegraf-grafana,2022-10-11,0,1,1,0,0
+8,istio,2022-10-11,0,5,1,0,0
+9,istio-wasm-filter-golang,2022-10-11,0,10,2,0,0
+10,kustomize-vs-helm,2022-10-11,4,34,4,0,0
+11,ml-github,2022-10-11,1,6,2,2,1
+12,mqtt-golang-influxdb,2022-10-11,12,1,1,0,0
+13,spring-kotlin-crud,2022-10-11,6,3,1,1,1
+14,ta,2022-10-11,3,5,1,0,0
