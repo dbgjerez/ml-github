@@ -1,7 +1,7 @@
 ,name,ts,stars_count,views_total,views_uniques,clones_total,clones_uniques
 0,golang-k8s-helm-helloworld,2022-10-01,2,13,1,0,0
-1,golang-rest-api-cassandra,2022-10-01,2,5,1,77,45
-2,iot-devices-crud,2022-10-01,0,0,0,60,33
-3,mqtt-golang-influxdb,2022-10-01,12,0,0,59,35
+1,golang-rest-api-cassandra,2022-10-01,2,5,1,27,22
+2,iot-devices-crud,2022-10-01,0,0,0,27,19
+3,mqtt-golang-influxdb,2022-10-01,12,0,0,27,20
 4,spring-kotlin-crud,2022-10-01,6,5,1,0,0
-5,ta,2022-10-01,3,0,0,60,35
+5,ta,2022-10-01,3,0,0,27,21

@@ -1,0 +1,8 @@
+,name,ts,stars_count,views_total,views_uniques,clones_total,clones_uniques
+0,golang-rest-api-cassandra,2022-10-14,2,0,0,107,55
+1,iot-devices-crud,2022-10-14,0,0,0,49,36
+2,istio-wasm-filter-golang,2022-10-14,0,6,2,0,0
+3,mqtt-golang-influxdb,2022-10-14,12,0,0,61,33
+4,ocp-monitoring-golang,2022-10-14,1,0,0,1,1
+5,spring-kotlin-crud,2022-10-14,6,7,1,0,0
+6,ta,2022-10-14,3,0,0,57,36
