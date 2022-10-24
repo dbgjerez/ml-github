@@ -1,0 +1,14 @@
+,name,ts,stars_count,views_total,views_uniques,clones_total,clones_uniques
+0,iot-devices-crud,2022-10-19,0,3,1,0,0
+1,iot-esp8266-relay-web-server,2022-10-19,0,1,1,0,0
+2,istio-wasm-filter-golang,2022-10-19,0,1,1,0,0
+3,jenkins-pipeline,2022-10-19,1,2,1,0,0
+4,kotlin-ktor,2022-10-19,6,3,2,0,0
+5,kubernetes-golang-operator,2022-10-19,0,10,1,0,0
+6,mqtt-golang-influxdb,2022-10-19,12,27,3,1,1
+7,REST-Services-MySQL,2022-10-19,0,0,0,1,1
+8,service-mesh-workshop,2022-10-19,1,17,2,4,2
+9,spring-cloud-eureka,2022-10-19,0,0,0,1,1
+10,spring-kotlin-crud,2022-10-19,6,0,0,1,1
+11,terraform-ansible-aws,2022-10-19,0,5,4,0,0
+12,spring-cloud,2022-10-19,0,0,0,1,1
