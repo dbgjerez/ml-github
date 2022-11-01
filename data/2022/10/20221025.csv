@@ -1,0 +1,12 @@
+,name,ts,stars_count,views_total,views_uniques,clones_total,clones_uniques
+0,github-traffic,2022-10-25,0,0,0,1,1
+1,golang-gin-gonic,2022-10-25,0,0,0,1,1
+2,golang-rest-api-cassandra,2022-10-25,2,3,1,8,8
+3,iot-devices-crud,2022-10-25,0,1,1,0,0
+4,istio-wasm-filter-golang,2022-10-25,0,2,1,0,0
+5,jenkins-ci,2022-10-25,3,0,0,1,1
+6,pelorus-workshop,2022-10-25,0,0,0,1,1
+7,quarkus-kafka,2022-10-25,0,19,1,0,0
+8,service-mesh-workshop,2022-10-25,2,8,2,0,0
+9,spring-data-mongodb,2022-10-25,0,0,0,1,1
+10,spring-cloud,2022-10-25,0,0,0,1,1

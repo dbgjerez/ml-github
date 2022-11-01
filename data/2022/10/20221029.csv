@@ -1,0 +1,7 @@
+,name,ts,stars_count,views_total,views_uniques,clones_total,clones_uniques
+0,golang-rest-api-cassandra,2022-10-29,2,3,3,0,0
+1,iot-devices-crud,2022-10-29,0,1,1,0,0
+2,kustomize-vs-helm,2022-10-29,4,1,1,0,0
+3,mqtt-golang-influxdb,2022-10-29,13,0,0,3,3
+4,quarkus-kafka,2022-10-29,0,3,1,0,0
+5,ta,2022-10-29,3,2,1,16,15

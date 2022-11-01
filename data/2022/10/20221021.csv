@@ -24,7 +24,7 @@
 22,kustomize-vs-helm,2022-10-21,4,1,1,1,1
 23,library,2022-10-21,0,0,0,1,1
 24,ml-github,2022-10-21,1,1,1,1,1
-25,mqtt-golang-influxdb,2022-10-21,12,0,0,3,3
+25,mqtt-golang-influxdb,2022-10-21,13,0,0,3,3
 26,ms-config-server,2022-10-21,0,0,0,1,1
 27,ocp-monitoring-golang,2022-10-21,1,0,0,1,1
 28,petclinic-config,2022-10-21,0,0,0,1,1
@@ -32,7 +32,7 @@
 30,quarkus-kafka,2022-10-21,0,0,0,1,1
 31,quarkus-kotlin-example,2022-10-21,2,5,1,1,1
 32,service-mesh-wasm-go,2022-10-21,0,0,0,1,1
-33,service-mesh-workshop,2022-10-21,1,0,0,3,1
+33,service-mesh-workshop,2022-10-21,2,0,0,3,1
 34,spring-boot-elk,2022-10-21,0,0,0,1,1
 35,spring-boot-grafana,2022-10-21,0,0,0,1,1
 36,spring-cloud-dataflow,2022-10-21,0,0,0,2,2
