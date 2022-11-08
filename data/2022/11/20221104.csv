@@ -1,0 +1,8 @@
+,name,ts,stars_count,views_total,views_uniques,clones_total,clones_uniques
+0,golang-k8s-helm-helloworld,2022-11-04,2,1,1,0,0
+1,golang-rest-api-cassandra,2022-11-04,2,1,1,76,46
+2,iot-devices-crud,2022-11-04,0,0,0,60,40
+3,kotlin-ktor,2022-11-04,6,1,1,0,0
+4,mqtt-golang-influxdb,2022-11-04,13,0,0,58,34
+5,quarkus-kotlin-example,2022-11-04,2,1,1,1,1
+6,ta,2022-11-04,3,0,0,58,32
