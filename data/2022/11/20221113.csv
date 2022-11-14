@@ -1,0 +1,8 @@
+,name,ts,stars_count,views_total,views_uniques,clones_total,clones_uniques
+0,golang-rest-api-cassandra,2022-11-13,2,14,2,0,0
+1,iot-devices-crud,2022-11-13,0,1,1,0,0
+2,kotlin-ktor,2022-11-13,6,24,1,0,0
+3,kubernetes-golang-operator,2022-11-13,0,0,0,1,1
+4,mqtt-golang-influxdb,2022-11-13,13,1,1,2,1
+5,spring-kotlin-crud,2022-11-13,6,0,0,1,1
+6,terraform-ansible-aws,2022-11-13,0,3,1,0,0

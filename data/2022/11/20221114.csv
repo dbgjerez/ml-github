@@ -1,0 +1,5 @@
+,name,ts,stars_count,views_total,views_uniques,clones_total,clones_uniques
+0,golang-azure-eventhub,2022-11-14,0,0,0,1,1
+1,golang-rest-api-cassandra,2022-11-14,2,5,1,0,0
+2,istio-wasm-filter-golang,2022-11-14,0,1,1,0,0
+3,kotlin-ktor,2022-11-14,6,3,3,0,0

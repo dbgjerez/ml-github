@@ -1,3 +1,6 @@
 ,name,ts,stars_count,views_total,views_uniques,clones_total,clones_uniques
 0,golang-rest-api-cassandra,2022-11-08,2,0,0,1,1
-1,kotlin-ktor,2022-11-08,6,12,2,0,0
+1,kotlin-ktor,2022-11-08,6,14,3,0,0
+2,ml-github,2022-11-08,1,0,0,4,3
+3,mqtt-golang-influxdb,2022-11-08,13,4,1,0,0
+4,quarkus-kotlin-example,2022-11-08,2,6,1,0,0
