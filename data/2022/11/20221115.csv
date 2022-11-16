@@ -1,0 +1,14 @@
+,name,ts,stars_count,views_total,views_uniques,clones_total,clones_uniques
+0,asciidoc-base,2022-11-15,0,0,0,1,1
+1,golang-azure-eventhub-kafka,2022-11-15,0,0,0,1,1
+2,iot-air-quality,2022-11-15,1,0,0,1,1
+3,iot-esp8266-dht11,2022-11-15,0,0,0,1,1
+4,iot-k8s-stack,2022-11-15,1,0,0,1,1
+5,istio-wasm-filter-golang,2022-11-15,0,2,1,0,0
+6,jwt,2022-11-15,1,0,0,1,1
+7,kotlin-ktor,2022-11-15,6,8,3,1,1
+8,kustomize-vs-helm,2022-11-15,4,0,0,1,1
+9,mqtt-golang-influxdb,2022-11-15,13,8,1,0,0
+10,petclinic-config,2022-11-15,0,0,0,1,1
+11,semantic-versioning-cli,2022-11-15,0,3,1,2,2
+12,uca-workshop-docker,2022-11-15,0,0,0,1,1
