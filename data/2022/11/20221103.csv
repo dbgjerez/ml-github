@@ -1,7 +1,7 @@
 ,name,ts,stars_count,views_total,views_uniques,clones_total,clones_uniques
-0,golang-rest-api-cassandra,2022-11-03,2,0,0,34,31
-1,iot-devices-crud,2022-11-03,0,0,0,17,16
+0,golang-rest-api-cassandra,2022-11-03,2,0,0,24,23
+1,iot-devices-crud,2022-11-03,0,0,0,12,11
 2,istio-wasm-filter-golang,2022-11-03,0,1,1,0,0
 3,ml-github,2022-11-03,1,0,0,1,1
-4,mqtt-golang-influxdb,2022-11-03,13,0,0,17,16
-5,ta,2022-11-03,3,0,0,18,17
+4,mqtt-golang-influxdb,2022-11-03,13,0,0,12,12
+5,ta,2022-11-03,3,0,0,12,12
