@@ -5,7 +5,7 @@
 3,iot-devices-crud,2022-11-14,0,1,1,0,0
 4,iot-esp8266-irrigation-system,2022-11-14,0,0,0,1,1
 5,istio-wasm-filter-golang,2022-11-14,0,4,3,0,0
-6,kotlin-ktor,2022-11-14,6,9,4,0,0
+6,kotlin-ktor,2022-11-14,7,9,4,0,0
 7,ml-github,2022-11-14,1,0,0,5,4
 8,mqtt-golang-influxdb,2022-11-14,13,2,1,0,0
 9,quarkus-kotlin-example,2022-11-14,2,0,0,1,1

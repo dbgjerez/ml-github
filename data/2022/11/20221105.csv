@@ -1,9 +1,6 @@
 ,name,ts,stars_count,views_total,views_uniques,clones_total,clones_uniques
-0,golang-rest-api-cassandra,2022-11-05,2,12,1,59,36
-1,iot-devices-crud,2022-11-05,0,0,0,58,38
+0,golang-rest-api-cassandra,2022-11-05,2,12,1,29,21
+1,iot-devices-crud,2022-11-05,0,0,0,29,21
 2,istio-wasm-filter-golang,2022-11-05,0,1,1,0,0
-3,kops-aws,2022-11-05,4,1,1,0,0
-4,mqtt-golang-influxdb,2022-11-05,13,0,0,60,36
-5,ocp-HTPasswd-file-provider,2022-11-05,0,0,0,1,1
-6,quarkus-kotlin-example,2022-11-05,2,5,1,0,0
-7,ta,2022-11-05,3,0,0,59,34
+3,mqtt-golang-influxdb,2022-11-05,13,0,0,29,24
+4,ta,2022-11-05,3,0,0,29,23
