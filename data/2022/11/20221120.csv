@@ -1,0 +1,11 @@
+,name,ts,stars_count,views_total,views_uniques,clones_total,clones_uniques
+0,golang-gin-gonic,2022-11-20,0,0,0,1,1
+1,golang-rest-api-cassandra,2022-11-20,2,0,0,116,59
+2,iot-devices-crud,2022-11-20,0,0,0,61,34
+3,iot-esp8266-dht11,2022-11-20,0,0,0,1,1
+4,kotlin-ktor,2022-11-20,7,4,1,0,0
+5,kustomize-vs-helm,2022-11-20,4,0,0,1,1
+6,mqtt-golang-influxdb,2022-11-20,13,0,0,59,33
+7,semantic-versioning-cli,2022-11-20,1,4,4,0,0
+8,spring-boot-grafana,2022-11-20,0,0,0,1,1
+9,ta,2022-11-20,3,0,0,59,28
