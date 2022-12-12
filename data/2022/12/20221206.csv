@@ -1,0 +1,15 @@
+,name,ts,stars_count,views_total,views_uniques,clones_total,clones_uniques
+0,golang-rest-api-cassandra,2022-12-06,2,4,1,58,35
+1,istio-wasm-filter-golang,2022-12-06,0,0,0,1,1
+2,kops-aws,2022-12-06,4,0,0,3,2
+3,kotlin-ktor,2022-12-06,7,4,1,2,1
+4,kustomize-vs-helm,2022-12-06,4,0,0,2,1
+5,mqtt-golang-influxdb,2022-12-06,13,0,0,60,34
+6,ms-helm-chart,2022-12-06,1,0,0,2,1
+7,quarkus-kotlin-example,2022-12-06,2,1,1,0,0
+8,semantic-versioning-cli,2022-12-06,2,1,1,0,0
+9,spring-kotlin-crud,2022-12-06,6,0,0,2,1
+10,ta,2022-12-06,3,0,0,61,38
+11,spring-cloud-config,2022-12-06,0,0,0,1,1
+12,dstrategies-back,2022-12-06,0,0,0,1,1
+13,ocp-cluster-setup,2022-12-06,0,0,0,1,1

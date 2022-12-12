@@ -1,0 +1,13 @@
+,name,ts,stars_count,views_total,views_uniques,clones_total,clones_uniques
+0,golang-rest-api-cassandra,2022-11-30,2,0,0,58,38
+1,iot-devices-crud,2022-11-30,0,0,0,61,32
+2,iot-esp8266-dht11,2022-11-30,0,2,1,0,0
+3,jenkins-ci,2022-11-30,3,0,0,1,1
+4,kops-aws,2022-11-30,4,0,0,1,1
+5,kotlin-ktor,2022-11-30,7,26,1,0,0
+6,kustomize-vs-helm,2022-11-30,4,0,0,1,1
+7,mqtt-golang-influxdb,2022-11-30,13,11,1,48,27
+8,quarkus-kotlin-example,2022-11-30,2,3,2,0,0
+9,semantic-versioning-cli,2022-11-30,2,1,1,0,0
+10,ta,2022-11-30,3,0,0,2,2
+11,dstrategies-helm-chart,2022-11-30,0,0,0,1,1

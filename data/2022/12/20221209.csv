@@ -1,0 +1,16 @@
+,name,ts,stars_count,views_total,views_uniques,clones_total,clones_uniques
+0,b0rr3g0-blog,2022-12-09,0,1,1,0,0
+1,golang-k8s-helm-helloworld,2022-12-09,2,0,0,2,1
+2,golang-rest-api-cassandra,2022-12-09,2,5,1,0,0
+3,iot-devices-crud,2022-12-09,0,1,1,0,0
+4,jwt,2022-12-09,1,33,1,0,0
+5,kops-aws,2022-12-09,4,1,1,0,0
+6,kotlin-ktor,2022-12-09,7,0,0,1,1
+7,ml-learning,2022-12-09,0,0,0,1,1
+8,pelorus-workshop,2022-12-09,0,0,0,1,1
+9,semantic-versioning-cli,2022-12-09,2,4,2,0,0
+10,service-mesh-wasm-go,2022-12-09,0,0,0,2,2
+11,spring-kotlin-crud,2022-12-09,6,0,0,1,1
+12,ta,2022-12-09,3,0,0,1,1
+13,dstrategies-back,2022-12-09,0,0,0,1,1
+14,dstrategies-helm-chart,2022-12-09,0,0,0,1,1
