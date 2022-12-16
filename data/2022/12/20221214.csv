@@ -1,0 +1,10 @@
+,name,ts,stars_count,views_total,views_uniques,clones_total,clones_uniques
+0,golang-rest-api-cassandra,2022-12-14,2,0,0,20,13
+1,iot-devices-crud,2022-12-14,0,0,0,21,15
+2,kustomize-vs-helm,2022-12-14,4,1,1,0,0
+3,mqtt-golang-influxdb,2022-12-14,13,0,0,19,14
+4,ocp-monitoring-golang,2022-12-14,1,2,2,0,0
+5,quarkus-kotlin-example,2022-12-14,2,9,2,0,0
+6,semantic-versioning-cli,2022-12-14,2,131,1,16,4
+7,spring-cloud-ms2,2022-12-14,0,0,0,1,1
+8,dstrategies-frontend,2022-12-14,0,0,0,1,1
