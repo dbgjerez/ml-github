@@ -1,0 +1,15 @@
+,name,ts,stars_count,views_total,views_uniques,clones_total,clones_uniques
+0,golang-k8s-helm-helloworld,2022-12-19,2,0,0,1,1
+1,golang-rest-api-cassandra,2022-12-19,2,0,0,59,41
+2,iot-devices-crud,2022-12-19,0,0,0,59,45
+3,istio-wasm-filter-golang,2022-12-19,0,8,3,0,0
+4,mqtt-golang-influxdb,2022-12-19,13,6,1,20,18
+5,ms-helm-chart,2022-12-19,1,2,2,0,0
+6,quarkus-kotlin-example,2022-12-19,2,1,1,0,0
+7,semantic-versioning-cli,2022-12-19,2,4,1,0,0
+8,spring-kotlin-crud,2022-12-19,6,1,1,0,0
+9,ta,2022-12-19,3,0,0,21,18
+10,workshop-uca-aws-deploy,2022-12-19,0,0,0,1,1
+11,dstrategies-helm-chart,2022-12-19,0,2,2,0,0
+12,ocp-cluster-setup,2022-12-19,0,9,1,2,1
+13,redhat-workshop-deployment-strategies,2022-12-19,0,45,1,17,9
