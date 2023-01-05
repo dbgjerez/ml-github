@@ -1,0 +1,11 @@
+,name,ts,stars_count,views_total,views_uniques,clones_total,clones_uniques
+0,iot-devices-crud,2022-12-22,0,0,0,1,1
+1,semantic-versioning-cli,2022-12-22,2,0,0,1,1
+2,service-mesh-workshop,2022-12-22,2,6,1,0,0
+3,spring-boot-elk,2022-12-22,0,0,0,1,1
+4,ta,2022-12-22,3,0,0,1,1
+5,uca-workshop-docker,2022-12-22,0,0,0,1,1
+6,dstrategies-app-deployment,2022-12-22,0,0,0,3,2
+7,dstrategies-back,2022-12-22,0,1,1,0,0
+8,ocp-cluster-setup,2022-12-22,1,5,1,16,6
+9,redhat-workshop-deployment-strategies,2022-12-22,0,11,2,14,5

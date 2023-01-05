@@ -1,0 +1,15 @@
+,name,ts,stars_count,views_total,views_uniques,clones_total,clones_uniques
+0,github-traffic,2023-01-05,0,0,0,2,1
+1,golang-rest-api-cassandra,2023-01-05,2,0,0,7,6
+2,istio-wasm-filter-golang,2023-01-05,0,4,2,0,0
+3,kotlin-ktor,2023-01-05,7,0,0,1,1
+4,kubernetes-helm-operator,2023-01-05,0,0,0,2,1
+5,mqtt-golang-influxdb,2023-01-05,13,1,1,0,0
+6,poc-k8s-ambassador,2023-01-05,0,0,0,2,1
+7,semantic-versioning-cli,2023-01-05,2,1,1,0,0
+8,service-mesh-workshop,2023-01-05,2,1,1,0,0
+9,spring-cloud-ms1,2023-01-05,0,0,0,2,1
+10,dstrategies-app-deployment,2023-01-05,0,5,3,0,0
+11,dstrategies-frontend,2023-01-05,0,9,1,2,1
+12,ocp-cluster-setup,2023-01-05,1,7,2,0,0
+13,redhat-workshop-deployment-strategies,2023-01-05,0,1,1,0,0

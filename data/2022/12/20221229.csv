@@ -1,0 +1,10 @@
+,name,ts,stars_count,views_total,views_uniques,clones_total,clones_uniques
+0,amq-streams-workshop,2022-12-29,0,0,0,1,1
+1,ic-gradle,2022-12-29,0,0,0,1,1
+2,kotlin-ktor,2022-12-29,7,22,2,0,0
+3,mqtt-golang-influxdb,2022-12-29,13,1,1,0,0
+4,quarkus-kotlin-example,2022-12-29,2,0,0,1,1
+5,spring-cloud-dataflow,2022-12-29,0,0,0,1,1
+6,dstrategies-app-deployment,2022-12-29,0,8,2,8,7
+7,ocp-cluster-setup,2022-12-29,1,5,2,1,1
+8,redhat-workshop-deployment-strategies,2022-12-29,0,43,3,15,6

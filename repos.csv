@@ -41,7 +41,7 @@
 39,kubernetes-pipeline-plugin,[],20171226,dbgjerez
 40,kustomize-vs-helm,"['argocd', 'gitops', 'helm', 'kubernetes', 'kustomize', 'workshop']",20220706,dbgjerez
 41,library,[],20180201,dbgjerez
-42,ml-github,"['analytics', 'github', 'pandas', 'python']",20221216,dbgjerez
+42,ml-github,"['analytics', 'github', 'pandas', 'python']",20221221,dbgjerez
 43,ml-learning,"['machine-learning', 'pandas', 'python']",20220630,dbgjerez
 44,mqtt-golang-influxdb,"['golang', 'go', 'gin-gonic', 'gin', 'iot', 'mqtt', 'mosquitto', 'influxdb', 'influx']",20210316,dbgjerez
 45,ms-config-server,[],20170315,dbgjerez
@@ -73,9 +73,9 @@
 71,workshop-uca-aws-deploy,[],20220304,dbgjerez
 72,spring-cloud,[],20180116,ediazram
 73,spring-cloud-config,[],20180123,ediazram
-74,dstrategies-back,[],20221202,rhte2023-argo-rollouts
-75,dstrategies-frontend,[],20221212,rhte2023-argo-rollouts
-76,dstrategies-helm-chart,[],20221207,rhte2023-argo-rollouts
-77,ocp-cluster-setup,[],20221219,rhte2023-argo-rollouts
-78,redhat-workshop-deployment-strategies,[],20221219,rhte2023-argo-rollouts
+74,dstrategies-app-deployment,[],20230103,rhte2023-argo-rollouts
+75,dstrategies-back,[],20221202,rhte2023-argo-rollouts
+76,dstrategies-frontend,[],20221221,rhte2023-argo-rollouts
+77,ocp-cluster-setup,[],20230103,rhte2023-argo-rollouts
+78,redhat-workshop-deployment-strategies,[],20230104,rhte2023-argo-rollouts
 79,ProyectoEncuesta,[],20180602,strider76

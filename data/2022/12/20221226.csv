@@ -1,0 +1,15 @@
+,name,ts,stars_count,views_total,views_uniques,clones_total,clones_uniques
+0,golang-rest-api-cassandra,2022-12-26,2,0,0,58,33
+1,influxdb-telegraf-grafana,2022-12-26,0,0,0,1,1
+2,iot-devices-crud,2022-12-26,0,0,0,47,42
+3,iot-k8s-stack,2022-12-26,1,0,0,1,1
+4,istio-wasm-filter-golang,2022-12-26,0,6,2,0,0
+5,jwt,2022-12-26,1,0,0,1,1
+6,kotlin-ktor,2022-12-26,7,2,1,0,0
+7,mqtt-golang-influxdb,2022-12-26,13,2,1,54,38
+8,semantic-versioning-cli,2022-12-26,2,1,1,0,0
+9,service-mesh-workshop,2022-12-26,2,1,1,0,0
+10,spring-kotlin-crud,2022-12-26,6,2,1,0,0
+11,dstrategies-app-deployment,2022-12-26,0,1,1,0,0
+12,ocp-cluster-setup,2022-12-26,1,1,1,0,0
+13,redhat-workshop-deployment-strategies,2022-12-26,0,0,0,3,3

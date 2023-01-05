@@ -1,0 +1,6 @@
+,name,ts,stars_count,views_total,views_uniques,clones_total,clones_uniques
+0,golang-rest-api-cassandra,2022-12-30,2,0,0,1,1
+1,kops-aws,2022-12-30,4,0,0,1,1
+2,kustomize-vs-helm,2022-12-30,4,5,1,0,0
+3,semantic-versioning-cli,2022-12-30,2,1,1,0,0
+4,service-mesh-workshop,2022-12-30,2,1,1,0,0
