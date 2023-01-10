@@ -9,15 +9,15 @@
 7,cd-travis-app,[],20181118,dbgjerez
 8,clover,[],20220426,dbgjerez
 9,dbgjerez,[],20220303,dbgjerez
-10,git-changelog-maven-plugin,[],20191212,dbgjerez
-11,github-traffic,[],20220303,dbgjerez
-12,golang-azure-eventhub,[],20210315,dbgjerez
-13,golang-azure-eventhub-kafka,[],20210315,dbgjerez
-14,golang-gin-gonic,"['golang', 'go', 'gin-gonic']",20191108,dbgjerez
-15,golang-k8s-helm-helloworld,"['go', 'testing', 'golang', 'docker', 'kubernetes']",20220830,dbgjerez
-16,golang-rest-api-cassandra,"['golang', 'go', 'mux', 'cassandra', 'cassandra-database', 'cassandra-cql', 'docker', 'dockerfile', 'rest-api', 'restful-api', 'rest', 'gorilla-mux']",20220425,dbgjerez
-17,helm-spring-boot-chart,"['kubernetes', 'k8s', 'helm', 'spring-boot', 'microservice']",20200204,dbgjerez
-18,hugo-PaperMod,[],20220828,dbgjerez
+10,gingonic-go-mongodb,"['gin', 'gin-gonic', 'go', 'golang', 'mongodb']",20230105,dbgjerez
+11,git-changelog-maven-plugin,[],20191212,dbgjerez
+12,github-traffic,[],20220303,dbgjerez
+13,golang-azure-eventhub,[],20210315,dbgjerez
+14,golang-azure-eventhub-kafka,[],20210315,dbgjerez
+15,golang-gin-gonic,"['golang', 'go', 'gin-gonic']",20191108,dbgjerez
+16,golang-k8s-helm-helloworld,"['go', 'testing', 'golang', 'docker', 'kubernetes']",20220830,dbgjerez
+17,golang-rest-api-cassandra,"['golang', 'go', 'mux', 'cassandra', 'cassandra-database', 'cassandra-cql', 'docker', 'dockerfile', 'rest-api', 'restful-api', 'rest', 'gorilla-mux']",20220425,dbgjerez
+18,helm-spring-boot-chart,"['kubernetes', 'k8s', 'helm', 'spring-boot', 'microservice']",20200204,dbgjerez
 19,ic-gradle,[],20170525,dbgjerez
 20,icepie,[],20210419,dbgjerez
 21,influx-telegraf-chronograf,[],20190108,dbgjerez
@@ -41,7 +41,7 @@
 39,kubernetes-pipeline-plugin,[],20171226,dbgjerez
 40,kustomize-vs-helm,"['argocd', 'gitops', 'helm', 'kubernetes', 'kustomize', 'workshop']",20220706,dbgjerez
 41,library,[],20180201,dbgjerez
-42,ml-github,"['analytics', 'github', 'pandas', 'python']",20221221,dbgjerez
+42,ml-github,"['analytics', 'github', 'pandas', 'python']",20230105,dbgjerez
 43,ml-learning,"['machine-learning', 'pandas', 'python']",20220630,dbgjerez
 44,mqtt-golang-influxdb,"['golang', 'go', 'gin-gonic', 'gin', 'iot', 'mqtt', 'mosquitto', 'influxdb', 'influx']",20210316,dbgjerez
 45,ms-config-server,[],20170315,dbgjerez
@@ -76,6 +76,6 @@
 74,dstrategies-app-deployment,[],20230103,rhte2023-argo-rollouts
 75,dstrategies-back,[],20221202,rhte2023-argo-rollouts
 76,dstrategies-frontend,[],20221221,rhte2023-argo-rollouts
-77,ocp-cluster-setup,[],20230103,rhte2023-argo-rollouts
-78,redhat-workshop-deployment-strategies,[],20230104,rhte2023-argo-rollouts
+77,ocp-cluster-setup,[],20230105,rhte2023-argo-rollouts
+78,redhat-workshop-deployment-strategies,[],20230109,rhte2023-argo-rollouts
 79,ProyectoEncuesta,[],20180602,strider76

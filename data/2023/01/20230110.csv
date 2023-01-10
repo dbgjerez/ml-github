@@ -1,0 +1,5 @@
+,name,ts,stars_count,views_total,views_uniques,clones_total,clones_uniques
+0,iot-k8s-stack,2023-01-10,1,1,1,0,0
+1,mqtt-golang-influxdb,2023-01-10,13,7,1,0,0
+2,ms-helm-chart,2023-01-10,1,1,1,0,0
+3,redhat-workshop-deployment-strategies,2023-01-10,0,1,1,0,0
