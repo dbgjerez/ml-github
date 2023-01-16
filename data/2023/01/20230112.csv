@@ -1,0 +1,14 @@
+,name,ts,stars_count,views_total,views_uniques,clones_total,clones_uniques
+0,gingonic-go-mongodb,2023-01-12,0,6,1,2,2
+1,golang-azure-eventhub,2023-01-12,0,10,1,0,0
+2,golang-rest-api-cassandra,2023-01-12,2,0,0,59,44
+3,iot-devices-crud,2023-01-12,0,0,0,53,43
+4,kotlin-ktor,2023-01-12,7,17,2,0,0
+5,mqtt-golang-influxdb,2023-01-12,13,1,1,59,36
+6,quarkus-kafka,2023-01-12,0,7,1,0,0
+7,quarkus-kotlin-example,2023-01-12,2,22,1,0,0
+8,service-mesh-workshop,2023-01-12,2,0,0,2,2
+9,spring-kotlin-crud,2023-01-12,6,1,1,0,0
+10,dstrategies-app-deployment,2023-01-12,0,1,1,0,0
+11,ocp-cluster-setup,2023-01-12,1,0,0,5,4
+12,redhat-workshop-deployment-strategies,2023-01-12,0,24,4,0,0

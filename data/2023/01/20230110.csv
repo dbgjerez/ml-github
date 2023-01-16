@@ -1,5 +1,13 @@
 ,name,ts,stars_count,views_total,views_uniques,clones_total,clones_uniques
 0,iot-k8s-stack,2023-01-10,1,1,1,0,0
-1,mqtt-golang-influxdb,2023-01-10,13,7,1,0,0
-2,ms-helm-chart,2023-01-10,1,1,1,0,0
-3,redhat-workshop-deployment-strategies,2023-01-10,0,1,1,0,0
+1,kotlin-ktor,2023-01-10,7,1,1,0,0
+2,ml-github,2023-01-10,1,0,0,3,2
+3,mqtt-golang-influxdb,2023-01-10,13,7,1,0,0
+4,ms-helm-chart,2023-01-10,1,1,1,0,0
+5,quarkus-kotlin-example,2023-01-10,2,13,1,0,0
+6,service-mesh-workshop,2023-01-10,2,0,0,1,1
+7,spring-kotlin-crud,2023-01-10,6,27,2,1,1
+8,dstrategies-app-deployment,2023-01-10,0,26,1,0,0
+9,dstrategies-frontend,2023-01-10,0,0,0,1,1
+10,ocp-cluster-setup,2023-01-10,1,4,2,0,0
+11,redhat-workshop-deployment-strategies,2023-01-10,0,11,2,0,0

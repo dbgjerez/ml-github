@@ -1,0 +1,4 @@
+,name,ts,stars_count,views_total,views_uniques,clones_total,clones_uniques
+0,golang-rest-api-cassandra,2023-01-16,2,1,1,0,0
+1,kotlin-ktor,2023-01-16,7,4,1,0,0
+2,mqtt-golang-influxdb,2023-01-16,13,0,0,17,16
