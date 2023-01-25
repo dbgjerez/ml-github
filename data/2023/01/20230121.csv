@@ -1,0 +1,12 @@
+,name,ts,stars_count,views_total,views_uniques,clones_total,clones_uniques
+0,amq-streams-workshop,2023-01-21,0,0,0,1,1
+1,golang-rest-api-cassandra,2023-01-21,2,6,2,8,8
+2,helm-spring-boot-chart,2023-01-21,1,2,1,0,0
+3,iot-devices-crud,2023-01-21,0,0,0,28,23
+4,iot-esp8266-relay-web-server,2023-01-21,0,10,1,0,0
+5,istio-wasm-filter-golang,2023-01-21,0,2,1,0,0
+6,kotlin-ktor,2023-01-21,7,6,2,0,0
+7,mqtt-golang-influxdb,2023-01-21,13,1,1,0,0
+8,service-mesh-workshop,2023-01-21,2,5,1,5,3
+9,ta,2023-01-21,3,0,0,8,8
+10,redhat-workshop-deployment-strategies,2023-01-21,0,4,1,0,0

@@ -8,7 +8,7 @@
 6,istio-wasm-filter-golang,2023-01-13,0,5,1,0,0
 7,kotlin-ktor,2023-01-13,7,11,2,1,1
 8,mqtt-golang-influxdb,2023-01-13,13,1,1,58,37
-9,semantic-versioning-cli,2023-01-13,2,8,1,0,0
+9,semantic-versioning-cli,2023-01-13,3,8,1,0,0
 10,service-mesh-workshop,2023-01-13,2,29,1,2,2
 11,spring-cloud-ms1,2023-01-13,0,0,0,1,1
 12,spring-kotlin-crud,2023-01-13,6,12,1,0,0
