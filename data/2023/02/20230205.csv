@@ -1,0 +1,14 @@
+,name,ts,stars_count,views_total,views_uniques,clones_total,clones_uniques
+0,amq-streams-workshop,2023-02-05,0,0,0,1,1
+1,gingonic-go-mongodb,2023-02-05,0,1,1,1,1
+2,golang-rest-api-cassandra,2023-02-05,2,0,0,59,40
+3,iot-devices-crud,2023-02-05,0,2,2,1,1
+4,iot-k8s-stack,2023-02-05,1,1,1,0,0
+5,istio-wasm-filter-golang,2023-02-05,0,2,1,0,0
+6,kafka-gitops,2023-02-05,0,0,0,1,1
+7,kotlin-ktor,2023-02-05,7,13,2,0,0
+8,mqtt-golang-influxdb,2023-02-05,13,1,1,0,0
+9,ocp-monitoring-golang,2023-02-05,1,1,1,0,0
+10,spring-kotlin-crud,2023-02-05,6,0,0,2,2
+11,dstrategies-app-deployment,2023-02-05,0,12,2,0,0
+12,ocp-cluster-setup,2023-02-05,0,4,1,0,0

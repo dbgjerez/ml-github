@@ -1,0 +1,9 @@
+,name,ts,stars_count,views_total,views_uniques,clones_total,clones_uniques
+0,ansible-bootstrap-workstation,2023-01-28,0,0,0,1,1
+1,iot-esp8266-dht11,2023-01-28,0,0,0,1,1
+2,kotlin-ktor,2023-01-28,7,10,2,0,0
+3,ml-github,2023-01-28,1,0,0,1,1
+4,mqtt-golang-influxdb,2023-01-28,13,1,1,0,0
+5,service-mesh-workshop,2023-01-28,2,3,1,0,0
+6,workshop-golang-grpc,2023-01-28,0,0,0,1,1
+7,workshop-service-mesh-doc,2023-01-28,0,0,0,1,1
