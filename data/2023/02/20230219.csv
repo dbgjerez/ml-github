@@ -1,0 +1,13 @@
+,name,ts,stars_count,views_total,views_uniques,clones_total,clones_uniques
+0,golang-rest-api-cassandra,2023-02-19,2,0,0,59,44
+1,jenkins-ci,2023-02-19,3,0,0,1,1
+2,kotlin-ktor,2023-02-19,7,1,1,0,0
+3,library,2023-02-19,0,0,0,1,1
+4,mqtt-golang-influxdb,2023-02-19,13,6,2,0,0
+5,service-mesh-workshop,2023-02-19,3,27,1,0,0
+6,spring-cloud-dataflow,2023-02-19,0,0,0,1,1
+7,spring-cloud-ms1,2023-02-19,0,0,0,4,2
+8,spring-kotlin-crud,2023-02-19,6,0,0,1,1
+9,workshop-redhat-sso,2023-02-19,0,1,1,1,1
+10,spring-cloud-config,2023-02-19,0,0,0,1,1
+11,dstrategies-frontend,2023-02-19,0,0,0,1,1

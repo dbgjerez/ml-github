@@ -1,8 +1,10 @@
 ,name,ts,stars_count,views_total,views_uniques,clones_total,clones_uniques
-0,cd-travis-app,2023-02-06,0,0,0,1,1
-1,golang-rest-api-cassandra,2023-02-06,2,3,1,20,18
-2,istio-wasm-filter-golang,2023-02-06,0,2,1,0,0
-3,mqtt-golang-influxdb,2023-02-06,13,2,2,0,0
-4,service-mesh-workshop,2023-02-06,2,0,0,1,1
+0,gingonic-go-mongodb,2023-02-06,0,1,1,0,0
+1,kotlin-ktor,2023-02-06,7,9,1,0,0
+2,ml-github,2023-02-06,1,0,0,3,2
+3,mqtt-golang-influxdb,2023-02-06,13,1,1,0,0
+4,quarkus-kotlin-example,2023-02-06,2,1,1,0,0
 5,workshop-argo-rollouts-resources,2023-02-06,1,2,1,0,0
-6,dstrategies-app-deployment,2023-02-06,0,1,1,1,1
+6,workshop-golang-grpc,2023-02-06,0,2,1,25,8
+7,dstrategies-app-deployment,2023-02-06,0,0,0,1,1
+8,ocp-cluster-setup,2023-02-06,0,2,1,0,0

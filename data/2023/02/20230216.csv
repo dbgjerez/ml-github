@@ -1,0 +1,13 @@
+,name,ts,stars_count,views_total,views_uniques,clones_total,clones_uniques
+0,gingonic-go-mongodb,2023-02-16,0,3,1,1,1
+1,iot-devices-crud,2023-02-16,0,9,1,0,0
+2,iot-esp8266-dht11,2023-02-16,0,0,0,1,1
+3,istio-wasm-filter-golang,2023-02-16,0,1,1,0,0
+4,kotlin-ktor,2023-02-16,7,32,3,0,0
+5,quarkus-kafka,2023-02-16,0,15,1,0,0
+6,semantic-versioning-cli,2023-02-16,4,0,0,1,1
+7,service-mesh-workshop,2023-02-16,3,0,0,12,1
+8,uca-workshop-docker,2023-02-16,0,0,0,1,1
+9,workshop-golang-grpc,2023-02-16,0,0,0,234,128
+10,dstrategies-app-deployment,2023-02-16,0,14,1,0,0
+11,ocp-cluster-setup,2023-02-16,0,19,1,0,0
