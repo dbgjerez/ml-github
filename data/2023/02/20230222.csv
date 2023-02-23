@@ -1,0 +1,13 @@
+,name,ts,stars_count,views_total,views_uniques,clones_total,clones_uniques
+0,golang-rest-api-cassandra,2023-02-22,2,3,1,0,0
+1,iot-devices-crud,2023-02-22,0,0,0,1,1
+2,istio-wasm-filter-golang,2023-02-22,0,2,2,0,0
+3,kustomize-vs-helm,2023-02-22,4,12,1,0,0
+4,ms-helm-chart,2023-02-22,1,0,0,1,1
+5,quarkus-kafka,2023-02-22,0,7,1,0,0
+6,spring-cloud-ms1,2023-02-22,0,0,0,4,2
+7,workshop-golang-grpc,2023-02-22,0,0,0,83,58
+8,workshop-redhat-sso,2023-02-22,0,0,0,6,6
+9,dstrategies-frontend,2023-02-22,0,1,1,0,0
+10,ocp-cluster-setup,2023-02-22,0,1,1,0,0
+11,redhat-workshop-deployment-strategies,2023-02-22,0,2,1,0,0
