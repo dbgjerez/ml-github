@@ -26,7 +26,7 @@ update-notebook: ## Execute the notebook
 
 git: ## Upload the changes to repository
 	git add .
-	git commit -m 'update process'
+	git commit -m '[BOT] - update process'
 	git push
 
 git-pull: ## Download the latest changes
