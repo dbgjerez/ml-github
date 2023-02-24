@@ -10,7 +10,7 @@ help: ## Show opstions and short description
 prepare_venv: $(VENV_NAME)/bin/activate
 
 $(VENV_NAME)/bin/activate: requirements.txt
-	python -m $(VENV_NAME) $(VENV_NAME)
+	python3.11 -m $(VENV_NAME) $(VENV_NAME)
 	${PYTHON} -m pip install -U pip
 	${PYTHON} -m pip install -r requirements.txt
 	touch $(VENV_NAME)/bin/activate
