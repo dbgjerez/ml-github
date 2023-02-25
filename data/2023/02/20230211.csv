@@ -3,6 +3,6 @@
 1,jwt,2023-02-11,1,0,0,1,1
 2,kotlin-ktor,2023-02-11,7,25,2,0,0
 3,mqtt-golang-influxdb,2023-02-11,13,0,0,1,1
-4,spring-cloud-ms1,2023-02-11,0,0,0,4,2
-5,workshop-golang-grpc,2023-02-11,0,1,1,136,68
+4,spring-cloud-ms1,2023-02-11,0,0,0,2,1
+5,workshop-golang-grpc,2023-02-11,0,1,1,120,66
 6,dstrategies-frontend,2023-02-11,0,0,0,1,1
