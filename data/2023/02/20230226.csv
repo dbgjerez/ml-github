@@ -1,3 +1,6 @@
 ,name,ts,stars_count,views_total,views_uniques,clones_total,clones_uniques
-0,mqtt-golang-influxdb,2023-02-26,13,0,0,2,2
-1,workshop-golang-grpc,2023-02-26,0,0,0,2,2
+0,ml-github,2023-02-26,1,0,0,2,1
+1,mqtt-golang-influxdb,2023-02-26,13,0,0,58,38
+2,workshop-golang-grpc,2023-02-26,0,1,1,19,18
+3,workshop-redhat-sso,2023-02-26,0,0,0,1,1
+4,dstrategies-back,2023-02-26,0,0,0,1,1
