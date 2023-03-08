@@ -11,7 +11,7 @@
 9,kotlin-ktor,2023-03-06,7,5,1,0,0
 10,kustomize-vs-helm,2023-03-06,4,1,1,0,0
 11,ml-github,2023-03-06,1,2,1,2,2
-12,mqtt-golang-influxdb,2023-03-06,13,0,0,42,35
+12,mqtt-golang-influxdb,2023-03-06,13,0,0,44,36
 13,ocp-HTPasswd-file-provider,2023-03-06,0,1,1,0,0
 14,ocp-monitoring-golang,2023-03-06,1,2,1,1,1
 15,quarkus-kotlin-example,2023-03-06,2,0,0,1,1
