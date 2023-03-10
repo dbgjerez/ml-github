@@ -13,9 +13,9 @@
 11,ocp-monitoring-golang,2023-03-07,1,1,1,0,0
 12,quarkus-kotlin-example,2023-03-07,2,6,1,0,0
 13,spring-cloud-eureka,2023-03-07,0,0,0,1,1
-14,spring-cloud-ms1,2023-03-07,0,0,0,2,1
+14,spring-cloud-ms1,2023-03-07,0,0,0,3,2
 15,ta,2023-03-07,3,0,0,9,9
 16,workshop-golang-grpc,2023-03-07,0,0,0,23,22
 17,dstrategies-back,2023-03-07,0,0,0,1,1
-18,ocp-cluster-setup,2023-03-07,0,1,1,1,1
-19,redhat-workshop-deployment-strategies,2023-03-07,0,0,0,1,1
+18,ocp-cluster-setup,2023-03-07,1,1,1,1,1
+19,redhat-workshop-deployment-strategies,2023-03-07,1,0,0,1,1

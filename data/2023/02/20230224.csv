@@ -8,8 +8,7 @@
 6,ml-github,2023-02-24,1,25,1,12,6
 7,redhat-workshop-base,2023-02-24,0,0,0,1,1
 8,semantic-versioning-cli,2023-02-24,4,7,1,0,0
-9,service-mesh-wasm-go,2023-02-24,0,0,0,1,1
-10,ta,2023-02-24,3,0,0,1,1
-11,workshop-golang-grpc,2023-02-24,0,12,6,59,43
-12,workshop-redhat-sso,2023-02-24,0,0,0,1,1
-13,workshop-uca-aws-deploy,2023-02-24,0,0,0,1,1
+9,ta,2023-02-24,3,0,0,1,1
+10,workshop-golang-grpc,2023-02-24,0,12,6,51,37
+11,workshop-redhat-sso,2023-02-24,0,0,0,1,1
+12,workshop-uca-aws-deploy,2023-02-24,0,0,0,1,1
