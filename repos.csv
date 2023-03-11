@@ -6,7 +6,7 @@
 4,b0rr3g0-blog,"['blog', 'hugo']",20220909,dbgjerez
 5,beautifulhugo,[],20220627,dbgjerez
 6,blog,[],20170531,dbgjerez
-7,cd-travis-app,[],20181118,dbgjerez
+7,cd-travis-app,"['java', 'spring-boot', 'travis-ci']",20181118,dbgjerez
 8,clover,[],20220426,dbgjerez
 9,dbgjerez,[],20230224,dbgjerez
 10,gingonic-go-mongodb,"['gin', 'gin-gonic', 'go', 'golang', 'mongodb']",20230105,dbgjerez
@@ -47,38 +47,36 @@
 45,ocp-logging,[],20230309,dbgjerez
 46,ocp-monitoring-golang,"['grafana', 'kubernetes', 'metrics', 'monitoring', 'observability', 'openshift', 'prometheus', 'redhat', 'go', 'golang']",20220902,dbgjerez
 47,pelorus-workshop,"['kubernetes', 'openshift', 'redhat', 'workshop', 'pelorus']",20220707,dbgjerez
-48,petclinic-config,[],20210208,dbgjerez
-49,quarkus-kafka,[],20220303,dbgjerez
-50,quarkus-kotlin-example,[],20190422,dbgjerez
-51,redhat-workshop-base,[],20230123,dbgjerez
-52,REST-Services-MySQL,[],20150530,dbgjerez
-53,semantic-versioning-cli,"['golang', 'semantic-versioning', 'versioning']",20221220,dbgjerez
-54,service-mesh-wasm-go,[],20220705,dbgjerez
-55,service-mesh-workshop,[],20230309,dbgjerez
-56,spring-boot-elk,[],20170315,dbgjerez
-57,spring-boot-grafana,[],20180306,dbgjerez
-58,spring-cloud-dataflow,[],20180205,dbgjerez
-59,spring-cloud-eureka,[],20171204,dbgjerez
-60,spring-cloud-ms1,"['spring', 'springcloud', 'java', 'java-8', 'spring-boot', 'spring-mvc']",20170417,dbgjerez
-61,spring-cloud-ms2,[],20170417,dbgjerez
-62,spring-data-mongodb,[],20160922,dbgjerez
-63,spring-kotlin-crud,"['mongodb', 'kotlin', 'spring-kotlin-crud', 'spring', 'spring-mvc', 'spring-boot', 'spring-data-mongodb', 'kotlin-language', 'functional-programming', 'gradle']",20181221,dbgjerez
-64,ta,"['criptocurrency', 'gitops', 'golang', 'technical-analysis', 'go']",20220704,dbgjerez
-65,terraform-ansible-aws,[],20190521,dbgjerez
-66,terraform-aws-demo,[],20171124,dbgjerez
-67,uca-workshop-docker,[],20191202,dbgjerez
-68,vagrant-php-boxes,[],20170426,dbgjerez
-69,workshop-argo-rollouts-doc,[],20230124,dbgjerez
-70,workshop-argo-rollouts-resources,[],20230124,dbgjerez
-71,workshop-golang-grpc,[],20230223,dbgjerez
-72,workshop-redhat-sso,[],20230217,dbgjerez
-73,workshop-service-mesh-doc,[],20230126,dbgjerez
-74,workshop-uca-aws-deploy,[],20220304,dbgjerez
-75,spring-cloud,[],20180116,ediazram
-76,spring-cloud-config,[],20180123,ediazram
-77,dstrategies-app-deployment,[],20230202,rhte2023-argo-rollouts
-78,dstrategies-back,[],20221202,rhte2023-argo-rollouts
-79,dstrategies-frontend,[],20221221,rhte2023-argo-rollouts
-80,ocp-cluster-setup,[],20230112,rhte2023-argo-rollouts
-81,redhat-workshop-deployment-strategies,[],20230303,rhte2023-argo-rollouts
-82,ProyectoEncuesta,[],20180602,strider76
+48,quarkus-kafka,[],20220303,dbgjerez
+49,quarkus-kotlin-example,[],20190422,dbgjerez
+50,redhat-workshop-base,[],20230123,dbgjerez
+51,REST-Services-MySQL,[],20150530,dbgjerez
+52,semantic-versioning-cli,"['golang', 'semantic-versioning', 'versioning']",20221220,dbgjerez
+53,service-mesh-wasm-go,[],20220705,dbgjerez
+54,service-mesh-workshop,"['architecture', 'golang', 'istio', 'openshift', 'redhat', 'service-mesh']",20230309,dbgjerez
+55,spring-boot-grafana,[],20180306,dbgjerez
+56,spring-cloud-dataflow,[],20180205,dbgjerez
+57,spring-cloud-eureka,[],20171204,dbgjerez
+58,spring-cloud-ms1,"['spring', 'springcloud', 'java', 'java-8', 'spring-boot', 'spring-mvc']",20170417,dbgjerez
+59,spring-cloud-ms2,[],20170417,dbgjerez
+60,spring-data-mongodb,[],20160922,dbgjerez
+61,spring-kotlin-crud,"['mongodb', 'kotlin', 'spring-kotlin-crud', 'spring', 'spring-mvc', 'spring-boot', 'spring-data-mongodb', 'kotlin-language', 'functional-programming', 'gradle']",20181221,dbgjerez
+62,ta,"['criptocurrency', 'gitops', 'golang', 'technical-analysis', 'go']",20220704,dbgjerez
+63,terraform-ansible-aws,[],20190521,dbgjerez
+64,terraform-aws-demo,[],20171124,dbgjerez
+65,uca-workshop-docker,[],20191202,dbgjerez
+66,vagrant-php-boxes,[],20170426,dbgjerez
+67,workshop-argo-rollouts-doc,"['argo-rollouts', 'argocd', 'bluegreen-deployment', 'canary', 'rollouts']",20230124,dbgjerez
+68,workshop-argo-rollouts-resources,[],20230124,dbgjerez
+69,workshop-golang-grpc,"['go', 'golang', 'grpc', 'microservices']",20230223,dbgjerez
+70,workshop-redhat-sso,[],20230217,dbgjerez
+71,workshop-service-mesh-doc,[],20230126,dbgjerez
+72,workshop-uca-aws-deploy,[],20220304,dbgjerez
+73,spring-cloud,[],20180116,ediazram
+74,spring-cloud-config,[],20180123,ediazram
+75,dstrategies-app-deployment,[],20230202,rhte2023-argo-rollouts
+76,dstrategies-back,[],20221202,rhte2023-argo-rollouts
+77,dstrategies-frontend,[],20221221,rhte2023-argo-rollouts
+78,ocp-cluster-setup,[],20230112,rhte2023-argo-rollouts
+79,redhat-workshop-deployment-strategies,[],20230303,rhte2023-argo-rollouts
+80,ProyectoEncuesta,[],20180602,strider76
