@@ -1,0 +1,12 @@
+,name,ts,stars_count,views_total,views_uniques,clones_total,clones_uniques
+0,gingonic-go-mongodb,2023-03-12,0,0,0,1,1
+1,iot-esp8266-dht11,2023-03-12,0,0,0,1,1
+2,kafka-gitops,2023-03-12,0,0,0,1,1
+3,kotlin-ktor,2023-03-12,7,4,1,0,0
+4,ml-github,2023-03-12,1,1,1,0,0
+5,mqtt-golang-influxdb,2023-03-12,13,0,0,1,1
+6,ocp-logging,2023-03-12,1,8,1,1,1
+7,pelorus-workshop,2023-03-12,0,0,0,1,1
+8,semantic-versioning-cli,2023-03-12,4,0,0,2,2
+9,service-mesh-workshop,2023-03-12,3,0,0,2,2
+10,spring-cloud-ms2,2023-03-12,0,0,0,1,1
