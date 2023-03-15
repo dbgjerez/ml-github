@@ -36,41 +36,41 @@
 34,kops-aws,"['aws', 'kops', 'kubernetes']",20220726,dbgjerez
 35,kotlin-ktor,"['guice', 'kotlin', 'ktor', 'ktor-framework', 'cassandra', 'datastax-driver']",20190422,dbgjerez
 36,kubernetes-golang-operator,[],20210813,dbgjerez
-37,kubernetes-helm-operator,[],20211011,dbgjerez
-38,kustomize-vs-helm,"['argocd', 'gitops', 'helm', 'kubernetes', 'kustomize', 'workshop']",20220706,dbgjerez
-39,library,[],20180201,dbgjerez
-40,ml-github,"['analytics', 'github', 'pandas', 'python']",20230313,dbgjerez
-41,ml-learning,"['machine-learning', 'pandas', 'python']",20220630,dbgjerez
-42,mqtt-golang-influxdb,"['golang', 'go', 'gin-gonic', 'gin', 'iot', 'mqtt', 'mosquitto', 'influxdb', 'influx']",20210316,dbgjerez
-43,ms-helm-chart,[],20210210,dbgjerez
-44,ocp-HTPasswd-file-provider,"['htpasswd', 'kubernetes', 'ocp', 'openshift', 'security']",20220818,dbgjerez
-45,ocp-logging,[],20230309,dbgjerez
-46,ocp-monitoring-golang,"['grafana', 'kubernetes', 'metrics', 'monitoring', 'observability', 'openshift', 'prometheus', 'redhat', 'go', 'golang']",20220902,dbgjerez
-47,pelorus-workshop,"['kubernetes', 'openshift', 'redhat', 'workshop', 'pelorus']",20220707,dbgjerez
-48,quarkus-kafka,[],20220303,dbgjerez
-49,quarkus-kotlin-example,[],20190422,dbgjerez
-50,redhat-workshop-base,[],20230123,dbgjerez
-51,REST-Services-MySQL,[],20150530,dbgjerez
-52,semantic-versioning-cli,"['golang', 'semantic-versioning', 'versioning']",20221220,dbgjerez
-53,service-mesh-wasm-go,[],20220705,dbgjerez
-54,service-mesh-workshop,"['architecture', 'golang', 'istio', 'openshift', 'redhat', 'service-mesh']",20230309,dbgjerez
-55,spring-boot-grafana,[],20180306,dbgjerez
-56,spring-cloud-dataflow,[],20180205,dbgjerez
-57,spring-cloud-eureka,[],20171204,dbgjerez
-58,spring-cloud-ms1,"['spring', 'springcloud', 'java', 'java-8', 'spring-boot', 'spring-mvc']",20170417,dbgjerez
-59,spring-cloud-ms2,[],20170417,dbgjerez
-60,spring-data-mongodb,[],20160922,dbgjerez
-61,spring-kotlin-crud,"['mongodb', 'kotlin', 'spring-kotlin-crud', 'spring', 'spring-mvc', 'spring-boot', 'spring-data-mongodb', 'kotlin-language', 'functional-programming', 'gradle']",20181221,dbgjerez
-62,ta,"['criptocurrency', 'gitops', 'golang', 'technical-analysis', 'go']",20220704,dbgjerez
-63,terraform-ansible-aws,[],20190521,dbgjerez
-64,terraform-aws-demo,[],20171124,dbgjerez
-65,uca-workshop-docker,[],20191202,dbgjerez
-66,vagrant-php-boxes,[],20170426,dbgjerez
-67,workshop-argo-rollouts-doc,"['argo-rollouts', 'argocd', 'bluegreen-deployment', 'canary', 'rollouts']",20230124,dbgjerez
-68,workshop-argo-rollouts-resources,[],20230124,dbgjerez
-69,workshop-golang-grpc,"['go', 'golang', 'grpc', 'microservices']",20230223,dbgjerez
-70,workshop-redhat-sso,[],20230217,dbgjerez
-71,workshop-service-mesh-doc,[],20230126,dbgjerez
+37,kustomize-vs-helm,"['argocd', 'gitops', 'helm', 'kubernetes', 'kustomize', 'workshop']",20220706,dbgjerez
+38,library,[],20180201,dbgjerez
+39,ml-github,"['analytics', 'github', 'pandas', 'python']",20230314,dbgjerez
+40,ml-learning,"['machine-learning', 'pandas', 'python']",20220630,dbgjerez
+41,mqtt-golang-influxdb,"['golang', 'go', 'gin-gonic', 'gin', 'iot', 'mqtt', 'mosquitto', 'influxdb', 'influx']",20210316,dbgjerez
+42,ms-helm-chart,[],20210210,dbgjerez
+43,ocp-HTPasswd-file-provider,"['htpasswd', 'kubernetes', 'ocp', 'openshift', 'security']",20220818,dbgjerez
+44,ocp-logging,[],20230309,dbgjerez
+45,ocp-monitoring-golang,"['grafana', 'kubernetes', 'metrics', 'monitoring', 'observability', 'openshift', 'prometheus', 'redhat', 'go', 'golang']",20220902,dbgjerez
+46,pelorus-workshop,"['kubernetes', 'openshift', 'redhat', 'workshop', 'pelorus']",20220707,dbgjerez
+47,quarkus-kafka,[],20220303,dbgjerez
+48,quarkus-kotlin-example,[],20190422,dbgjerez
+49,redhat-workshop-base,[],20230123,dbgjerez
+50,REST-Services-MySQL,[],20150530,dbgjerez
+51,semantic-versioning-cli,"['golang', 'semantic-versioning', 'versioning']",20221220,dbgjerez
+52,service-mesh-wasm-go,[],20220705,dbgjerez
+53,service-mesh-workshop,"['architecture', 'golang', 'istio', 'openshift', 'redhat', 'service-mesh']",20230309,dbgjerez
+54,spring-boot-grafana,[],20180306,dbgjerez
+55,spring-cloud-dataflow,[],20180205,dbgjerez
+56,spring-cloud-eureka,[],20171204,dbgjerez
+57,spring-cloud-ms1,"['spring', 'springcloud', 'java', 'java-8', 'spring-boot', 'spring-mvc']",20170417,dbgjerez
+58,spring-cloud-ms2,[],20170417,dbgjerez
+59,spring-data-mongodb,[],20160922,dbgjerez
+60,spring-kotlin-crud,"['mongodb', 'kotlin', 'spring-kotlin-crud', 'spring', 'spring-mvc', 'spring-boot', 'spring-data-mongodb', 'kotlin-language', 'functional-programming', 'gradle']",20181221,dbgjerez
+61,ta,"['criptocurrency', 'gitops', 'golang', 'technical-analysis', 'go']",20220704,dbgjerez
+62,terraform-ansible-aws,[],20190521,dbgjerez
+63,terraform-aws-demo,[],20171124,dbgjerez
+64,uca-workshop-docker,[],20191202,dbgjerez
+65,vagrant-php-boxes,[],20170426,dbgjerez
+66,workshop-argo-rollouts-doc,"['argo-rollouts', 'argocd', 'bluegreen-deployment', 'canary', 'rollouts']",20230124,dbgjerez
+67,workshop-argo-rollouts-resources,[],20230124,dbgjerez
+68,workshop-golang-grpc,"['go', 'golang', 'grpc', 'microservices']",20230223,dbgjerez
+69,workshop-redhat-sso,[],20230217,dbgjerez
+70,workshop-service-mesh-doc,[],20230126,dbgjerez
+71,workshop-tekton,"['argocd', 'openshift', 'pipelines-as-code', 'tekton', 'tekton-pipelines']",20230314,dbgjerez
 72,workshop-uca-aws-deploy,[],20220304,dbgjerez
 73,spring-cloud,[],20180116,ediazram
 74,spring-cloud-config,[],20180123,ediazram
