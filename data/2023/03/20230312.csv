@@ -3,7 +3,7 @@
 1,iot-esp8266-dht11,2023-03-12,0,0,0,1,1
 2,kotlin-ktor,2023-03-12,7,4,1,0,0
 3,ml-github,2023-03-12,1,1,1,0,0
-4,mqtt-golang-influxdb,2023-03-12,13,0,0,1,1
+4,mqtt-golang-influxdb,2023-03-12,14,0,0,1,1
 5,ocp-logging,2023-03-12,1,8,1,1,1
 6,pelorus-workshop,2023-03-12,0,0,0,1,1
 7,semantic-versioning-cli,2023-03-12,4,0,0,2,2

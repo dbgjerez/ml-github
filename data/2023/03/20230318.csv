@@ -5,7 +5,7 @@
 3,iot-k8s-stack,2023-03-18,1,0,0,2,2
 4,istio-wasm-filter-golang,2023-03-18,0,0,0,1,1
 5,kotlin-ktor,2023-03-18,7,1,1,0,0
-6,mqtt-golang-influxdb,2023-03-18,13,2,2,0,0
+6,mqtt-golang-influxdb,2023-03-18,14,2,2,0,0
 7,ms-helm-chart,2023-03-18,1,0,0,2,2
 8,ocp-logging,2023-03-18,1,1,1,0,0
 9,spring-kotlin-crud,2023-03-18,6,0,0,1,1
