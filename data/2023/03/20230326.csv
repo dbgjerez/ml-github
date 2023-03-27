@@ -1,0 +1,14 @@
+,name,ts,stars_count,views_total,views_uniques,clones_total,clones_uniques
+0,amq-streams-workshop,2023-03-26,0,1,1,0,0
+1,golang-azure-eventhub-kafka,2023-03-26,0,0,0,1,1
+2,golang-rest-api-cassandra,2023-03-26,2,4,1,38,28
+3,iot-esp8266-dht11,2023-03-26,0,0,0,1,1
+4,jwt,2023-03-26,1,0,0,1,1
+5,kotlin-ktor,2023-03-26,7,20,2,0,0
+6,ml-github,2023-03-26,1,7,1,8,5
+7,ml-learning,2023-03-26,0,0,0,1,1
+8,mqtt-golang-influxdb,2023-03-26,14,1,1,0,0
+9,quarkus-kafka,2023-03-26,1,30,3,5,4
+10,workshop-amq-streams,2023-03-26,0,11,1,1,1
+11,workshop-golang-grpc,2023-03-26,0,0,0,83,59
+12,workshop-tekton,2023-03-26,0,4,1,1,1
