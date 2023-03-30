@@ -39,7 +39,7 @@
 37,ocp-logging,[],20230309,dbgjerez
 38,ocp-monitoring-golang,"['grafana', 'kubernetes', 'metrics', 'monitoring', 'observability', 'openshift', 'prometheus', 'redhat', 'go', 'golang']",20220902,dbgjerez
 39,pelorus-workshop,"['kubernetes', 'openshift', 'redhat', 'workshop', 'pelorus']",20220707,dbgjerez
-40,quarkus-kafka,[],20230328,dbgjerez
+40,quarkus-kafka,[],20230329,dbgjerez
 41,quarkus-kotlin-example,[],20190422,dbgjerez
 42,redhat-workshop-base,[],20230123,dbgjerez
 43,REST-Services-MySQL,[],20150530,dbgjerez
