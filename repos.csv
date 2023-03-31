@@ -3,7 +3,7 @@
 1,ansible-base,[],20220702,dbgjerez
 2,ansible-bootstrap-workstation,"['ansible', 'ansible-playbook', 'fedora']",20221006,dbgjerez
 3,asciidoc-base,"['asciidoc', 'documentation']",20220905,dbgjerez
-4,b0rr3g0-blog,"['blog', 'hugo']",20220909,dbgjerez
+4,b0rr3g0-blog,"['blog', 'hugo']",20230330,dbgjerez
 5,cd-travis-app,"['java', 'spring-boot', 'travis-ci']",20181118,dbgjerez
 6,dbgjerez,[],20230224,dbgjerez
 7,gingonic-go-mongodb,"['gin', 'gin-gonic', 'go', 'golang', 'mongodb']",20230105,dbgjerez
@@ -31,7 +31,7 @@
 29,kubernetes-golang-operator,[],20210813,dbgjerez
 30,kustomize-vs-helm,"['argocd', 'gitops', 'helm', 'kubernetes', 'kustomize', 'workshop']",20230323,dbgjerez
 31,library,[],20180201,dbgjerez
-32,ml-github,"['analytics', 'github', 'pandas', 'python']",20230329,dbgjerez
+32,ml-github,"['analytics', 'github', 'pandas', 'python']",20230330,dbgjerez
 33,ml-learning,"['machine-learning', 'pandas', 'python']",20220630,dbgjerez
 34,mqtt-golang-influxdb,"['golang', 'go', 'gin-gonic', 'gin', 'iot', 'mqtt', 'mosquitto', 'influxdb', 'influx']",20210316,dbgjerez
 35,ms-helm-chart,[],20210210,dbgjerez
@@ -45,7 +45,7 @@
 43,REST-Services-MySQL,[],20150530,dbgjerez
 44,semantic-versioning-cli,"['golang', 'semantic-versioning', 'versioning']",20221220,dbgjerez
 45,service-mesh-wasm-go,[],20220705,dbgjerez
-46,service-mesh-workshop,"['architecture', 'golang', 'istio', 'openshift', 'redhat', 'service-mesh']",20230309,dbgjerez
+46,service-mesh-workshop,"['architecture', 'golang', 'istio', 'openshift', 'redhat', 'service-mesh']",20230330,dbgjerez
 47,spring-boot-grafana,[],20180306,dbgjerez
 48,spring-cloud-dataflow,[],20180205,dbgjerez
 49,spring-cloud-eureka,[],20171204,dbgjerez
@@ -57,19 +57,18 @@
 55,terraform-ansible-aws,[],20190521,dbgjerez
 56,terraform-aws-demo,[],20171124,dbgjerez
 57,uca-workshop-docker,[],20191202,dbgjerez
-58,workshop-amq-streams,"['amq-streams', 'kafka', 'kafka-consumer', 'kafka-producer', 'kafkaconnect', 'strimzi']",20230329,dbgjerez
+58,workshop-amq-streams,"['amq-streams', 'kafka', 'kafka-consumer', 'kafka-producer', 'kafkaconnect', 'strimzi']",20230330,dbgjerez
 59,workshop-argo-rollouts-doc,"['argo-rollouts', 'argocd', 'bluegreen-deployment', 'canary', 'rollouts']",20230124,dbgjerez
 60,workshop-argo-rollouts-resources,[],20230124,dbgjerez
 61,workshop-golang-grpc,"['go', 'golang', 'grpc', 'microservices']",20230223,dbgjerez
 62,workshop-redhat-sso,[],20230217,dbgjerez
-63,workshop-service-mesh-doc,[],20230126,dbgjerez
-64,workshop-tekton,"['argocd', 'openshift', 'pipelines-as-code', 'tekton', 'tekton-pipelines']",20230314,dbgjerez
-65,workshop-uca-aws-deploy,[],20220304,dbgjerez
-66,spring-cloud,[],20180116,ediazram
-67,spring-cloud-config,[],20180123,ediazram
-68,dstrategies-app-deployment,[],20230202,rhte2023-argo-rollouts
-69,dstrategies-back,[],20221202,rhte2023-argo-rollouts
-70,dstrategies-frontend,[],20221221,rhte2023-argo-rollouts
-71,ocp-cluster-setup,[],20230112,rhte2023-argo-rollouts
-72,redhat-workshop-deployment-strategies,[],20230303,rhte2023-argo-rollouts
-73,ProyectoEncuesta,[],20180602,strider76
+63,workshop-tekton,"['argocd', 'openshift', 'pipelines-as-code', 'tekton', 'tekton-pipelines']",20230314,dbgjerez
+64,workshop-uca-aws-deploy,[],20220304,dbgjerez
+65,spring-cloud,[],20180116,ediazram
+66,spring-cloud-config,[],20180123,ediazram
+67,dstrategies-app-deployment,[],20230202,rhte2023-argo-rollouts
+68,dstrategies-back,[],20221202,rhte2023-argo-rollouts
+69,dstrategies-frontend,[],20221221,rhte2023-argo-rollouts
+70,ocp-cluster-setup,[],20230112,rhte2023-argo-rollouts
+71,redhat-workshop-deployment-strategies,[],20230303,rhte2023-argo-rollouts
+72,ProyectoEncuesta,[],20180602,strider76
