@@ -5,7 +5,7 @@
 3,ocp-logging,2023-03-19,1,9,1,1,1
 4,ocp-monitoring-golang,2023-03-19,1,2,1,0,0
 5,quarkus-kotlin-example,2023-03-19,2,1,1,0,0
-6,ta,2023-03-19,3,1,1,64,44
+6,ta,2023-03-19,3,1,1,59,44
 7,workshop-amq-streams,2023-03-19,0,0,0,1,1
-8,workshop-golang-grpc,2023-03-19,0,0,0,126,68
+8,workshop-golang-grpc,2023-03-19,0,0,0,114,66
 9,workshop-uca-aws-deploy,2023-03-19,0,0,0,1,1
