@@ -1,7 +1,7 @@
 ,name,ts,stars_count,views_total,views_uniques,clones_total,clones_uniques
 0,cd-travis-app,2023-04-01,0,0,0,1,1
 1,golang-rest-api-cassandra,2023-04-01,2,0,0,39,35
-2,iot-devices-crud,2023-04-01,0,0,0,58,33
+2,iot-devices-crud,2023-04-01,0,0,0,61,33
 3,kustomize-vs-helm,2023-04-01,4,0,0,1,1
 4,library,2023-04-01,0,0,0,1,1
 5,ml-github,2023-04-01,1,0,0,3,2
@@ -9,5 +9,5 @@
 7,quarkus-kafka,2023-04-01,1,1,1,1,1
 8,spring-boot-grafana,2023-04-01,0,0,0,1,1
 9,workshop-amq-streams,2023-04-01,0,0,0,1,1
-10,workshop-golang-grpc,2023-04-01,0,0,0,74,48
+10,workshop-golang-grpc,2023-04-01,0,0,0,76,49
 11,spring-cloud-config,2023-04-01,0,0,0,1,1
