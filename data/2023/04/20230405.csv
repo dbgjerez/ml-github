@@ -1,0 +1,6 @@
+,name,ts,stars_count,views_total,views_uniques,clones_total,clones_uniques
+0,kotlin-ktor,2023-04-05,7,1,1,0,0
+1,mqtt-golang-influxdb,2023-04-05,14,0,0,21,19
+2,quarkus-kafka,2023-04-05,1,5,1,0,0
+3,workshop-golang-grpc,2023-04-05,0,0,0,12,10
+4,workshop-tekton,2023-04-05,0,2,1,0,0
