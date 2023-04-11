@@ -61,12 +61,14 @@
 59,workshop-golang-grpc,"['go', 'golang', 'grpc', 'microservices']",20230223,dbgjerez
 60,workshop-redhat-sso,[],20230217,dbgjerez
 61,workshop-tekton-argocd,"['argocd', 'openshift', 'pipelines-as-code', 'tekton', 'tekton-pipelines']",20230405,dbgjerez
-62,workshop-uca-aws-deploy,[],20220304,dbgjerez
-63,spring-cloud,[],20180116,ediazram
-64,spring-cloud-config,[],20180123,ediazram
-65,dstrategies-app-deployment,[],20230202,rhte2023-argo-rollouts
-66,dstrategies-back,[],20221202,rhte2023-argo-rollouts
-67,dstrategies-frontend,[],20221221,rhte2023-argo-rollouts
-68,ocp-cluster-setup,[],20230112,rhte2023-argo-rollouts
-69,redhat-workshop-deployment-strategies,[],20230303,rhte2023-argo-rollouts
-70,ProyectoEncuesta,[],20180602,strider76
+62,workshop-tekton-argocd-app-quarkus,[],20230405,dbgjerez
+63,workshop-tekton-argocd-app-quarkus-config,[],20230410,dbgjerez
+64,workshop-uca-aws-deploy,[],20220304,dbgjerez
+65,spring-cloud,[],20180116,ediazram
+66,spring-cloud-config,[],20180123,ediazram
+67,dstrategies-app-deployment,[],20230202,rhte2023-argo-rollouts
+68,dstrategies-back,[],20221202,rhte2023-argo-rollouts
+69,dstrategies-frontend,[],20221221,rhte2023-argo-rollouts
+70,ocp-cluster-setup,[],20230112,rhte2023-argo-rollouts
+71,redhat-workshop-deployment-strategies,[],20230303,rhte2023-argo-rollouts
+72,ProyectoEncuesta,[],20180602,strider76

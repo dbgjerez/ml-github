@@ -1,0 +1,12 @@
+,name,ts,stars_count,views_total,views_uniques,clones_total,clones_uniques
+0,golang-k8s-helm-helloworld,2023-04-06,2,1,1,0,0
+1,golang-rest-api-cassandra,2023-04-06,2,4,1,61,40
+2,istio-wasm-filter-golang,2023-04-06,0,1,1,0,0
+3,jenkins-pipeline,2023-04-06,1,0,0,1,1
+4,kotlin-ktor,2023-04-06,7,16,2,0,0
+5,mqtt-golang-influxdb,2023-04-06,14,0,0,84,58
+6,quarkus-kotlin-example,2023-04-06,2,8,2,0,0
+7,workshop-golang-grpc,2023-04-06,0,1,1,0,0
+8,workshop-tekton-argocd,2023-04-06,0,0,0,1,1
+9,workshop-tekton-argocd-app-quarkus,2023-04-06,0,0,0,1,1
+10,workshop-tekton-argocd-app-quarkus-config,2023-04-06,0,0,0,1,1

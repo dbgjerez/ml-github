@@ -1,11 +1,11 @@
 ,name,ts,stars_count,views_total,views_uniques,clones_total,clones_uniques
 0,amq-streams-workshop,2023-03-28,0,0,0,1,1
 1,golang-gin-gonic,2023-03-28,0,0,0,1,1
-2,golang-rest-api-cassandra,2023-03-28,2,0,0,60,44
+2,golang-rest-api-cassandra,2023-03-28,2,0,0,54,41
 3,influxdb-telegraf-grafana,2023-03-28,0,0,0,1,1
 4,iot-air-quality,2023-03-28,1,0,0,1,1
 5,kotlin-ktor,2023-03-28,7,1,1,0,0
-6,ml-github,2023-03-28,1,0,0,5,3
+6,ml-github,2023-03-28,1,0,0,3,2
 7,mqtt-golang-influxdb,2023-03-28,14,2,1,0,0
 8,quarkus-kafka,2023-03-28,1,13,1,2,1
 9,service-mesh-workshop,2023-03-28,3,20,1,0,0
