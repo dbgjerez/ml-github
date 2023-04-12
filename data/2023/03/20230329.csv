@@ -1,13 +1,13 @@
 ,name,ts,stars_count,views_total,views_uniques,clones_total,clones_uniques
 0,amq-streams-workshop,2023-03-29,0,1,1,0,0
 1,golang-azure-eventhub,2023-03-29,0,0,0,1,1
-2,golang-rest-api-cassandra,2023-03-29,2,0,0,37,32
+2,golang-rest-api-cassandra,2023-03-29,2,0,0,31,28
 3,helm-spring-boot-chart,2023-03-29,1,1,1,0,0
 4,iot-esp8266-irrigation-system,2023-03-29,0,0,0,2,1
 5,iot-esp8266-relay-web-server,2023-03-29,0,0,0,2,1
 6,kops-aws,2023-03-29,4,5,4,0,0
 7,kotlin-ktor,2023-03-29,7,15,5,0,0
-8,ml-github,2023-03-29,1,4,1,9,5
+8,ml-github,2023-03-29,1,4,1,7,4
 9,mqtt-golang-influxdb,2023-03-29,14,1,1,0,0
 10,ocp-logging,2023-03-29,1,0,0,1,1
 11,quarkus-kafka,2023-03-29,1,56,10,4,3
