@@ -30,7 +30,7 @@
 28,kotlin-ktor,"['guice', 'kotlin', 'ktor', 'ktor-framework', 'cassandra', 'datastax-driver']",20190422,dbgjerez
 29,kustomize-vs-helm,"['argocd', 'gitops', 'helm', 'kubernetes', 'kustomize', 'workshop']",20230323,dbgjerez
 30,library,[],20180201,dbgjerez
-31,ml-github,"['analytics', 'github', 'pandas', 'python']",20230411,dbgjerez
+31,ml-github,"['analytics', 'github', 'pandas', 'python']",20230412,dbgjerez
 32,ml-learning,"['machine-learning', 'pandas', 'python']",20220630,dbgjerez
 33,mqtt-golang-influxdb,"['golang', 'go', 'gin-gonic', 'gin', 'iot', 'mqtt', 'mosquitto', 'influxdb', 'influx']",20210316,dbgjerez
 34,ms-helm-chart,[],20210210,dbgjerez
@@ -55,7 +55,7 @@
 53,terraform-ansible-aws,[],20190521,dbgjerez
 54,terraform-aws-demo,[],20171124,dbgjerez
 55,uca-workshop-docker,[],20191202,dbgjerez
-56,workshop-amq-streams,"['amq-streams', 'kafka', 'kafka-consumer', 'kafka-producer', 'kafkaconnect', 'strimzi']",20230411,dbgjerez
+56,workshop-amq-streams,"['amq-streams', 'kafka', 'kafka-consumer', 'kafka-producer', 'kafkaconnect', 'strimzi']",20230412,dbgjerez
 57,workshop-argo-rollouts-doc,"['argo-rollouts', 'argocd', 'bluegreen-deployment', 'canary', 'rollouts']",20230124,dbgjerez
 58,workshop-argo-rollouts-resources,[],20230124,dbgjerez
 59,workshop-golang-grpc,"['go', 'golang', 'grpc', 'microservices']",20230223,dbgjerez
@@ -66,9 +66,10 @@
 64,workshop-uca-aws-deploy,[],20220304,dbgjerez
 65,spring-cloud,[],20180116,ediazram
 66,spring-cloud-config,[],20180123,ediazram
-67,dstrategies-app-deployment,[],20230202,rhte2023-argo-rollouts
-68,dstrategies-back,[],20221202,rhte2023-argo-rollouts
-69,dstrategies-frontend,[],20221221,rhte2023-argo-rollouts
-70,ocp-cluster-setup,[],20230112,rhte2023-argo-rollouts
-71,redhat-workshop-deployment-strategies,[],20230303,rhte2023-argo-rollouts
-72,ProyectoEncuesta,[],20180602,strider76
+67,licence-plate-workshop,[],20220609,redhat-iberia
+68,dstrategies-app-deployment,[],20230202,rhte2023-argo-rollouts
+69,dstrategies-back,[],20221202,rhte2023-argo-rollouts
+70,dstrategies-frontend,[],20221221,rhte2023-argo-rollouts
+71,ocp-cluster-setup,[],20230112,rhte2023-argo-rollouts
+72,redhat-workshop-deployment-strategies,[],20230303,rhte2023-argo-rollouts
+73,ProyectoEncuesta,[],20180602,strider76
