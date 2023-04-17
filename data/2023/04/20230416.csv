@@ -1,0 +1,11 @@
+,name,ts,stars_count,views_total,views_uniques,clones_total,clones_uniques
+0,iot-devices-crud,2023-04-16,0,1,1,0,0
+1,istio-wasm-filter-golang,2023-04-16,0,1,1,0,0
+2,kotlin-ktor,2023-04-16,7,2,1,0,0
+3,ml-github,2023-04-16,1,0,0,2,1
+4,semantic-versioning-cli,2023-04-16,4,1,1,0,0
+5,service-mesh-workshop,2023-04-16,3,4,1,0,0
+6,workshop-golang-grpc,2023-04-16,0,1,1,0,0
+7,workshop-tekton-argocd,2023-04-16,0,1,1,0,0
+8,licence-plate-workshop,2023-04-16,0,1,1,0,0
+9,ocp-cluster-setup,2023-04-16,1,0,0,1,1
