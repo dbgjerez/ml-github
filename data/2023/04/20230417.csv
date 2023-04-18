@@ -1,0 +1,14 @@
+,name,ts,stars_count,views_total,views_uniques,clones_total,clones_uniques
+0,golang-gin-gonic,2023-04-17,0,3,1,0,0
+1,golang-rest-api-cassandra,2023-04-17,2,2,2,0,0
+2,iot-devices-crud,2023-04-17,0,3,1,0,0
+3,istio-wasm-filter-golang,2023-04-17,0,1,1,0,0
+4,kotlin-ktor,2023-04-17,7,9,2,0,0
+5,ml-github,2023-04-17,1,2,1,3,2
+6,mqtt-golang-influxdb,2023-04-17,14,1,1,0,0
+7,ta,2023-04-17,3,0,0,1,1
+8,workshop-amq-streams,2023-04-17,0,0,0,1,1
+9,workshop-argo-rollouts-doc,2023-04-17,1,1,1,0,0
+10,workshop-tekton-argocd,2023-04-17,0,32,3,3,3
+11,workshop-tekton-argocd-app-quarkus,2023-04-17,0,0,0,2,2
+12,workshop-tekton-argocd-app-quarkus-config,2023-04-17,0,0,0,2,2
