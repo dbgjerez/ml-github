@@ -1,6 +1,6 @@
 ,name,ts,stars_count,views_total,views_uniques,clones_total,clones_uniques
 0,iot-devices-crud,2023-04-16,0,1,1,0,0
-1,istio-wasm-filter-golang,2023-04-16,0,1,1,0,0
+1,istio-wasm-filter-golang,2023-04-16,1,1,1,0,0
 2,kotlin-ktor,2023-04-16,7,2,1,0,0
 3,ml-github,2023-04-16,1,0,0,2,1
 4,semantic-versioning-cli,2023-04-16,4,1,1,0,0

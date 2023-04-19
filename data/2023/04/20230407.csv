@@ -1,6 +1,6 @@
 ,name,ts,stars_count,views_total,views_uniques,clones_total,clones_uniques
 0,golang-rest-api-cassandra,2023-04-07,2,4,1,58,41
-1,istio-wasm-filter-golang,2023-04-07,0,7,4,0,0
+1,istio-wasm-filter-golang,2023-04-07,1,7,4,0,0
 2,kotlin-ktor,2023-04-07,7,36,3,0,0
 3,mqtt-golang-influxdb,2023-04-07,14,1,1,46,31
 4,quarkus-kotlin-example,2023-04-07,2,26,2,0,0
