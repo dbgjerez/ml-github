@@ -1,5 +1,5 @@
 ,name,ts,stars_count,views_total,views_uniques,clones_total,clones_uniques
-0,golang-rest-api-cassandra,2023-04-19,2,8,1,8,8
+0,golang-rest-api-cassandra,2023-04-19,2,8,1,13,12
 1,iot-devices-crud,2023-04-19,0,0,0,6,6
 2,iot-esp8266-irrigation-system,2023-04-19,0,3,1,0,0
 3,istio-wasm-filter-golang,2023-04-19,1,1,1,0,0
