@@ -1,9 +1,9 @@
 ,name,ts,stars_count,views_total,views_uniques,clones_total,clones_uniques
-0,golang-rest-api-cassandra,2023-04-08,2,0,0,17,13
+0,golang-rest-api-cassandra,2023-04-08,2,0,0,12,11
 1,iot-devices-crud,2023-04-08,0,0,0,43,31
 2,jenkins-pipeline,2023-04-08,1,2,1,0,0
 3,kotlin-ktor,2023-04-08,7,9,1,0,0
 4,ml-github,2023-04-08,1,0,0,1,1
-5,mqtt-golang-influxdb,2023-04-08,14,0,0,60,34
+5,mqtt-golang-influxdb,2023-04-08,14,0,0,55,31
 6,ocp-logging,2023-04-08,1,1,1,0,0
-7,workshop-golang-grpc,2023-04-08,0,0,0,58,38
+7,workshop-golang-grpc,2023-04-08,0,0,0,53,34
