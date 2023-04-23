@@ -1,0 +1,13 @@
+,name,ts,stars_count,views_total,views_uniques,clones_total,clones_uniques
+0,golang-rest-api-cassandra,2023-04-22,2,0,0,117,55
+1,influxdb-telegraf-grafana,2023-04-22,0,0,0,1,1
+2,iot-devices-crud,2023-04-22,0,0,0,58,34
+3,istio-wasm-filter-golang,2023-04-22,1,1,1,0,0
+4,kotlin-ktor,2023-04-22,7,27,2,1,1
+5,ml-github,2023-04-22,1,0,0,3,2
+6,mqtt-golang-influxdb,2023-04-22,14,0,0,56,31
+7,spring-cloud-dataflow,2023-04-22,0,0,0,1,1
+8,spring-cloud-ms2,2023-04-22,0,0,0,1,1
+9,ta,2023-04-22,3,0,0,62,37
+10,workshop-golang-grpc,2023-04-22,0,0,0,59,37
+11,licence-plate-workshop,2023-04-22,0,2,1,0,0
