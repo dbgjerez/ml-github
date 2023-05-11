@@ -1,7 +1,7 @@
 ,name,ts,stars_count,views_total,views_uniques,clones_total,clones_uniques
 0,gingonic-go-mongodb,2023-05-09,0,0,0,1,1
 1,golang-rest-api-cassandra,2023-05-09,2,2,2,0,0
-2,iot-devices-crud,2023-05-09,0,0,0,56,33
+2,iot-devices-crud,2023-05-09,0,0,0,59,33
 3,iot-k8s-stack,2023-05-09,1,0,0,1,1
 4,istio-wasm-filter-golang,2023-05-09,1,4,1,1,1
 5,ml-github,2023-05-09,1,0,0,2,1

@@ -1,8 +1,8 @@
 ,name,ts,stars_count,views_total,views_uniques,clones_total,clones_uniques
-0,golang-rest-api-cassandra,2023-04-27,2,2,1,85,55
+0,golang-rest-api-cassandra,2023-04-27,2,2,1,81,55
 1,helm-spring-boot-chart,2023-04-27,1,0,0,1,1
-2,iot-devices-crud,2023-04-27,0,0,0,59,42
-3,istio-wasm-filter-golang,2023-04-27,1,2,1,0,0
+2,iot-devices-crud,2023-04-27,0,0,0,54,39
+3,istio-wasm-filter-golang,2023-04-27,1,1,1,0,0
 4,kotlin-ktor,2023-04-27,7,2,1,0,0
 5,library,2023-04-27,0,0,0,1,1
 6,licence-plate-workshop,2023-04-27,0,1,1,0,0
@@ -12,7 +12,7 @@
 10,REST-Services-MySQL,2023-04-27,0,9,1,0,0
 11,spring-data-mongodb,2023-04-27,0,0,0,1,1
 12,spring-kotlin-crud,2023-04-27,7,0,0,1,1
-13,ta,2023-04-27,3,0,0,46,36
-14,workshop-golang-grpc,2023-04-27,0,0,0,100,60
+13,ta,2023-04-27,3,0,0,41,34
+14,workshop-golang-grpc,2023-04-27,0,0,0,97,59
 15,workshop-tekton-argocd,2023-04-27,0,2,1,0,0
 16,workshop-tekton-argocd-app-quarkus,2023-04-27,0,1,1,0,0
