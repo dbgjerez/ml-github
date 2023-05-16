@@ -1,0 +1,11 @@
+,name,ts,stars_count,views_total,views_uniques,clones_total,clones_uniques
+0,golang-azure-eventhub-kafka,2023-05-12,0,0,0,1,1
+1,golang-rest-api-cassandra,2023-05-12,2,0,0,157,96
+2,helm-spring-boot-chart,2023-05-12,1,1,1,0,0
+3,iot-devices-crud,2023-05-12,0,0,0,74,54
+4,istio-wasm-filter-golang,2023-05-12,1,3,1,0,0
+5,kotlin-ktor,2023-05-12,7,30,4,0,0
+6,ms-helm-chart,2023-05-12,1,0,0,1,1
+7,dstrategies-app-deployment,2023-05-12,0,4,1,0,0
+8,ocp-cluster-setup,2023-05-12,1,2,1,0,0
+9,redhat-workshop-deployment-strategies,2023-05-12,2,29,1,0,0
