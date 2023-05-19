@@ -1,7 +1,7 @@
 ,name,ts,stars_count,views_total,views_uniques,clones_total,clones_uniques
 0,cd-travis-app,2023-05-16,0,0,0,1,1
 1,golang-k8s-helm-helloworld,2023-05-16,2,0,0,1,1
-2,golang-rest-api-cassandra,2023-05-16,2,1,1,64,53
+2,golang-rest-api-cassandra,2023-05-16,2,1,1,69,58
 3,helm-spring-boot-chart,2023-05-16,1,1,1,0,0
 4,iot-devices-crud,2023-05-16,0,1,1,0,0
 5,istio-wasm-filter-golang,2023-05-16,1,4,2,0,0

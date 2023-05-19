@@ -1,0 +1,13 @@
+,name,ts,stars_count,views_total,views_uniques,clones_total,clones_uniques
+0,golang-k8s-helm-helloworld,2023-05-18,2,2,1,0,0
+1,golang-rest-api-cassandra,2023-05-18,2,0,0,83,59
+2,istio-wasm-filter-golang,2023-05-18,1,2,1,0,0
+3,kotlin-ktor,2023-05-18,7,49,3,0,0
+4,licence-plate-workshop,2023-05-18,0,2,1,0,0
+5,mqtt-golang-influxdb,2023-05-18,14,7,2,59,48
+6,quarkus-kotlin-example,2023-05-18,2,83,2,0,0
+7,semantic-versioning-cli,2023-05-18,4,1,1,0,0
+8,service-mesh-workshop,2023-05-18,3,4,2,0,0
+9,workshop-amq-streams,2023-05-18,0,1,1,0,0
+10,workshop-keda,2023-05-18,0,5,1,0,0
+11,workshop-tekton-argocd,2023-05-18,0,2,1,0,0
