@@ -1,8 +1,8 @@
 ,name,ts,stars_count,views_total,views_uniques,clones_total,clones_uniques
 0,golang-rest-api-cassandra,2023-05-10,2,2,1,0,0
-1,iot-devices-crud,2023-05-10,0,0,0,58,42
+1,iot-devices-crud,2023-05-10,0,0,0,54,38
 2,istio-wasm-filter-golang,2023-05-10,1,1,1,0,0
-3,ml-github,2023-05-10,1,0,0,3,2
+3,ml-github,2023-05-10,1,0,0,1,1
 4,ocp-logging,2023-05-10,1,2,2,0,0
 5,ocp-monitoring-golang,2023-05-10,1,2,2,0,0
 6,quarkus-kotlin-example,2023-05-10,2,3,1,0,0
