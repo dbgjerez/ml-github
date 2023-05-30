@@ -1,0 +1,10 @@
+,name,ts,stars_count,views_total,views_uniques,clones_total,clones_uniques
+0,golang-gin-gonic,2023-05-27,0,1,1,0,0
+1,golang-rest-api-cassandra,2023-05-27,2,2,1,0,0
+2,mqtt-golang-influxdb,2023-05-27,14,0,0,58,44
+3,ta,2023-05-27,3,9,1,0,0
+4,workshop-golang-grpc,2023-05-27,0,0,0,59,33
+5,dstrategies-app-deployment,2023-05-27,0,0,0,1,1
+6,dstrategies-back,2023-05-27,0,0,0,1,1
+7,ocp-cluster-setup,2023-05-27,1,0,0,1,1
+8,ProyectoEncuesta,2023-05-27,0,0,0,1,1
