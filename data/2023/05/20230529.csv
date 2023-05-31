@@ -6,7 +6,7 @@
 4,golang-azure-eventhub,2023-05-29,0,0,0,1,1
 5,golang-azure-eventhub-kafka,2023-05-29,0,0,0,1,1
 6,golang-gin-gonic,2023-05-29,0,0,0,1,1
-7,golang-rest-api-cassandra,2023-05-29,2,10,1,57,35
+7,golang-rest-api-cassandra,2023-05-29,2,10,1,60,36
 8,helm-spring-boot-chart,2023-05-29,1,0,0,1,1
 9,iot-air-quality,2023-05-29,1,0,0,1,1
 10,iot-k8s-stack,2023-05-29,1,0,0,1,1
