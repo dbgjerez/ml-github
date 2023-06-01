@@ -1,0 +1,11 @@
+,name,ts,stars_count,views_total,views_uniques,clones_total,clones_uniques
+0,golang-rest-api-cassandra,2023-05-31,2,1,1,19,18
+1,jwt,2023-05-31,1,0,0,1,1
+2,kotlin-ktor,2023-05-31,7,1,1,0,0
+3,ml-github,2023-05-31,1,0,0,2,1
+4,mqtt-golang-influxdb,2023-05-31,14,0,0,1,1
+5,workshop-amq-streams,2023-05-31,0,10,3,0,0
+6,workshop-golang-grpc,2023-05-31,0,0,0,39,31
+7,workshop-keda,2023-05-31,0,1,1,0,0
+8,workshop-tekton-argocd,2023-05-31,0,0,0,1,1
+9,workshop-tekton-argocd-app-quarkus,2023-05-31,0,0,0,1,1
