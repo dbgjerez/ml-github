@@ -1,0 +1,11 @@
+,name,ts,stars_count,views_total,views_uniques,clones_total,clones_uniques
+0,golang-azure-eventhub,2023-06-05,0,0,0,1,1
+1,golang-azure-eventhub-kafka,2023-06-05,0,0,0,1,1
+2,golang-k8s-helm-helloworld,2023-06-05,2,0,0,1,1
+3,golang-rest-api-cassandra,2023-06-05,2,1,1,59,35
+4,iot-devices-crud,2023-06-05,0,0,0,1,1
+5,istio-wasm-filter-golang,2023-06-05,1,1,1,0,0
+6,kotlin-ktor,2023-06-05,7,10,1,1,1
+7,ml-github,2023-06-05,1,0,0,1,1
+8,mqtt-golang-influxdb,2023-06-05,14,1,1,58,46
+9,workshop-tekton-argocd,2023-06-05,0,0,0,1,1
