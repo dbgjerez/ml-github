@@ -1,0 +1,9 @@
+,name,ts,stars_count,views_total,views_uniques,clones_total,clones_uniques
+0,golang-k8s-helm-helloworld,2023-06-07,2,3,2,0,0
+1,golang-rest-api-cassandra,2023-06-07,2,18,1,0,0
+2,istio-wasm-filter-golang,2023-06-07,1,1,1,0,0
+3,kotlin-ktor,2023-06-07,7,22,1,1,1
+4,licence-plate-workshop,2023-06-07,0,2,1,0,0
+5,ml-github,2023-06-07,1,0,0,3,2
+6,mqtt-golang-influxdb,2023-06-07,14,20,1,46,33
+7,ta,2023-06-07,3,0,0,1,1
