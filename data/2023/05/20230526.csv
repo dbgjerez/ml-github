@@ -3,8 +3,8 @@
 1,istio-wasm-filter-golang,2023-05-26,1,7,2,0,0
 2,licence-plate-workshop,2023-05-26,0,1,1,0,0
 3,ml-github,2023-05-26,1,1,1,0,0
-4,mqtt-golang-influxdb,2023-05-26,14,2,1,62,46
+4,mqtt-golang-influxdb,2023-05-26,14,2,1,54,39
 5,pelorus-workshop,2023-05-26,0,1,1,0,0
-6,workshop-golang-grpc,2023-05-26,0,0,0,59,35
+6,workshop-golang-grpc,2023-05-26,0,0,0,54,33
 7,workshop-tekton-argocd-app-quarkus,2023-05-26,0,1,1,0,0
 8,workshop-tekton-argocd-app-quarkus-config,2023-05-26,0,21,1,0,0
