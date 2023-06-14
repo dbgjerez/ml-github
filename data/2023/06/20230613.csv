@@ -1,0 +1,11 @@
+,name,ts,stars_count,views_total,views_uniques,clones_total,clones_uniques
+0,golang-rest-api-cassandra,2023-06-13,2,7,1,60,42
+1,istio-wasm-filter-golang,2023-06-13,1,1,1,0,0
+2,ml-github,2023-06-13,1,0,0,5,4
+3,ml-learning,2023-06-13,0,0,0,1,1
+4,quarkus-kafka,2023-06-13,1,0,0,1,1
+5,quarkus-kotlin-example,2023-06-13,2,15,1,0,0
+6,service-mesh-workshop,2023-06-13,3,0,0,1,1
+7,workshop-golang-grpc,2023-06-13,0,0,0,17,14
+8,workshop-tekton-argocd,2023-06-13,0,0,0,1,1
+9,ocp-cluster-setup,2023-06-13,1,0,0,1,1
