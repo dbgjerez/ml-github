@@ -1,8 +1,5 @@
 ,name,ts,stars_count,views_total,views_uniques,clones_total,clones_uniques
 0,golang-rest-api-cassandra,2023-06-01,2,13,1,0,0
-1,jenkins-ci,2023-06-01,3,0,0,2,1
-2,licence-plate-workshop,2023-06-01,0,4,1,0,0
-3,ml-github,2023-06-01,1,0,0,2,1
-4,spring-cloud-ms1,2023-06-01,0,0,0,2,1
-5,workshop-golang-grpc,2023-06-01,0,0,0,59,41
-6,redhat-workshop-deployment-strategies,2023-06-01,2,9,1,0,0
+1,licence-plate-workshop,2023-06-01,0,4,1,0,0
+2,workshop-golang-grpc,2023-06-01,0,0,0,54,40
+3,redhat-workshop-deployment-strategies,2023-06-01,2,9,1,0,0
