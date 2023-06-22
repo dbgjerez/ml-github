@@ -1,5 +1,5 @@
 ,name,ts,stars_count,views_total,views_uniques,clones_total,clones_uniques
 0,kotlin-ktor,2023-06-08,7,2,2,0,0
-1,ml-github,2023-06-08,1,0,0,3,2
-2,mqtt-golang-influxdb,2023-06-08,14,0,0,58,41
-3,ta,2023-06-08,3,0,0,62,47
+1,ml-github,2023-06-08,1,0,0,1,1
+2,mqtt-golang-influxdb,2023-06-08,14,0,0,53,40
+3,ta,2023-06-08,3,0,0,57,45
