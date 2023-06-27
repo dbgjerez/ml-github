@@ -1,0 +1,10 @@
+,name,ts,stars_count,views_total,views_uniques,clones_total,clones_uniques
+0,ansible-bootstrap-workstation,2023-06-25,0,0,0,2,2
+1,cd-travis-app,2023-06-25,0,0,0,1,1
+2,golang-azure-eventhub,2023-06-25,0,0,0,1,1
+3,kops-aws,2023-06-25,4,0,0,1,1
+4,spring-boot-grafana,2023-06-25,0,0,0,1,1
+5,spring-cloud-ms2,2023-06-25,0,0,0,1,1
+6,spring-kotlin-crud,2023-06-25,7,0,0,1,1
+7,workshop-argocd,2023-06-25,0,1,1,0,0
+8,dstrategies-back,2023-06-25,0,0,0,1,1
