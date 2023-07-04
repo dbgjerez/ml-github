@@ -16,7 +16,6 @@
 14,spring-cloud-ms1,2023-06-29,0,0,0,2,1
 15,terraform-ansible-aws,2023-06-29,0,0,0,1,1
 16,workshop-golang-grpc,2023-06-29,0,0,0,120,68
-17,workshop-keda,2023-06-29,0,10,1,5,2
-18,dstrategies-app-deployment,2023-06-29,0,0,0,1,1
-19,dstrategies-frontend,2023-06-29,0,0,0,1,1
-20,ocp-cluster-setup,2023-06-29,1,0,0,1,1
+17,dstrategies-app-deployment,2023-06-29,0,0,0,1,1
+18,dstrategies-frontend,2023-06-29,0,0,0,1,1
+19,ocp-cluster-setup,2023-06-29,1,0,0,1,1

@@ -31,7 +31,7 @@
 29,kustomize-vs-helm,"['argocd', 'gitops', 'helm', 'kubernetes', 'kustomize', 'workshop']",20230622,dbgjerez
 30,library,[],20180201,dbgjerez
 31,licence-plate-workshop,[],20220609,dbgjerez
-32,ml-github,"['analytics', 'github', 'pandas', 'python']",20230630,dbgjerez
+32,ml-github,"['analytics', 'github', 'pandas', 'python']",20230703,dbgjerez
 33,ml-learning,"['machine-learning', 'pandas', 'python']",20220630,dbgjerez
 34,mqtt-golang-influxdb,"['golang', 'go', 'gin-gonic', 'gin', 'iot', 'mqtt', 'mosquitto', 'influxdb', 'influx']",20210316,dbgjerez
 35,ms-helm-chart,[],20210210,dbgjerez
@@ -61,18 +61,17 @@
 59,workshop-argo-rollouts-resources,[],20230124,dbgjerez
 60,workshop-argocd,[],20230626,dbgjerez
 61,workshop-golang-grpc,"['go', 'golang', 'grpc', 'microservices']",20230223,dbgjerez
-62,workshop-keda,[],20230503,dbgjerez
-63,workshop-redhat-sso,[],20230217,dbgjerez
-64,workshop-tekton-argocd,"['argocd', 'openshift', 'pipelines-as-code', 'tekton', 'tekton-pipelines']",20230530,dbgjerez
-65,workshop-tekton-argocd-app-quarkus,[],20230421,dbgjerez
-66,workshop-tekton-argocd-app-quarkus-config,[],20230414,dbgjerez
-67,workshop-uca-aws-deploy,[],20220304,dbgjerez
-68,spring-cloud,[],20180116,ediazram
-69,spring-cloud-config,[],20180123,ediazram
-70,licence-plate-workshop,[],20220609,redhat-iberia
-71,dstrategies-app-deployment,[],20230202,rhte2023-argo-rollouts
-72,dstrategies-back,[],20221202,rhte2023-argo-rollouts
-73,dstrategies-frontend,[],20221221,rhte2023-argo-rollouts
-74,ocp-cluster-setup,[],20230620,rhte2023-argo-rollouts
-75,redhat-workshop-deployment-strategies,[],20230303,rhte2023-argo-rollouts
-76,ProyectoEncuesta,[],20180602,strider76
+62,workshop-redhat-sso,[],20230217,dbgjerez
+63,workshop-tekton-argocd,"['argocd', 'openshift', 'pipelines-as-code', 'tekton', 'tekton-pipelines']",20230530,dbgjerez
+64,workshop-tekton-argocd-app-quarkus,[],20230421,dbgjerez
+65,workshop-tekton-argocd-app-quarkus-config,[],20230414,dbgjerez
+66,workshop-uca-aws-deploy,[],20220304,dbgjerez
+67,spring-cloud,[],20180116,ediazram
+68,spring-cloud-config,[],20180123,ediazram
+69,licence-plate-workshop,[],20220609,redhat-iberia
+70,dstrategies-app-deployment,[],20230202,rhte2023-argo-rollouts
+71,dstrategies-back,[],20221202,rhte2023-argo-rollouts
+72,dstrategies-frontend,[],20221221,rhte2023-argo-rollouts
+73,ocp-cluster-setup,[],20230620,rhte2023-argo-rollouts
+74,redhat-workshop-deployment-strategies,[],20230303,rhte2023-argo-rollouts
+75,ProyectoEncuesta,[],20180602,strider76

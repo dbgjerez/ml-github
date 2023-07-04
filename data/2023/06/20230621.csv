@@ -18,9 +18,8 @@
 16,ta,2023-06-21,3,0,0,2,1
 17,workshop-amq-streams,2023-06-21,0,0,0,2,1
 18,workshop-golang-grpc,2023-06-21,0,0,0,59,46
-19,workshop-keda,2023-06-21,0,1,1,0,0
-20,workshop-redhat-sso,2023-06-21,0,0,0,2,1
-21,workshop-tekton-argocd,2023-06-21,0,0,0,2,1
-22,workshop-tekton-argocd-app-quarkus,2023-06-21,0,0,0,2,1
-23,workshop-tekton-argocd-app-quarkus-config,2023-06-21,0,0,0,4,2
-24,ocp-cluster-setup,2023-06-21,1,0,0,2,1
+19,workshop-redhat-sso,2023-06-21,0,0,0,2,1
+20,workshop-tekton-argocd,2023-06-21,0,0,0,2,1
+21,workshop-tekton-argocd-app-quarkus,2023-06-21,0,0,0,2,1
+22,workshop-tekton-argocd-app-quarkus-config,2023-06-21,0,0,0,4,2
+23,ocp-cluster-setup,2023-06-21,1,0,0,2,1

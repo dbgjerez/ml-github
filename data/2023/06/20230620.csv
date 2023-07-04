@@ -6,7 +6,6 @@
 4,mqtt-golang-influxdb,2023-06-20,14,4,2,0,0
 5,spring-cloud-eureka,2023-06-20,0,0,0,1,1
 6,workshop-golang-grpc,2023-06-20,0,0,0,52,37
-7,workshop-keda,2023-06-20,0,3,1,0,0
-8,workshop-tekton-argocd,2023-06-20,0,1,1,0,0
-9,ocp-cluster-setup,2023-06-20,1,28,3,4,2
-10,redhat-workshop-deployment-strategies,2023-06-20,2,4,2,0,0
+7,workshop-tekton-argocd,2023-06-20,0,1,1,0,0
+8,ocp-cluster-setup,2023-06-20,1,28,3,4,2
+9,redhat-workshop-deployment-strategies,2023-06-20,2,4,2,0,0

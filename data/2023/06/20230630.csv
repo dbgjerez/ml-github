@@ -18,7 +18,6 @@
 16,ta,2023-06-30,3,0,0,1,1
 17,workshop-argocd,2023-06-30,0,0,0,2,2
 18,workshop-golang-grpc,2023-06-30,0,0,0,34,28
-19,workshop-keda,2023-06-30,0,6,1,2,1
-20,dstrategies-frontend,2023-06-30,0,0,0,1,1
-21,ocp-cluster-setup,2023-06-30,1,0,0,1,1
-22,redhat-workshop-deployment-strategies,2023-06-30,2,0,0,1,1
+19,dstrategies-frontend,2023-06-30,0,0,0,1,1
+20,ocp-cluster-setup,2023-06-30,1,0,0,1,1
+21,redhat-workshop-deployment-strategies,2023-06-30,2,0,0,1,1

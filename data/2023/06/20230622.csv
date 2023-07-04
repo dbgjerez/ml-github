@@ -46,9 +46,8 @@
 44,workshop-amq-streams,2023-06-22,0,0,0,2,1
 45,workshop-argo-rollouts-resources,2023-06-22,1,0,0,2,1
 46,workshop-golang-grpc,2023-06-22,0,0,0,19,18
-47,workshop-keda,2023-06-22,0,0,0,2,1
-48,workshop-tekton-argocd,2023-06-22,0,0,0,2,1
-49,workshop-uca-aws-deploy,2023-06-22,0,0,0,2,1
-50,dstrategies-app-deployment,2023-06-22,0,0,0,2,1
-51,dstrategies-frontend,2023-06-22,0,0,0,2,1
-52,ProyectoEncuesta,2023-06-22,0,0,0,2,1
+47,workshop-tekton-argocd,2023-06-22,0,0,0,2,1
+48,workshop-uca-aws-deploy,2023-06-22,0,0,0,2,1
+49,dstrategies-app-deployment,2023-06-22,0,0,0,2,1
+50,dstrategies-frontend,2023-06-22,0,0,0,2,1
+51,ProyectoEncuesta,2023-06-22,0,0,0,2,1
