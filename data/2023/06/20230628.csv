@@ -6,7 +6,7 @@
 4,istio-wasm-filter-golang,2023-06-28,1,1,1,1,1
 5,kustomize-vs-helm,2023-06-28,4,10,3,1,1
 6,library,2023-06-28,0,0,0,1,1
-7,ml-github,2023-06-28,1,0,0,3,2
+7,ml-github,2023-06-28,2,0,0,3,2
 8,ocp-HTPasswd-file-provider,2023-06-28,0,0,0,1,1
 9,quarkus-kotlin-example,2023-06-28,2,0,0,2,2
 10,service-mesh-workshop,2023-06-28,3,5,2,0,0

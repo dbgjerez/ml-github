@@ -8,11 +8,12 @@
 6,kotlin-ktor,2023-07-03,7,1,1,0,0
 7,kustomize-vs-helm,2023-07-03,4,2,1,0,0
 8,licence-plate-workshop,2023-07-03,0,2,1,0,0
-9,ml-github,2023-07-03,1,0,0,4,3
+9,ml-github,2023-07-03,2,0,0,4,3
 10,mqtt-golang-influxdb,2023-07-03,14,0,0,18,16
 11,ocp-HTPasswd-file-provider,2023-07-03,0,0,0,1,1
 12,spring-cloud-dataflow,2023-07-03,0,0,0,1,1
 13,workshop-amq-streams,2023-07-03,0,29,1,2,2
 14,workshop-argo-rollouts-resources,2023-07-03,1,0,0,1,1
 15,workshop-argocd,2023-07-03,0,0,0,1,1
-16,spring-cloud-config,2023-07-03,0,0,0,1,1
+16,workshop-keda,2023-07-03,0,294,2,3,2
+17,spring-cloud-config,2023-07-03,0,0,0,1,1
