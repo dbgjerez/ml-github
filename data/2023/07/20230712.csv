@@ -1,0 +1,13 @@
+,name,ts,stars_count,views_total,views_uniques,clones_total,clones_uniques
+0,helm-spring-boot-chart,2023-07-12,1,1,1,1,1
+1,iot-devices-crud,2023-07-12,0,0,0,1,1
+2,licence-plate-workshop,2023-07-12,0,2,1,0,0
+3,ml-github,2023-07-12,1,0,0,9,5
+4,ocp-monitoring-golang,2023-07-12,1,0,0,1,1
+5,semantic-versioning-cli,2023-07-12,4,2,1,0,0
+6,service-mesh-workshop,2023-07-12,3,66,2,0,0
+7,workshop-keda,2023-07-12,0,3,1,33,4
+8,workshop-tekton-argocd,2023-07-12,0,1,1,1,1
+9,workshop-tekton-argocd-app-quarkus,2023-07-12,0,0,0,1,1
+10,workshop-tekton-argocd-app-quarkus-config,2023-07-12,0,0,0,1,1
+11,workshop-uca-aws-deploy,2023-07-12,0,0,0,1,1
