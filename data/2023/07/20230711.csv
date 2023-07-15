@@ -1,7 +1,7 @@
 ,name,ts,stars_count,views_total,views_uniques,clones_total,clones_uniques
 0,jenkins-ci,2023-07-11,3,0,0,2,1
 1,kotlin-ktor,2023-07-11,7,9,2,0,0
-2,ml-github,2023-07-11,1,0,0,3,2
+2,ml-github,2023-07-11,2,0,0,3,2
 3,mqtt-golang-influxdb,2023-07-11,14,16,1,0,0
 4,ocp-monitoring-golang,2023-07-11,1,0,0,1,1
 5,quarkus-kotlin-example,2023-07-11,2,0,0,2,1
