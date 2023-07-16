@@ -1,8 +1,8 @@
 ,name,ts,stars_count,views_total,views_uniques,clones_total,clones_uniques
 0,ansible-bootstrap-workstation,2023-07-02,0,0,0,1,1
 1,golang-azure-eventhub-kafka,2023-07-02,0,0,0,1,1
-2,golang-rest-api-cassandra,2023-07-02,2,0,0,80,54
-3,mqtt-golang-influxdb,2023-07-02,14,1,1,59,42
+2,golang-rest-api-cassandra,2023-07-02,2,0,0,69,48
+3,mqtt-golang-influxdb,2023-07-02,14,1,1,54,39
 4,spring-cloud-ms1,2023-07-02,0,0,0,2,1
 5,ta,2023-07-02,3,0,0,1,1
 6,workshop-tekton-argocd,2023-07-02,0,30,1,0,0
