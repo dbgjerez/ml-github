@@ -3,7 +3,7 @@
 1,istio-wasm-filter-golang,2023-07-14,1,1,1,0,0
 2,kotlin-ktor,2023-07-14,7,5,1,0,0
 3,ml-github,2023-07-14,2,0,0,1,1
-4,mqtt-golang-influxdb,2023-07-14,14,23,2,0,0
+4,mqtt-golang-influxdb,2023-07-14,15,23,2,0,0
 5,quarkus-kotlin-example,2023-07-14,2,59,3,0,0
 6,ta,2023-07-14,3,20,1,0,0
 7,workshop-amq-streams,2023-07-14,0,4,1,0,0
