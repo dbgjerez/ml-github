@@ -4,7 +4,7 @@
 2,iot-esp8266-relay-web-server,2023-07-15,0,1,1,0,0
 3,istio-wasm-filter-golang,2023-07-15,1,1,1,0,0
 4,kotlin-ktor,2023-07-15,7,30,1,0,0
-5,ml-github,2023-07-15,2,0,0,6,4
+5,ml-github,2023-07-15,1,0,0,6,4
 6,quarkus-kotlin-example,2023-07-15,2,0,0,1,1
 7,spring-kotlin-crud,2023-07-15,7,0,0,1,1
 8,workshop-argo-rollouts-doc,2023-07-15,1,1,1,0,0
