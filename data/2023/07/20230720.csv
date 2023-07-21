@@ -1,0 +1,15 @@
+,name,ts,stars_count,views_total,views_uniques,clones_total,clones_uniques
+0,gingonic-go-mongodb,2023-07-20,0,0,0,1,1
+1,golang-azure-eventhub-kafka,2023-07-20,0,0,0,1,1
+2,helm-spring-boot-chart,2023-07-20,1,0,0,1,1
+3,istio-wasm-filter-golang,2023-07-20,1,28,1,0,0
+4,kotlin-ktor,2023-07-20,7,20,3,0,0
+5,kustomize-vs-helm,2023-07-20,4,9,4,0,0
+6,licence-plate-workshop,2023-07-20,0,1,1,0,0
+7,ml-github,2023-07-20,1,0,0,5,5
+8,ml-learning,2023-07-20,0,3,1,0,0
+9,mqtt-golang-influxdb,2023-07-20,15,6,2,0,0
+10,service-mesh-workshop,2023-07-20,3,56,1,0,0
+11,workshop-argocd,2023-07-20,0,9,4,0,0
+12,workshop-keda,2023-07-20,0,28,4,6,1
+13,redhat-workshop-deployment-strategies,2023-07-20,2,2,1,0,0
