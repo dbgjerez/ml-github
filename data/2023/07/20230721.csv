@@ -1,0 +1,14 @@
+,name,ts,stars_count,views_total,views_uniques,clones_total,clones_uniques
+0,golang-rest-api-cassandra,2023-07-21,2,8,1,0,0
+1,kotlin-ktor,2023-07-21,7,8,1,0,0
+2,kustomize-vs-helm,2023-07-21,4,1,1,0,0
+3,licence-plate-workshop,2023-07-21,0,2,1,0,0
+4,ml-github,2023-07-21,1,4,1,2,2
+5,mqtt-golang-influxdb,2023-07-21,15,12,1,0,0
+6,semantic-versioning-cli,2023-07-21,4,9,1,0,0
+7,service-mesh-wasm-go,2023-07-21,0,0,0,1,1
+8,service-mesh-workshop,2023-07-21,3,2,1,0,0
+9,workshop-keda,2023-07-21,0,18,2,8,1
+10,workshop-tekton-argocd,2023-07-21,0,0,0,2,1
+11,dstrategies-back,2023-07-21,0,2,1,1,1
+12,dstrategies-frontend,2023-07-21,0,5,1,1,1
