@@ -1,0 +1,8 @@
+,name,ts,stars_count,views_total,views_uniques,clones_total,clones_uniques
+0,golang-gin-gonic,2023-07-22,0,0,0,1,1
+1,golang-k8s-helm-helloworld,2023-07-22,2,10,1,0,0
+2,golang-rest-api-cassandra,2023-07-22,2,59,1,0,0
+3,ml-github,2023-07-22,1,0,0,5,5
+4,uca-workshop-docker,2023-07-22,0,0,0,1,1
+5,workshop-argocd,2023-07-22,0,0,0,1,1
+6,workshop-keda,2023-07-22,0,0,0,1,1
