@@ -1,0 +1,7 @@
+,name,ts,stars_count,views_total,views_uniques,clones_total,clones_uniques
+0,dbgjerez,2023-07-23,0,0,0,1,1
+1,influxdb-telegraf-grafana,2023-07-23,0,0,0,2,1
+2,iot-air-quality,2023-07-23,1,0,0,1,1
+3,ml-github,2023-07-23,1,0,0,3,3
+4,service-mesh-workshop,2023-07-23,3,2,1,0,0
+5,workshop-amq-streams,2023-07-23,0,6,1,0,0
