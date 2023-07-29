@@ -4,11 +4,10 @@
 2,iot-esp8266-relay-web-server,2023-07-15,0,1,1,0,0
 3,istio-wasm-filter-golang,2023-07-15,1,1,1,0,0
 4,kotlin-ktor,2023-07-15,7,30,1,0,0
-5,ml-github,2023-07-15,1,0,0,6,4
+5,ml-github,2023-07-15,1,0,0,3,3
 6,quarkus-kotlin-example,2023-07-15,2,0,0,1,1
 7,spring-kotlin-crud,2023-07-15,7,0,0,1,1
-8,workshop-argo-rollouts-doc,2023-07-15,1,1,1,0,0
-9,workshop-keda,2023-07-15,0,0,0,3,3
-10,workshop-redhat-sso,2023-07-15,0,1,1,0,0
-11,dstrategies-app-deployment,2023-07-15,0,1,1,0,0
-12,ocp-cluster-setup,2023-07-15,1,2,1,1,1
+8,workshop-keda,2023-07-15,0,0,0,2,2
+9,workshop-redhat-sso,2023-07-15,0,1,1,0,0
+10,dstrategies-app-deployment,2023-07-15,0,1,1,0,0
+11,ocp-cluster-setup,2023-07-15,1,2,1,1,1
