@@ -1,0 +1,12 @@
+,name,ts,stars_count,views_total,views_uniques,clones_total,clones_uniques
+0,cd-travis-app,2023-08-05,0,0,0,1,1
+1,golang-azure-eventhub,2023-08-05,0,0,0,2,2
+2,helm-spring-boot-chart,2023-08-05,1,0,0,1,1
+3,iot-devices-crud,2023-08-05,0,0,0,44,30
+4,iot-esp8266-dht11,2023-08-05,0,0,0,1,1
+5,jenkins-ci,2023-08-05,3,0,0,2,2
+6,quarkus-kotlin-example,2023-08-05,2,0,0,1,1
+7,spring-cloud-ms1,2023-08-05,0,0,0,2,2
+8,uca-workshop-docker,2023-08-05,0,0,0,2,2
+9,workshop-amq-streams,2023-08-05,0,0,0,1,1
+10,ocp-cluster-setup,2023-08-05,1,0,0,2,2
