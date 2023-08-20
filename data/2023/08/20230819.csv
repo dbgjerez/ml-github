@@ -1,0 +1,12 @@
+,name,ts,stars_count,views_total,views_uniques,clones_total,clones_uniques
+0,golang-k8s-helm-helloworld,2023-08-19,2,1,1,0,0
+1,golang-rest-api-cassandra,2023-08-19,2,1,1,0,0
+2,istio-wasm-filter-golang,2023-08-19,1,0,0,1,1
+3,kotlin-ktor,2023-08-19,8,32,3,0,0
+4,ml-github,2023-08-19,1,0,0,5,4
+5,mqtt-golang-influxdb,2023-08-19,15,0,0,1,1
+6,semantic-versioning-cli,2023-08-19,4,0,0,1,1
+7,service-mesh-wasm-go,2023-08-19,0,0,0,1,1
+8,workshop-argo-rollouts-doc,2023-08-19,1,0,0,1,1
+9,workshop-tekton-argocd-app-quarkus,2023-08-19,0,0,0,1,1
+10,ocp-cluster-setup,2023-08-19,1,0,0,1,1
