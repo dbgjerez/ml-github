@@ -5,7 +5,7 @@
 3,golang-k8s-helm-helloworld,2023-08-09,2,1,1,0,0
 4,iot-k8s-stack,2023-08-09,1,0,0,2,1
 5,istio-wasm-filter-golang,2023-08-09,1,1,1,0,0
-6,jenkins-pipeline,2023-08-09,1,0,0,2,2
+6,jenkins-pipeline,2023-08-09,1,0,0,1,1
 7,kotlin-ktor,2023-08-09,8,7,1,1,1
 8,mqtt-golang-influxdb,2023-08-09,15,11,3,0,0
 9,ms-helm-chart,2023-08-09,1,0,0,2,1
