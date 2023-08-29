@@ -1,0 +1,7 @@
+,name,ts,stars_count,views_total,views_uniques,clones_total,clones_uniques
+0,golang-rest-api-cassandra,2023-08-27,2,1,1,0,0
+1,influx-telegraf-chronograf,2023-08-27,0,0,0,1,1
+2,istio-wasm-filter-golang,2023-08-27,1,2,1,0,0
+3,mqtt-golang-influxdb,2023-08-27,15,1,1,0,0
+4,quarkus-kafka,2023-08-27,1,0,0,2,1
+5,uca-workshop-docker,2023-08-27,0,0,0,2,1
