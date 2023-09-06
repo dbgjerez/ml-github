@@ -2,7 +2,7 @@
 0,golang-gin-gonic,2023-08-23,0,0,0,2,1
 1,golang-rest-api-cassandra,2023-08-23,2,0,0,1,1
 2,istio-wasm-filter-golang,2023-08-23,1,1,1,0,0
-3,ml-github,2023-08-23,1,0,0,5,4
+3,ml-github,2023-08-23,1,0,0,4,3
 4,mqtt-golang-influxdb,2023-08-23,15,0,0,1,1
 5,quarkus-kotlin-example,2023-08-23,2,3,2,0,0
 6,ta,2023-08-23,3,0,0,1,1
