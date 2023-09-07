@@ -1,7 +1,7 @@
 ,name,ts,stars_count,views_total,views_uniques,clones_total,clones_uniques
 0,cd-travis-app,2023-08-24,0,0,0,2,1
 1,kotlin-ktor,2023-08-24,8,0,0,1,1
-2,ml-github,2023-08-24,1,0,0,3,2
+2,ml-github,2023-08-24,1,0,0,2,1
 3,ms-helm-chart,2023-08-24,1,0,0,1,1
 4,ocp-HTPasswd-file-provider,2023-08-24,0,0,0,1,1
 5,spring-cloud-ms2,2023-08-24,0,0,0,1,1
