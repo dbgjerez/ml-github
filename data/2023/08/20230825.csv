@@ -2,8 +2,7 @@
 0,golang-k8s-helm-helloworld,2023-08-25,2,0,0,1,1
 1,helm-spring-boot-chart,2023-08-25,1,7,1,0,0
 2,jenkins-ci,2023-08-25,3,0,0,1,1
-3,ml-github,2023-08-25,1,0,0,4,3
+3,ml-github,2023-08-25,1,0,0,3,2
 4,mqtt-golang-influxdb,2023-08-25,15,14,2,0,0
 5,spring-cloud-dataflow,2023-08-25,0,0,0,1,1
 6,ta,2023-08-25,3,0,0,1,1
-7,workshop-amq-streams,2023-08-25,0,2,1,0,0
