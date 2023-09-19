@@ -1,0 +1,14 @@
+,name,ts,stars_count,views_total,views_uniques,clones_total,clones_uniques
+0,asciidoc-base,2023-09-18,0,0,0,2,1
+1,b0rr3g0-blog,2023-09-18,0,33,2,0,0
+2,golang-k8s-helm-helloworld,2023-09-18,2,42,1,0,0
+3,jenkins-pipeline,2023-09-18,1,0,0,2,1
+4,kotlin-ktor,2023-09-18,8,31,1,0,0
+5,ml-github,2023-09-18,1,0,0,7,5
+6,quarkus-kafka,2023-09-18,1,2,1,1,1
+7,quarkus-kotlin-example,2023-09-18,2,0,0,2,1
+8,service-mesh-wasm-go,2023-09-18,0,0,0,1,1
+9,workshop-argo-rollouts-doc,2023-09-18,1,1,1,0,0
+10,workshop-golang-grpc,2023-09-18,0,1,1,0,0
+11,workshop-keda,2023-09-18,0,16,1,0,0
+12,redhat-workshop-deployment-strategies,2023-09-18,2,1,1,0,0
