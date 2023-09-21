@@ -2,7 +2,6 @@
 0,istio-wasm-filter-golang,2023-09-07,1,1,1,0,0
 1,licence-plate-workshop,2023-09-07,0,0,0,1,1
 2,ml-github,2023-09-07,1,0,0,2,2
-3,spring-cloud-eureka,2023-09-07,0,0,0,2,1
-4,workshop-amq-streams,2023-09-07,0,21,2,0,0
-5,workshop-keda,2023-09-07,0,0,0,2,1
-6,dstrategies-back,2023-09-07,0,0,0,1,1
+3,workshop-amq-streams,2023-09-07,0,21,2,0,0
+4,workshop-keda,2023-09-07,0,0,0,2,1
+5,dstrategies-back,2023-09-07,0,0,0,1,1
