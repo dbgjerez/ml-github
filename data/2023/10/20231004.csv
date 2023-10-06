@@ -1,0 +1,9 @@
+,name,ts,stars_count,views_total,views_uniques,clones_total,clones_uniques
+0,kustomize-vs-helm,2023-10-04,4,0,0,1,1
+1,library,2023-10-04,0,0,0,1,1
+2,ml-github,2023-10-04,1,0,0,5,4
+3,mqtt-golang-influxdb,2023-10-04,16,0,0,1,1
+4,ocp-logging,2023-10-04,1,6,1,0,0
+5,quarkus-kotlin-example,2023-10-04,2,53,2,0,0
+6,semantic-versioning-cli,2023-10-04,4,32,2,9,5
+7,spring-boot-grafana,2023-10-04,0,0,0,1,1
