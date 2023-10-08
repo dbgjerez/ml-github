@@ -1,0 +1,9 @@
+,name,ts,stars_count,views_total,views_uniques,clones_total,clones_uniques
+0,iot-devices-crud,2023-10-07,0,0,0,2,2
+1,kotlin-ktor,2023-10-07,8,19,1,0,0
+2,ml-github,2023-10-07,1,0,0,17,2
+3,mqtt-golang-influxdb,2023-10-07,16,1,1,1,1
+4,quarkus-kotlin-example,2023-10-07,2,2,1,0,0
+5,spring-cloud-ms1,2023-10-07,0,0,0,1,1
+6,workshop-amq-streams,2023-10-07,1,1,1,0,0
+7,workshop-cdc,2023-10-07,0,0,0,3,3
