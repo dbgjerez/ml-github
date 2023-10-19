@@ -1,0 +1,9 @@
+,name,ts,stars_count,views_total,views_uniques,clones_total,clones_uniques
+0,asciidoc-base,2023-10-15,0,0,0,1,1
+1,gingonic-go-mongodb,2023-10-15,0,0,0,1,1
+2,istio-wasm-filter-golang,2023-10-15,1,1,1,0,0
+3,kotlin-ktor,2023-10-15,8,2,1,0,0
+4,ml-github,2023-10-15,1,0,0,3,2
+5,semantic-versioning-cli,2023-10-15,4,0,0,1,1
+6,service-mesh-workshop,2023-10-15,3,0,0,1,1
+7,spring-cloud-ms1,2023-10-15,0,0,0,2,1
