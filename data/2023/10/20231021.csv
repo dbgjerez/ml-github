@@ -1,0 +1,11 @@
+,name,ts,stars_count,views_total,views_uniques,clones_total,clones_uniques
+0,golang-k8s-helm-helloworld,2023-10-21,2,0,0,1,1
+1,istio-wasm-filter-golang,2023-10-21,1,1,1,0,0
+2,jwt,2023-10-21,1,2,1,0,0
+3,kops-aws,2023-10-21,4,0,0,1,1
+4,ml-github,2023-10-21,1,0,0,4,3
+5,mqtt-golang-influxdb,2023-10-21,16,1,1,0,0
+6,ocp-HTPasswd-file-provider,2023-10-21,0,3,1,0,0
+7,semantic-versioning-cli,2023-10-21,4,0,0,1,1
+8,ta,2023-10-21,3,0,0,1,1
+9,workshop-cdc,2023-10-21,0,0,0,2,2
