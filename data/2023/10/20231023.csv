@@ -1,0 +1,9 @@
+,name,ts,stars_count,views_total,views_uniques,clones_total,clones_uniques
+0,golang-rest-api-cassandra,2023-10-23,2,1,1,0,0
+1,ml-github,2023-10-23,1,0,0,3,3
+2,mqtt-golang-influxdb,2023-10-23,16,1,1,0,0
+3,quarkus-kafka,2023-10-23,1,21,1,1,1
+4,spring-data-mongodb,2023-10-23,0,0,0,1,1
+5,workshop-cdc,2023-10-23,0,14,2,10,4
+6,workshop-golang-grpc,2023-10-23,0,0,0,1,1
+7,workshop-keda,2023-10-23,0,33,1,0,0
