@@ -1,2 +1,9 @@
 ,name,ts,stars_count,views_total,views_uniques,clones_total,clones_uniques
-0,iot-esp8266-irrigation-system,2023-11-01,0,1,1,0,0
+0,golang-rest-api-cassandra,2023-11-01,2,3,1,0,0
+1,iot-devices-crud,2023-11-01,0,0,0,1,1
+2,iot-esp8266-irrigation-system,2023-11-01,0,1,1,0,0
+3,istio-wasm-filter-golang,2023-11-01,1,1,1,1,1
+4,kotlin-ktor,2023-11-01,8,29,1,0,0
+5,ml-github,2023-11-01,1,0,0,1,1
+6,service-mesh-workshop,2023-11-01,3,0,0,1,1
+7,spring-data-mongodb,2023-11-01,0,0,0,1,1
