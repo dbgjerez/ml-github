@@ -4,7 +4,7 @@
 2,jenkins-ci,2023-10-26,3,0,0,1,1
 3,kotlin-ktor,2023-10-26,8,2,1,0,0
 4,kustomize-vs-helm,2023-10-26,4,2,1,0,0
-5,mqtt-golang-influxdb,2023-10-26,16,2,1,1,1
+5,mqtt-golang-influxdb,2023-10-26,16,1,1,1,1
 6,ocp-logging,2023-10-26,1,1,1,0,0
 7,quarkus-kafka,2023-10-26,1,1,1,0,0
 8,spring-data-mongodb,2023-10-26,0,0,0,2,1
