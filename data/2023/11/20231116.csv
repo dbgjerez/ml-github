@@ -1,0 +1,12 @@
+,name,ts,stars_count,views_total,views_uniques,clones_total,clones_uniques
+0,golang-k8s-helm-helloworld,2023-11-16,2,1,1,0,0
+1,iot-devices-crud,2023-11-16,0,4,2,0,0
+2,jenkins-ci,2023-11-16,3,0,0,1,1
+3,kustomize-vs-helm,2023-11-16,4,19,1,1,1
+4,ml-github,2023-11-16,1,0,0,1,1
+5,mqtt-golang-influxdb,2023-11-16,16,12,1,0,0
+6,ocp-logging,2023-11-16,1,12,7,1,1
+7,ocp-monitoring-golang,2023-11-16,1,1,1,0,0
+8,ta,2023-11-16,3,0,0,1,1
+9,workshop-cdc,2023-11-16,0,10,2,3,2
+10,workshop-tekton-argocd,2023-11-16,0,0,0,1,1
