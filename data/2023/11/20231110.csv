@@ -4,6 +4,6 @@
 2,mqtt-golang-influxdb,2023-11-10,16,4,2,0,0
 3,ocp-logging,2023-11-10,1,6,2,0,0
 4,semantic-versioning-cli,2023-11-10,4,0,0,1,1
-5,workshop-cdc,2023-11-10,0,126,4,12,6
+5,workshop-cdc,2023-11-10,2,126,4,12,6
 6,workshop-keda,2023-11-10,1,1,1,0,0
 7,workshop-tekton-argocd,2023-11-10,0,4,1,0,0

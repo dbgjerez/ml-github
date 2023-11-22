@@ -1,2 +1,10 @@
 ,name,ts,stars_count,views_total,views_uniques,clones_total,clones_uniques
-0,workshop-golang-grpc,2023-11-21,0,0,0,1,1
+0,golang-azure-eventhub,2023-11-21,0,0,0,1,1
+1,istio-wasm-filter-golang,2023-11-21,1,12,2,1,1
+2,kotlin-ktor,2023-11-21,8,0,0,1,1
+3,ml-github,2023-11-21,1,2,1,4,3
+4,ocp-logging,2023-11-21,1,3,2,0,0
+5,workshop-amq-streams,2023-11-21,1,2,1,0,0
+6,workshop-cdc,2023-11-21,2,438,6,5,4
+7,workshop-golang-grpc,2023-11-21,0,0,0,3,3
+8,workshop-tekton-argocd-app-quarkus,2023-11-21,0,0,0,1,1
