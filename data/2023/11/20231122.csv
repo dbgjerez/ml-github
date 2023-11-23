@@ -1,0 +1,15 @@
+,name,ts,stars_count,views_total,views_uniques,clones_total,clones_uniques
+0,gingonic-go-mongodb,2023-11-22,0,1,1,0,0
+1,golang-azure-eventhub,2023-11-22,0,7,1,0,0
+2,golang-rest-api-cassandra,2023-11-22,2,8,1,0,0
+3,iot-devices-crud,2023-11-22,0,6,1,0,0
+4,istio-wasm-filter-golang,2023-11-22,1,1,1,0,0
+5,kustomize-vs-helm,2023-11-22,4,5,2,0,0
+6,ml-github,2023-11-22,1,0,0,2,2
+7,mqtt-golang-influxdb,2023-11-22,16,1,1,0,0
+8,ocp-logging,2023-11-22,1,1,1,0,0
+9,pelorus-workshop,2023-11-22,0,0,0,1,1
+10,service-mesh-wasm-go,2023-11-22,0,0,0,1,1
+11,service-mesh-workshop,2023-11-22,3,0,0,1,1
+12,workshop-amq-streams,2023-11-22,1,1,1,0,0
+13,workshop-cdc,2023-11-22,2,6,3,0,0
