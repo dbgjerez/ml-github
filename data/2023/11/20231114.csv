@@ -2,7 +2,7 @@
 0,istio-wasm-filter-golang,2023-11-14,1,1,1,0,0
 1,jenkins-pipeline,2023-11-14,1,1,1,0,0
 2,kotlin-ktor,2023-11-14,8,1,1,0,0
-3,ml-github,2023-11-14,1,0,0,3,2
+3,ml-github,2023-11-14,1,0,0,2,1
 4,mqtt-golang-influxdb,2023-11-14,16,1,1,0,0
 5,ocp-logging,2023-11-14,1,1,1,1,1
 6,spring-kotlin-crud,2023-11-14,7,0,0,1,1
