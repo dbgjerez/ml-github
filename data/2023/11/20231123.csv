@@ -8,6 +8,6 @@
 6,mqtt-golang-influxdb,2023-11-23,16,0,0,1,1
 7,ocp-logging,2023-11-23,1,1,1,0,0
 8,workshop-amq-streams,2023-11-23,1,1,1,0,0
-9,workshop-cdc,2023-11-23,2,59,4,4,2
+9,workshop-cdc,2023-11-23,3,59,4,4,2
 10,workshop-golang-grpc,2023-11-23,0,0,0,1,1
 11,workshop-keda,2023-11-23,1,0,0,1,1
