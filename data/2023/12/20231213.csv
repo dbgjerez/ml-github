@@ -1,0 +1,17 @@
+,name,ts,stars_count,views_total,views_uniques,clones_total,clones_uniques
+0,rhbk-workshop,2023-12-13,0,21,6,1,1
+1,dbgjerez,2023-12-13,0,0,0,1,1
+2,golang-k8s-helm-helloworld,2023-12-13,2,0,0,2,2
+3,helm-spring-boot-chart,2023-12-13,1,0,0,1,1
+4,istio-wasm-filter-golang,2023-12-13,1,8,1,1,1
+5,ml-github,2023-12-13,1,6,2,2,1
+6,ms-helm-chart,2023-12-13,1,0,0,1,1
+7,ocp-logging,2023-12-13,1,0,0,2,1
+8,quarkus-kafka,2023-12-13,1,0,0,2,1
+9,service-mesh-workshop,2023-12-13,3,0,0,1,1
+10,ta,2023-12-13,3,0,0,2,1
+11,workshop-cdc,2023-12-13,3,6,5,2,1
+12,workshop-rhbk,2023-12-13,0,0,0,2,1
+13,workshop-tekton-argocd,2023-12-13,0,0,0,1,1
+14,workshop-tekton-argocd-app-quarkus,2023-12-13,0,0,0,1,1
+15,workshop-tekton-argocd-app-quarkus-config,2023-12-13,0,0,0,1,1
