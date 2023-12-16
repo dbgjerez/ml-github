@@ -1,2 +1,9 @@
 ,name,ts,stars_count,views_total,views_uniques,clones_total,clones_uniques
-0,semantic-versioning-cli,2023-12-14,4,0,0,1,1
+0,rhbk-workshop,2023-12-14,0,83,2,1,1
+1,influxdb-telegraf-grafana,2023-12-14,0,0,0,1,1
+2,kotlin-ktor,2023-12-14,8,17,1,0,0
+3,licence-plate-workshop,2023-12-14,0,0,0,1,1
+4,ml-github,2023-12-14,1,2,1,4,3
+5,ocp-monitoring-golang,2023-12-14,1,1,1,0,0
+6,semantic-versioning-cli,2023-12-14,4,0,0,1,1
+7,workshop-cdc,2023-12-14,3,33,4,0,0
