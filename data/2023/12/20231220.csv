@@ -1,6 +1,6 @@
 ,name,ts,stars_count,views_total,views_uniques,clones_total,clones_uniques
-0,rhbk-workshop,2023-12-20,0,5,2,1,1
-1,ml-github,2023-12-20,1,0,0,4,3
+0,rhbk-workshop,2023-12-20,0,5,2,0,0
+1,ml-github,2023-12-20,1,0,0,3,2
 2,quarkus-kotlin-example,2023-12-20,2,1,1,0,0
 3,service-mesh-workshop,2023-12-20,3,0,0,1,1
 4,workshop-cdc,2023-12-20,3,66,5,0,0
