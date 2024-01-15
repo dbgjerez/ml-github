@@ -9,7 +9,7 @@
 7,kotlin-ktor,2024-01-09,8,3,1,0,0
 8,kustomize-vs-helm,2024-01-09,4,2,2,0,0
 9,ml-github,2024-01-09,1,0,0,5,3
-10,mqtt-golang-influxdb,2024-01-09,16,1,1,1,1
+10,mqtt-golang-influxdb,2024-01-09,15,1,1,1,1
 11,workshop-amq-streams,2024-01-09,1,0,0,6,3
 12,workshop-rhbk,2024-01-09,0,22,2,2,1
 13,workshop-tekton-argocd,2024-01-09,0,0,0,1,1
