@@ -1,0 +1,13 @@
+,name,ts,stars_count,views_total,views_uniques,clones_total,clones_uniques
+0,rhbk-workshop,2024-01-17,0,38,2,19,10
+1,golang-rest-api-cassandra,2024-01-17,2,19,1,0,0
+2,jenkins-pipeline,2024-01-17,1,0,0,1,1
+3,kotlin-ktor,2024-01-17,8,0,0,1,1
+4,ocp-HTPasswd-file-provider,2024-01-17,0,0,0,1,1
+5,ocp-logging,2024-01-17,1,3,1,1,1
+6,service-mesh-workshop,2024-01-17,3,5,1,0,0
+7,uca-workshop-docker,2024-01-17,0,0,0,2,1
+8,workshop-rhbk,2024-01-17,0,0,0,1,1
+9,dstrategies-app-deployment,2024-01-17,0,14,1,0,0
+10,ocp-cluster-setup,2024-01-17,1,17,1,0,0
+11,redhat-workshop-deployment-strategies,2024-01-17,2,27,1,0,0
