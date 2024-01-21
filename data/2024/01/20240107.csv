@@ -1,7 +1,6 @@
 ,name,ts,stars_count,views_total,views_uniques,clones_total,clones_uniques
 0,rhbk-workshop,2024-01-07,0,13,1,0,0
 1,kotlin-ktor,2024-01-07,8,9,1,0,0
-2,ml-github,2024-01-07,1,0,0,5,4
+2,ml-github,2024-01-07,1,0,0,3,2
 3,service-mesh-workshop,2024-01-07,3,16,1,0,0
-4,workshop-amq-streams,2024-01-07,1,0,0,2,1
-5,workshop-cdc,2024-01-07,3,53,4,0,0
+4,workshop-cdc,2024-01-07,3,53,4,0,0
