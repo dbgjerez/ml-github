@@ -1,0 +1,16 @@
+,name,ts,stars_count,views_total,views_uniques,clones_total,clones_uniques
+0,rhbk-workshop,2024-01-31,0,15,3,10,6
+1,b0rr3g0-blog,2024-01-31,0,0,0,1,1
+2,dbgjerez,2024-01-31,0,0,0,1,1
+3,golang-k8s-helm-helloworld,2024-01-31,2,1,1,0,0
+4,influx-telegraf-chronograf,2024-01-31,0,0,0,1,1
+5,iot-esp8266-dht11,2024-01-31,0,0,0,1,1
+6,istio-wasm-filter-golang,2024-01-31,1,0,0,1,1
+7,jwt,2024-01-31,1,0,0,2,1
+8,mqtt-golang-influxdb,2024-01-31,15,5,1,1,1
+9,ocp-logging,2024-01-31,1,1,1,0,0
+10,service-mesh-workshop,2024-01-31,3,0,0,1,1
+11,spring-kotlin-crud,2024-01-31,7,40,1,0,0
+12,uca-workshop-docker,2024-01-31,0,1,1,0,0
+13,workshop-argo-rollouts-doc,2024-01-31,1,0,0,1,1
+14,workshop-cdc,2024-01-31,3,3,2,0,0
