@@ -3,11 +3,11 @@
 1,ansible-bootstrap-workstation,2024-01-21,0,0,0,1,1
 2,golang-rest-api-cassandra,2024-01-21,2,7,1,0,0
 3,istio-wasm-filter-golang,2024-01-21,1,0,0,1,1
-4,ml-github,2024-01-21,1,0,0,3,2
+4,ml-github,2024-01-21,1,0,0,2,1
 5,quarkus-kafka,2024-01-21,1,0,0,1,1
 6,service-mesh-workshop,2024-01-21,3,0,0,1,1
 7,spring-cloud-dataflow,2024-01-21,0,0,0,1,1
-8,spring-cloud-ms2,2024-01-21,0,0,0,2,1
+8,spring-cloud-ms2,2024-01-21,0,0,0,1,1
 9,workshop-amq-streams,2024-01-21,1,7,1,0,0
 10,workshop-cdc,2024-01-21,3,2,1,0,0
 11,workshop-keda,2024-01-21,1,0,0,1,1
