@@ -3,9 +3,9 @@
 1,golang-rest-api-cassandra,2024-01-22,2,0,0,1,1
 2,iot-esp8266-irrigation-system,2024-01-22,0,1,1,0,0
 3,kotlin-ktor,2024-01-22,8,1,1,0,0
-4,ml-github,2024-01-22,1,0,0,4,3
+4,ml-github,2024-01-22,1,0,0,3,2
 5,mqtt-golang-influxdb,2024-01-22,15,1,1,0,0
 6,quarkus-kafka,2024-01-22,1,29,1,0,0
-7,spring-cloud-ms2,2024-01-22,0,0,0,2,1
+7,spring-cloud-ms2,2024-01-22,0,0,0,1,1
 8,spring-data-mongodb,2024-01-22,0,0,0,1,1
 9,workshop-cdc,2024-01-22,3,3,2,0,0
