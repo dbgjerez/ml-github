@@ -1,5 +1,5 @@
 ,name,ts,stars_count,views_total,views_uniques,clones_total,clones_uniques
-0,rhbk-workshop,2024-01-30,0,1,1,0,0
+0,rhbk-workshop,2024-01-30,1,1,1,0,0
 1,gingonic-go-mongodb,2024-01-30,0,0,0,1,1
 2,golang-azure-eventhub,2024-01-30,0,0,0,2,2
 3,golang-azure-eventhub-kafka,2024-01-30,0,0,0,2,2
@@ -15,7 +15,7 @@
 13,service-mesh-wasm-go,2024-01-30,0,0,0,2,2
 14,service-mesh-workshop,2024-01-30,3,0,0,2,2
 15,ta,2024-01-30,3,0,0,1,1
-16,workshop-cdc,2024-01-30,3,1,1,0,0
+16,workshop-cdc,2024-01-30,4,1,1,0,0
 17,workshop-golang-grpc,2024-01-30,0,0,0,2,1
 18,workshop-keda,2024-01-30,1,0,0,1,1
 19,workshop-tekton-argocd,2024-01-30,0,0,0,1,1
