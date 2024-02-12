@@ -1,7 +1,7 @@
 ,name,ts,stars_count,views_total,views_uniques,clones_total,clones_uniques
 0,rhbk-workshop,2024-02-04,1,0,0,1,1
 1,istio-wasm-filter-golang,2024-02-04,1,1,1,0,0
-2,kotlin-ktor,2024-02-04,8,8,4,0,0
+2,kotlin-ktor,2024-02-04,7,8,4,0,0
 3,kustomize-vs-helm,2024-02-04,4,17,1,1,1
 4,ml-github,2024-02-04,1,0,0,2,2
 5,quarkus-kotlin-example,2024-02-04,2,2,1,0,0
