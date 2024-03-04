@@ -3,7 +3,7 @@
 1,golang-rest-api-cassandra,2024-02-19,2,44,1,0,0
 2,iot-devices-crud,2024-02-19,0,0,0,1,1
 3,iot-esp8266-irrigation-system,2024-02-19,0,0,0,1,1
-4,ml-github,2024-02-19,1,0,0,4,3
+4,ml-github,2024-02-19,1,0,0,3,2
 5,mqtt-golang-influxdb,2024-02-19,15,0,0,1,1
 6,ocp-logging,2024-02-19,1,1,1,0,0
 7,quarkus-kotlin-example,2024-02-19,2,2,1,0,0
