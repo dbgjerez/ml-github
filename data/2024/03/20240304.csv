@@ -1,0 +1,12 @@
+,name,ts,stars_count,views_total,views_uniques,clones_total,clones_uniques
+0,asciidoc-base,2024-03-04,0,0,0,1,1
+1,cd-travis-app,2024-03-04,0,0,0,1,1
+2,golang-rest-api-cassandra,2024-03-04,2,1,1,0,0
+3,istio-wasm-filter-golang,2024-03-04,1,11,1,0,0
+4,kotlin-ktor,2024-03-04,7,44,2,0,0
+5,ml-github,2024-03-04,1,0,0,2,2
+6,mqtt-golang-influxdb,2024-03-04,15,1,1,0,0
+7,quarkus-kotlin-example,2024-03-04,2,1,1,0,0
+8,spring-data-mongodb,2024-03-04,0,0,0,1,1
+9,workshop-cdc,2024-03-04,4,1,1,0,0
+10,ProyectoEncuesta,2024-03-04,0,0,0,1,1
