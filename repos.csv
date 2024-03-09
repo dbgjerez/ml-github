@@ -32,7 +32,7 @@
 30,kustomize-vs-helm,"['argocd', 'gitops', 'helm', 'kubernetes', 'kustomize', 'workshop']",20230622,dbgjerez
 31,library,[],20180201,dbgjerez
 32,licence-plate-workshop,[],20220609,dbgjerez
-33,ml-github,"['analytics', 'github', 'pandas', 'python']",20240306,dbgjerez
+33,ml-github,"['analytics', 'github', 'pandas', 'python']",20240308,dbgjerez
 34,ml-learning,"['machine-learning', 'pandas', 'python']",20220630,dbgjerez
 35,mqtt-golang-influxdb,"['golang', 'go', 'gin-gonic', 'gin', 'iot', 'mqtt', 'mosquitto', 'influxdb', 'influx']",20210316,dbgjerez
 36,ms-helm-chart,[],20210210,dbgjerez
