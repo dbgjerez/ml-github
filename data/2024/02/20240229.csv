@@ -3,7 +3,7 @@
 1,iot-esp8266-dht11,2024-02-29,0,0,0,1,1
 2,iot-esp8266-relay-web-server,2024-02-29,0,0,0,1,1
 3,ocp-logging,2024-02-29,1,1,1,0,0
-4,semantic-versioning-cli,2024-02-29,5,2,2,0,0
+4,semantic-versioning-cli,2024-02-29,5,1,1,0,0
 5,spring-kotlin-crud,2024-02-29,7,0,0,1,1
 6,workshop-argo-rollouts-resources,2024-02-29,1,0,0,1,1
 7,workshop-rhbk,2024-02-29,0,1,1,1,1

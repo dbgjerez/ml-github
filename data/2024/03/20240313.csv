@@ -1,0 +1,9 @@
+,name,ts,stars_count,views_total,views_uniques,clones_total,clones_uniques
+0,rhbk-workshop,2024-03-13,1,2,1,0,0
+1,golang-rest-api-cassandra,2024-03-13,2,6,1,1,1
+2,helm-spring-boot-chart,2024-03-13,1,1,1,0,0
+3,ic-gradle,2024-03-13,0,0,0,1,1
+4,istio-wasm-filter-golang,2024-03-13,1,0,0,1,1
+5,ml-github,2024-03-13,1,0,0,1,1
+6,workshop-amq-streams,2024-03-13,1,47,1,0,0
+7,workshop-golang-grpc,2024-03-13,0,0,0,1,1
