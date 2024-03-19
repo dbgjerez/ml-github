@@ -1,0 +1,7 @@
+,name,ts,stars_count,views_total,views_uniques,clones_total,clones_uniques
+0,istio-wasm-filter-golang,2024-03-18,1,1,1,1,1
+1,kustomize-vs-helm,2024-03-18,4,0,0,1,1
+2,ml-github,2024-03-18,1,0,0,2,2
+3,mqtt-golang-influxdb,2024-03-18,15,1,1,0,0
+4,workshop-amq-streams,2024-03-18,1,0,0,1,1
+5,workshop-keda,2024-03-18,1,2,1,0,0
