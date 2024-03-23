@@ -1,0 +1,11 @@
+,name,ts,stars_count,views_total,views_uniques,clones_total,clones_uniques
+0,rhbk-workshop,2024-03-22,1,0,0,1,1
+1,golang-k8s-helm-helloworld,2024-03-22,2,1,1,0,0
+2,istio-wasm-filter-golang,2024-03-22,1,1,1,0,0
+3,kotlin-ktor,2024-03-22,7,0,0,1,1
+4,ml-github,2024-03-22,1,0,0,1,1
+5,workshop-amq-streams,2024-03-22,1,1,1,0,0
+6,workshop-argo-rollouts-doc,2024-03-22,1,2,2,0,0
+7,workshop-cdc,2024-03-22,4,1,1,0,0
+8,workshop-tekton-argocd,2024-03-22,0,22,2,0,0
+9,redhat-workshop-deployment-strategies,2024-03-22,2,1,1,0,0
