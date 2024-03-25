@@ -1,0 +1,7 @@
+,name,ts,stars_count,views_total,views_uniques,clones_total,clones_uniques
+0,asciidoc-base,2024-03-24,0,0,0,1,1
+1,golang-k8s-helm-helloworld,2024-03-24,2,0,0,1,1
+2,mqtt-golang-influxdb,2024-03-24,15,51,3,0,0
+3,ocp-monitoring-golang,2024-03-24,1,0,0,1,1
+4,quarkus-kotlin-example,2024-03-24,2,22,2,0,0
+5,uca-workshop-docker,2024-03-24,0,0,0,1,1

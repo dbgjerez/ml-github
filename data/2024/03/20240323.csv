@@ -1,0 +1,9 @@
+,name,ts,stars_count,views_total,views_uniques,clones_total,clones_uniques
+0,golang-azure-eventhub,2024-03-23,0,0,0,1,1
+1,iot-devices-crud,2024-03-23,0,0,0,1,1
+2,iot-esp8266-irrigation-system,2024-03-23,0,1,1,0,0
+3,kotlin-ktor,2024-03-23,7,31,2,0,0
+4,ml-github,2024-03-23,1,0,0,2,2
+5,mqtt-golang-influxdb,2024-03-23,15,55,1,0,0
+6,quarkus-kotlin-example,2024-03-23,2,4,1,0,0
+7,workshop-amq-streams,2024-03-23,1,1,1,0,0
