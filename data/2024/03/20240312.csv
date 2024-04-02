@@ -5,11 +5,9 @@
 3,golang-rest-api-cassandra,2024-03-12,2,0,0,2,2
 4,iot-devices-crud,2024-03-12,0,0,0,1,1
 5,istio-wasm-filter-golang,2024-03-12,1,1,1,0,0
-6,kustomize-vs-helm,2024-03-12,4,8,1,0,0
-7,ml-github,2024-03-12,1,0,0,1,1
-8,mqtt-golang-influxdb,2024-03-12,15,2,1,0,0
-9,ocp-monitoring-golang,2024-03-12,1,0,0,1,1
-10,REST-Services-MySQL,2024-03-12,0,0,0,1,1
-11,service-mesh-wasm-go,2024-03-12,0,1,1,0,0
-12,uca-workshop-docker,2024-03-12,0,0,0,1,1
-13,workshop-argo-rollouts-resources,2024-03-12,1,0,0,1,1
+6,mqtt-golang-influxdb,2024-03-12,15,2,1,0,0
+7,ocp-monitoring-golang,2024-03-12,1,0,0,1,1
+8,REST-Services-MySQL,2024-03-12,0,0,0,1,1
+9,service-mesh-wasm-go,2024-03-12,0,1,1,0,0
+10,uca-workshop-docker,2024-03-12,0,0,0,1,1
+11,workshop-argo-rollouts-resources,2024-03-12,1,0,0,1,1

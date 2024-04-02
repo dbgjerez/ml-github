@@ -1,0 +1,12 @@
+,name,ts,stars_count,views_total,views_uniques,clones_total,clones_uniques
+0,rhbk-workshop,2024-03-25,1,1,1,0,0
+1,golang-rest-api-cassandra,2024-03-25,2,16,2,0,0
+2,kotlin-ktor,2024-03-25,7,24,1,0,0
+3,kustomize-vs-helm,2024-03-25,4,1,1,0,0
+4,ml-github,2024-03-25,1,0,0,2,2
+5,mqtt-golang-influxdb,2024-03-25,15,57,2,0,0
+6,quarkus-kotlin-example,2024-03-25,2,0,0,1,1
+7,REST-Services-MySQL,2024-03-25,0,0,0,1,1
+8,semantic-versioning-cli,2024-03-25,5,0,0,1,1
+9,workshop-cdc,2024-03-25,4,1,1,0,0
+10,workshop-tekton-argocd,2024-03-25,0,29,1,0,0
