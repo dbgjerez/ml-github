@@ -1,0 +1,10 @@
+,name,ts,stars_count,views_total,views_uniques,clones_total,clones_uniques
+0,rhbk-workshop,2024-04-08,1,1,1,0,0
+1,helm-spring-boot-chart,2024-04-08,1,16,1,0,0
+2,kotlin-ktor,2024-04-08,7,5,2,0,0
+3,kustomize-vs-helm,2024-04-08,4,1,1,0,0
+4,ml-github,2024-04-08,1,0,0,2,2
+5,mqtt-golang-influxdb,2024-04-08,16,37,2,0,0
+6,ocp-monitoring-golang,2024-04-08,1,1,1,0,0
+7,workshop-cdc,2024-04-08,4,0,0,1,1
+8,workshop-tekton-argocd,2024-04-08,0,3,1,1,1
