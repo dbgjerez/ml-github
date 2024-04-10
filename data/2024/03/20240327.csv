@@ -2,8 +2,8 @@
 0,golang-gin-gonic,2024-03-27,0,1,1,1,1
 1,golang-k8s-helm-helloworld,2024-03-27,2,4,2,1,1
 2,golang-rest-api-cassandra,2024-03-27,2,63,1,1,1
-3,kotlin-ktor,2024-03-27,7,49,2,0,0
-4,mqtt-golang-influxdb,2024-03-27,16,4,2,0,0
+3,kotlin-ktor,2024-03-27,7,9,1,0,0
+4,mqtt-golang-influxdb,2024-03-27,17,4,2,0,0
 5,service-mesh-workshop,2024-03-27,3,0,0,1,1
 6,workshop-argo-rollouts-doc,2024-03-27,1,10,1,0,0
 7,workshop-cdc,2024-03-27,4,0,0,2,2
