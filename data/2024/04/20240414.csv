@@ -1,0 +1,7 @@
+,name,ts,stars_count,views_total,views_uniques,clones_total,clones_uniques
+0,gingonic-go-mongodb,2024-04-14,0,6,1,0,0
+1,influx-telegraf-chronograf,2024-04-14,0,0,0,1,1
+2,istio-wasm-filter-golang,2024-04-14,1,2,1,0,0
+3,kotlin-ktor,2024-04-14,7,11,1,0,0
+4,mqtt-golang-influxdb,2024-04-14,17,3,1,0,0
+5,ocp-logging,2024-04-14,1,0,0,1,1

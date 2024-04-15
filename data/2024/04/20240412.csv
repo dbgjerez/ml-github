@@ -1,0 +1,12 @@
+,name,ts,stars_count,views_total,views_uniques,clones_total,clones_uniques
+0,golang-azure-eventhub-kafka,2024-04-12,0,0,0,1,1
+1,golang-gin-gonic,2024-04-12,0,0,0,1,1
+2,golang-rest-api-cassandra,2024-04-12,2,1,1,1,1
+3,istio-wasm-filter-golang,2024-04-12,1,4,1,0,0
+4,kotlin-ktor,2024-04-12,7,16,2,1,1
+5,mqtt-golang-influxdb,2024-04-12,17,2,1,0,0
+6,ocp-HTPasswd-file-provider,2024-04-12,0,1,1,0,0
+7,spring-kotlin-crud,2024-04-12,7,18,1,0,0
+8,workshop-tekton-argocd,2024-04-12,0,15,1,0,0
+9,dstrategies-app-deployment,2024-04-12,0,3,1,0,0
+10,redhat-workshop-deployment-strategies,2024-04-12,2,1,1,0,0
