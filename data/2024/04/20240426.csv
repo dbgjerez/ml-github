@@ -1,0 +1,8 @@
+,name,ts,stars_count,views_total,views_uniques,clones_total,clones_uniques
+0,rhbk-workshop,2024-04-26,1,2,1,1,1
+1,golang-azure-eventhub-kafka,2024-04-26,0,0,0,1,1
+2,helm-spring-boot-chart,2024-04-26,1,12,1,0,0
+3,kotlin-ktor,2024-04-26,7,1,1,0,0
+4,mqtt-golang-influxdb,2024-04-26,17,1,1,0,0
+5,quarkus-kotlin-example,2024-04-26,2,30,1,0,0
+6,workshop-cdc,2024-04-26,4,1,1,0,0

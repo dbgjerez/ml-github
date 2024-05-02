@@ -1,0 +1,10 @@
+,name,ts,stars_count,views_total,views_uniques,clones_total,clones_uniques
+0,golang-rest-api-cassandra,2024-04-18,2,6,1,0,0
+1,iot-air-quality,2024-04-18,1,0,0,1,1
+2,istio-wasm-filter-golang,2024-04-18,1,8,2,0,0
+3,kustomize-vs-helm,2024-04-18,4,2,1,0,0
+4,mqtt-golang-influxdb,2024-04-18,17,1,1,0,0
+5,ocp-monitoring-golang,2024-04-18,1,0,0,1,1
+6,quarkus-kotlin-example,2024-04-18,2,3,1,0,0
+7,spring-cloud-eureka,2024-04-18,0,0,0,1,1
+8,uca-workshop-docker,2024-04-18,0,0,0,1,1
