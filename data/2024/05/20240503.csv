@@ -1,0 +1,7 @@
+,name,ts,stars_count,views_total,views_uniques,clones_total,clones_uniques
+0,rhbk-workshop,2024-05-03,1,2,1,1,1
+1,golang-gin-gonic,2024-05-03,0,0,0,1,1
+2,istio-wasm-filter-golang,2024-05-03,1,1,1,0,0
+3,kotlin-ktor,2024-05-03,7,46,3,0,0
+4,mqtt-golang-influxdb,2024-05-03,17,1,1,0,0
+5,spring-kotlin-crud,2024-05-03,7,0,0,1,1
