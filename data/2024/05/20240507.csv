@@ -1,0 +1,9 @@
+,name,ts,stars_count,views_total,views_uniques,clones_total,clones_uniques
+0,rhbk-workshop,2024-05-07,1,5,1,0,0
+1,iot-devices-crud,2024-05-07,0,1,1,0,0
+2,ml-github,2024-05-07,1,0,0,2,2
+3,mqtt-golang-influxdb,2024-05-07,17,1,1,0,0
+4,service-mesh-wasm-go,2024-05-07,0,0,0,1,1
+5,workshop-amq-streams,2024-05-07,1,33,1,0,0
+6,workshop-golang-grpc,2024-05-07,0,0,0,1,1
+7,ProyectoEncuesta,2024-05-07,0,0,0,1,1
